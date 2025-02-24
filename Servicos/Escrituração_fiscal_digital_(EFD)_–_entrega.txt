@@ -1,0 +1,115 @@
+Escrituração fiscal digital (EFD) – entrega
+O que é este serviço?
+Enviar o arquivo digital da EFD, sendo que o mesmo será gerado pelo contribuinte de acordo com as especificações do leiaute definido em Ato COTEPE e conterá a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia, inclusive, do mês civil Enviar o arquivo digital da EFD, sendo que o mesmo será gerado pelo contribuinte de acordo com as especificações do leiaute definido em Ato COTEPE e conterá a totalidade das informações econômico-fiscais e contábeis correspondentes ao período compreendido entre o primeiro e o último dia, inclusive, do mês civil
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+1. Não há necessidade de apresentação de documentos, somente o arquivo digital.
+B) Ser cadastrado no e-Fazenda;
+C) Adquirir certificado digital do tipo Pessoa Jurídica (e-PJ ou e-CNPJ) ou Pessoa Física (e-CPF);
+D) Adequar o sistema de informação para a geração da EFD ou adquirir uma solução existente no mercado;
+E) Todos os contribuintes do ICMS do Estado de Mato Grosso do Sul estão obrigados a utilizar a Escrituração Fiscal Digital (EFD), inclusive:
+
+As microempresas (ME) e as empresas de pequeno porte (EPP) mencionadas no Anexo Único a Resolução /SEFAZ nº 2.510/2013; 
+As microempresas (ME) e as empresas de pequeno porte (EPP), quando, nos termos da Lei Complementar nº 123, de 14/12/2006, estiverem impedidas de recolher o ICMS na forma do Simples Nacional; 
+O produtor rural inscrito no Cadastro da Agropecuária que seja detentor de regime especial para a emissão de Nota Fiscal modelo 1 e a escrituração de livros fiscais em papel; 
+O produtor rural, inscrito no Cadastro da Agropecuária do Estado de Mato Grosso do Sul (CAP) e no Cadastro Nacional de Pessoas Jurídicas (CNPJ), credenciado para a emissão de Nota Fiscal Eletrônica (NF-e), no ambiente de produção, na condição de habilitado; 
+
+OBSERVAÇÃO: a extinção, por qualquer motivo, do regime especial ou a interrupção da emissão da Nota Fiscal Eletrônica não desobriga o produtor rural da utilização da EFD.
+
+O posto revendedor de combustíveis, ainda que enquadrado como microempresa (ME) ou empresa de pequeno porte (EPP), optante ou não pelo Simples Nacional;
+As pessoas que, embora não se qualifiquem como contribuinte do ICMS, estejam obrigadas à EFD;
+
+F) Enviar o arquivo digital da EFD até o dia vinte do mês seguinte ao de referência, sendo que após este prazo será gerada a multa por entrega fora do prazo no valor 100 Uferms, reduzida para 30 Uferms, por arquivo;
+G) Utilizar a Escrituração Fiscal Digital (EFD) para efetuar a escrituração dos seguintes livros e documentos fiscais: 
+
+Livro de Registro de Entrada; 
+Livro de Registro de Saída; 
+Livro de Registro de Apuração do ICMS;
+Livro de Registro de Apuração do IPI;
+Livro de Registro de Inventário; 
+Documento Controle de Crédito de ICMS do Ativo Permanente (CIAP);
+Livro de Registro de Controle da Produção e do Estoque. 
+
+H) Informar no arquivo digital qualquer situação de exceção na tributação do ICMS ou IPI, tais como isenção, imunidade, não-incidência, diferimento ou suspensão do recolhimento, indicando-se o respectivo dispositivo legal.
+OBSERVAÇÕES:
+
+Quando se tratar de contribuintes não obrigados à EFD, solicitar o credenciamento voluntário pelo Fale Conosco da EFD, disponível no endereço: http://www.faleconosco.ms.gov.br/faleconosco/login/login.jsf;
+A recepção do arquivo digital da EFD não implicará o reconhecimento da veracidade e legitimidade das informações prestadas, nem a homologação da apuração do imposto efetuada pelo contribuinte, estando sujeito à auditoria posterior;
+No caso de fusão, incorporação ou cisão, a obrigatoriedade se estende à empresa incorporada, cindida ou resultante da cisão ou fusão;
+O contribuinte inscrito no Cadastro de Contribuintes Estaduais (CCE) que não esteja obrigado à EFD poderá optar por utilizá-la;
+Uma vez iniciada a utilização da EFD, em decorrência de exigência regulamentar ou por opção, a obrigatoriedade do sujeito passivo pelo seu uso permanece pelo tempo em que exercer atividade sujeita a registros fiscais e a prestação de informações econômico-fiscais, nos termos da legislação relativa ao ICMS, ainda que, por qualquer circunstância, venha a ser enquadrado em regime tributário ou em situação fiscal distintos daquele em que se deu a exigência ou a opção;
+O contribuinte que possuir mais de um estabelecimento, seja filial, sucursal, agência, depósito, fábrica ou qualquer outro, deverá prestar as informações relativas à EFD em arquivo digital individualizado por estabelecimento, ainda que a apuração dos impostos ou a escrituração contábil seja efetuada de forma centralizada.
+Considera-se totalidade das informações: i) as relativas às entradas e saídas de mercadorias, bem como aos serviços prestados e tomados, incluindo a descrição dos itens de mercadorias, produtos e serviços; ii) as relativas à quantidade, descrição e valores de mercadorias, matérias-primas, produtos intermediários, materiais de embalagem, produtos manufaturados e produtos em fabricação, em posse ou pertencentes ao estabelecimento do contribuinte declarante, ou fora do estabelecimento e em poder de terceiro; iii) qualquer informação que repercuta no inventário físico e contábil, na apuração, no pagamento ou na cobrança de tributo ou em outras de interesse da Secretaria de Estado de Fazenda;
+A escrituração do Livro de Registro de Controle da Produção e do Estoque será obrigatória na EFD a partir de:
+
+I - para os estabelecimentos industriais pertencentes a empresa com faturamento anual igual ou superior a R$300.000.000,00:
+a) 1º de janeiro de 2017, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os estabelecimentos industriais classificados nas divisões 10 a 32 da Classificação Nacional de Atividades Econômicas (CNAE);
+b) 1º de janeiro de 2019, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 11, 12 e nos grupos 291, 292 e 293 da CNAE;
+c) 1º de janeiro de 2020, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 27 e 30 da CNAE;
+d) 1º de janeiro de 2023, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados na divisão 23 e nos grupos 294 e 295 da CNAE;
+e) de 1º de janeiro de 2024, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 13, 14, 15, 16, 17, 18, 22, 26, 28, 31 e 32 da CNAE;
+f) de 1º de janeiro de 2025, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 10, 19, 20, 21, 24 e 25 da CNAE;
+II - 1º de janeiro de 2018, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os estabelecimentos industriais classificados nas divisões 10 a 32 da CNAE pertencentes a empresa com faturamento anual igual ou superior a R$78.000.000,00, com escrituração completa conforme escalonamento a ser definido;
+III - 1º de janeiro de 2019, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os demais estabelecimentos industriais classificados nas divisões 10 a 32; os estabelecimentos atacadistas classificados nos grupos 462 a 469 da CNAE e os estabelecimentos equiparados a industrial, com escrituração completa conforme escalonamento a ser definido.
+
+Mais informações sobre a EDF podem ser obtidas acessando o endereço http://www.efd.ms.gov.br/. A) Documentos necessários: 1. Não há necessidade de apresentação de documentos, somente o arquivo digital. B) Ser cadastrado no e-Fazenda; C) Adquirir certificado digital do tipo Pessoa Jurídica (e-PJ ou e-CNPJ) ou Pessoa Física (e-CPF); D) Adequar o sistema de informação para a geração da EFD ou adquirir uma solução existente no mercado; E) Todos os contribuintes do ICMS do Estado de Mato Grosso do Sul estão obrigados a utilizar a Escrituração Fiscal Digital (EFD), inclusive: OBSERVAÇÃO: a extinção, por qualquer motivo, do regime especial ou a interrupção da emissão da Nota Fiscal Eletrônica não desobriga o produtor rural da utilização da EFD. F) Enviar o arquivo digital da EFD até o dia vinte do mês seguinte ao de referência, sendo que após este prazo será gerada a multa por entrega fora do prazo no valor 100 Uferms, reduzida para 30 Uferms, por arquivo; G) Utilizar a Escrituração Fiscal Digital (EFD) para efetuar a escrituração dos seguintes livros e documentos fiscais: H) Informar no arquivo digital qualquer situação de exceção na tributação do ICMS ou IPI, tais como isenção, imunidade, não-incidência, diferimento ou suspensão do recolhimento, indicando-se o respectivo dispositivo legal. OBSERVAÇÕES: I - para os estabelecimentos industriais pertencentes a empresa com faturamento anual igual ou superior a R$300.000.000,00: a) 1º de janeiro de 2017, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os estabelecimentos industriais classificados nas divisões 10 a 32 da Classificação Nacional de Atividades Econômicas (CNAE); b) 1º de janeiro de 2019, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 11, 12 e nos grupos 291, 292 e 293 da CNAE; c) 1º de janeiro de 2020, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 27 e 30 da CNAE; d) 1º de janeiro de 2023, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados na divisão 23 e nos grupos 294 e 295 da CNAE; e) de 1º de janeiro de 2024, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 13, 14, 15, 16, 17, 18, 22, 26, 28, 31 e 32 da CNAE; f) de 1º de janeiro de 2025, correspondente à escrituração completa do Bloco K, para os estabelecimentos industriais classificados nas divisões 10, 19, 20, 21, 24 e 25 da CNAE; II - 1º de janeiro de 2018, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os estabelecimentos industriais classificados nas divisões 10 a 32 da CNAE pertencentes a empresa com faturamento anual igual ou superior a R$78.000.000,00, com escrituração completa conforme escalonamento a ser definido; III - 1º de janeiro de 2019, restrita à informação dos saldos de estoques escriturados nos Registros K200 e K280, para os demais estabelecimentos industriais classificados nas divisões 10 a 32; os estabelecimentos atacadistas classificados nos grupos 462 a 469 da CNAE e os estabelecimentos equiparados a industrial, com escrituração completa conforme escalonamento a ser definido.
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS
+Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo ou trinta Uferms, conforme o caso
+
+Etapas
+Etapas Fazer o download do PVA-EFD (Programa de Validação e Assinatura), uma ferramenta desenvolvida pelo SERPRO para sistemas Windows ou Linux, o qual é responsável pela importação/digitação da EFD, validação, assinatura, transmissão, visualização e impressão do arquivo da EFD. Fazer o download do PVA-EFD (Programa de Validação e Assinatura), uma ferramenta desenvolvida pelo SERPRO para sistemas Windows ou Linux, o qual é responsável pela importação/digitação da EFD, validação, assinatura, transmissão, visualização e impressão do arquivo da EFD. Acessar o serviço eletronicamente, através do programa PVA-EFD (Programa de Validação e Assinatura), disponível para download no endereço http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/sped-sistema-publico-de-escrituracao-digital/escrituracao-fiscal-digital-efd/escrituracao-fiscal-digital-efd. Acessar o serviço eletronicamente, através do programa PVA-EFD (Programa de Validação e Assinatura), disponível para download no endereço http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/sped-sistema-publico-de-escrituracao-digital/escrituracao-fiscal-digital-efd/escrituracao-fiscal-digital-efd.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Imediato
+ 
+Quais os custos?
+Sem custo, na hipótese de entrega do arquivo dentro do prazo regulamentar 
+ 
+Custo da Multa
+100 Uferms, reduzida para 30 Uferms, por arquivo, na hipótese de entrega fora do prazo regulamentar, conforme artigo 117, inciso VII da Lei nº 1.810/1997
+ 
+OUTRAS INFORMAÇÕES
+Canais de acesso a este serviço
+
+Eletronicamente, através do programa PVA-EFD (Programa de Validação e Assinatura), disponível para download no endereço http://idg.receita.fazenda.gov.br/orientacao/tributaria/declaracoes-e-demonstrativos/sped-sistema-publico-de-escrituracao-digital/escrituracao-fiscal-digital-efd/escrituracao-fiscal-digital-efd
+
+ 
+Canais de comunicação ao usuário
+Sistema EFD
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Convênio ICMS nº 143, de 15/12/2006
+Resolução /SEFAZ nº 2.510, de 18/11/2013
+Subanexo 14 ao Anexo 015 ao Regulamento do ICMS - RICMS
+
+ 
+Unidade responsável pela atualização das informações
+Unidade de Gestão de Documentos Fiscais Eletrônicos - UGDFE
+ 
+Unidade responsável pela recepção do pedido
+On-line
+ 
+Unidade responsável pela prestação do serviço
+Autoatendimento
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Vicente da Fonseca Bezerra Júnior
+Telefone: 3318-3595 Quanto tempo leva (prazo máximo para atendimento)? Imediato Quais os custos? Sem custo, na hipótese de entrega do arquivo dentro do prazo regulamentar Custo da Multa 100 Uferms, reduzida para 30 Uferms, por arquivo, na hipótese de entrega fora do prazo regulamentar, conforme artigo 117, inciso VII da Lei nº 1.810/1997 OUTRAS INFORMAÇÕES Canais de acesso a este serviço Canais de comunicação ao usuário Sistema EFD Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Unidade de Gestão de Documentos Fiscais Eletrônicos - UGDFE Unidade responsável pela recepção do pedido On-line Unidade responsável pela prestação do serviço Autoatendimento Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Vicente da Fonseca Bezerra Júnior Telefone: 3318-3595
+

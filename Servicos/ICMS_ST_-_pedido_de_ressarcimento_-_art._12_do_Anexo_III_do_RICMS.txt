@@ -1,0 +1,69 @@
+ICMS ST - pedido de ressarcimento - art. 12 do Anexo III do RICMS
+O que é este serviço?
+Solicitar Ressarcimento de ICMS ST, nos termos do art. 12 do Anexo III ao RICMS, quando o contribuinte:
+
+utilizar mercadorias adquiridas com imposto retido ou pago antecipadamente por ST em processo de industrialização de que resultem produtos cuja saída esteja tributada;
+realizar operações interestaduais tributadas com mercadorias adquiridas com imposto retido ou pago antecipadamente por ST;
+realizar a baixa do estoque das mercadorias adquiridas com imposto retido ou pago antecipadamente por ST, nos casos em que não ocorrer o fato gerador presumido em decorrência de perecimento, deterioração, extravio, furto, roubo ou sinistro;
+realizar operação subsequente com isenção ou não incidência do imposto, com mercadorias adquiridas com imposto retido ou pago antecipadamente por ST.
+
+OBS.: nesse serviço não poderá ser incluída a hipótese de ressarcimento descrita no art. 1º do Subanexo II do Anexo III do RICMS, que se refere à diferença entre a base de cálculo presumida e a base de cálculo efetiva. Nesse caso, deverá ser utilizado o serviço no e-SAP “ICMS ST – pedido de ressarcimento – Subanexo II ao Anexo III do RICMS”. Solicitar Ressarcimento de ICMS ST, nos termos do art. 12 do Anexo III ao RICMS, quando o contribuinte: OBS.: nesse serviço não poderá ser incluída a hipótese de ressarcimento descrita no art. 1º do Subanexo II do Anexo III do RICMS, que se refere à diferença entre a base de cálculo presumida e a base de cálculo efetiva. Nesse caso, deverá ser utilizado o serviço no e-SAP “ICMS ST – pedido de ressarcimento – Subanexo II ao Anexo III do RICMS”.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Notas Fiscais emitidas para baixa de estoque: somente quando o pedido de ressarcimento incluir a modalidade “operação subsequente não realizada por perecimento, deterioração, extravio, furto, roubo ou sinistro”, prevista no art. 12, §1º, II do Anexo III do RICMS;
+Notas Fiscais emitidas para saída interestadual: somente quando o pedido de ressarcimento incluir a modalidade “operação subsequente de saída interestadual”, prevista no art. 12, §1º, I, “b” do Anexo III do RICMS;
+Notas Fiscais emitidas com isenção ou não incidência do imposto: somente quando o pedido de ressarcimento incluir a modalidade “operação subsequente com isenção ou não incidência do imposto”, consubstanciada no art. 12 do Anexo III, §1º, III do RICMS.
+DAEMS referente à taxa do valor do serviço.
+
+OBSERVAÇÃO 1:
+Visando a celeridade nas análises dos pedidos de ressarcimento, períodos contíguos deverão ser agrupados num único arquivo digital e o respectivo pedido feito através de um único processo.
+OBSERVAÇÃO 2: 
+Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de documentos comprobatórios, conforme o caso.
+B) Contribuinte sem pendência fiscal. A) Documentos necessários: OBSERVAÇÃO 1: Visando a celeridade nas análises dos pedidos de ressarcimento, períodos contíguos deverão ser agrupados num único arquivo digital e o respectivo pedido feito através de um único processo. OBSERVAÇÃO 2: Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de documentos comprobatórios, conforme o caso. B) Contribuinte sem pendência fiscal.
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica, inscrita no Cadastro de Comércio, Indústria e Serviços (CCIS) do Estado de MS. Pessoa Jurídica, inscrita no Cadastro de Comércio, Indústria e Serviços (CCIS) do Estado de MS.
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Uma Uferms
+
+Etapas
+Etapas Solicitar eletronicamente o serviço “ICMS ST - Pedido de Ressarcimento - art. 12 do Anexo III do RICMS”, mediante acesso restrito ao e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar eletronicamente o serviço “ICMS ST - Pedido de Ressarcimento - art. 12 do Anexo III do RICMS”, mediante acesso restrito ao e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Preencher os dados solicitados nas telas do serviço. Preencher os dados solicitados nas telas do serviço. Salvar a solicitação criada. Salvar a solicitação criada. Emitir/pagar ou vincular o DAEMS referente à taxa do valor do serviço (1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais). Emitir/pagar ou vincular o DAEMS referente à taxa do valor do serviço (1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais). Realizar o carregamento (upload) dos arquivos comprobatórios das hipóteses de ressarcimento requeridas para encaminhamento da solicitação à Coordenadoria que analisará a requisição. Realizar o carregamento (upload) dos arquivos comprobatórios das hipóteses de ressarcimento requeridas para encaminhamento da solicitação à Coordenadoria que analisará a requisição. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/.
+ 
+Legislação
+Artigo 12, do Anexo III ao RICMS
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Tecnologia da Informação - COTIN
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+O pedido será direcionado para atendimento pela Coordenadoria à qual o contribuinte estiver vinculado no cadastro.
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Márcio Valério Verbisck 
+Telefone: 3318-3595 Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/. Legislação Artigo 12, do Anexo III ao RICMS Unidade responsável pela atualização das informações Coordenadoria de Tecnologia da Informação - COTIN Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço O pedido será direcionado para atendimento pela Coordenadoria à qual o contribuinte estiver vinculado no cadastro. Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Márcio Valério Verbisck Telefone: 3318-3595
+

@@ -1,0 +1,90 @@
+Nota fiscal de produtor eletrônica (NFP-e) / Nota fiscal avulsa eletrônica (NFA-e) - emissão de carta de correção eletrônica (CC-e)
+O que é este serviço?
+Emissão de Carta de Correção eletrônica para Notas emitidas no sistema da SEFAZ-MS (NFP-e/NFA-e).
+OBSERVAÇÕES:
+Após a emissão de uma Nota Fiscal de Produtor eletrônica (NFP-e) ou uma Nota Fiscal Avulsa eletrônica (NFA-e), o remetente pode desejar incluir alguma informação ou mesmo corrigir (desde que permitido pela legislação). Emissão de Carta de Correção eletrônica para Notas emitidas no sistema da SEFAZ-MS (NFP-e/NFA-e). OBSERVAÇÕES: Após a emissão de uma Nota Fiscal de Produtor eletrônica (NFP-e) ou uma Nota Fiscal Avulsa eletrônica (NFA-e), o remetente pode desejar incluir alguma informação ou mesmo corrigir (desde que permitido pela legislação).
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Na hipótese de solicitação direta no e-Fazenda (Sistema e-SAP):
+
+
+ Usuário, código de acesso e senha de acesso ao Portal;
+ Requerimento contendo os dados necessários à emissão da CC-e (texto que deverá constar na Carta de Correção emitida);
+
+
+Na hipótese de solicitação na Agência Fazendária:
+
+
+Quando o solicitante for o contribuinte ou representante legal (pais, tutores, curadores, inventariante, etc.):
+
+
+Documento oficial com foto;
+Acesso ao e-Fazenda;
+Requerimento contendo os dados necessários à emissão da CC-e (texto que deverá constar na Carta de Correção emitida);
+Termo de Inventariante, quando se tratar de espólio (e autorização judicial, se for o caso);
+Documento que comprove a representação legal, quando se tratar de emissão solicitada pelo pai/mãe, tutor, curador, etc. 
+
+
+Quando o solicitante for o procurador:
+
+
+Procuração por instrumento público ou particular, com firma reconhecida e que contenha a especificação dos poderes, tais como: cadastro e acesso à conta no e-Fazenda, solicitação e emissão de documentos fiscais;
+Documento oficial com foto;
+Acesso ao e-Fazenda;
+Requerimento contendo os dados necessários à emissão da CC-e (texto que deverá constar na Carta de Correção emitida).
+
+B) A utilização de carta de correção, para regularização de erro ocorrido na emissão de documento fiscal, é permitida, desde que o erro não esteja relacionado com:
+
+as variáveis que determinam o valor do imposto tais como: base de cálculo, alíquota, diferença de preço, quantidade, valor da operação ou da prestação;
+a correção de dados cadastrais que implique mudança do remetente ou do destinatário;
+a data de emissão ou de saída. A) Documentos necessários: B) A utilização de carta de correção, para regularização de erro ocorrido na emissão de documento fiscal, é permitida, desde que o erro não esteja relacionado com:
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS
+Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS 
+Usuário/Cidadão => Pessoa Física ou Jurídica sem Inscrição Estadual / Órgão Governamental Pessoa Física ou Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS Usuário/Cidadão => Pessoa Física ou Jurídica sem Inscrição Estadual / Órgão Governamental
+
+Prazos
+5 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas a) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP); ou
+b) Pessoalmente ou através do seu representante legal na Agência Fazendária. a) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP); ou b) Pessoalmente ou através do seu representante legal na Agência Fazendária. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Canais de acesso a este serviço
+
+Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP); ou
+Pessoalmente ou através do seu representante legal na Agência Fazendária. 
+
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 2°-A do Anexo XV ao RICMS.
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária – COFAPEC
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária 
+ 
+Unidade responsável pela prestação do serviço
+Agência Fazendária 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Ewerton Cruz Cordeiros 
+Telefone: 3318-3152 Canais de acesso a este serviço Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 2°-A do Anexo XV ao RICMS. Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária – COFAPEC Unidade responsável pela recepção do pedido Agência Fazendária Unidade responsável pela prestação do serviço Agência Fazendária Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Ewerton Cruz Cordeiros Telefone: 3318-3152
+

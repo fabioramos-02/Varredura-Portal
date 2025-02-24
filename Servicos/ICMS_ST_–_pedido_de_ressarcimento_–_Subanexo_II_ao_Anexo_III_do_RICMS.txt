@@ -1,0 +1,62 @@
+ICMS ST – pedido de ressarcimento – Subanexo II ao Anexo III do RICMS
+O que é este serviço?
+Solicitar Ressarcimento do ICMS relativo a operações subsequentes, retido ou pago por antecipação pelo regime de substituição tributária, nas hipóteses em que a base de cálculo efetiva da operação interna a consumidor final seja inferior à base de cálculo presumida, podendo ainda serem incluídas ou não operações relativas às demais hipóteses previstas na legislação, nos termos do art. 1º c/c art. 23 do Subanexo II e do artigo 12, ambos do Anexo III ao RICMS, na forma disciplinada no Manual do Ressarcimento do ICMS ST, disponível no link https://www.substituicaotributaria.ms.gov.br/download-2/. Solicitar Ressarcimento do ICMS relativo a operações subsequentes, retido ou pago por antecipação pelo regime de substituição tributária, nas hipóteses em que a base de cálculo efetiva da operação interna a consumidor final seja inferior à base de cálculo presumida, podendo ainda serem incluídas ou não operações relativas às demais hipóteses previstas na legislação, nos termos do art. 1º c/c art. 23 do Subanexo II e do artigo 12, ambos do Anexo III ao RICMS, na forma disciplinada no Manual do Ressarcimento do ICMS ST, disponível no link https://www.substituicaotributaria.ms.gov.br/download-2/.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Formulários disciplinados no Subanexo II ao Anexo III do RICMS prevista no art. 1º do Subanexo II ao Anexo III do RICMS (em formato digital, extensão ‘TXT’);
+DAEMS referente à taxa do valor do serviço.
+
+OBSERVAÇÃO 1:
+Visando a celeridade nas análises dos pedidos de ressarcimento, períodos contíguos deverão ser agrupados num único arquivo digital e o respectivo pedido feito através de um único processo digital.
+OBSERVAÇÃO 2: 
+Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de outros documentos comprobatórios, conforme o caso. A) Documentos necessários: OBSERVAÇÃO 1: Visando a celeridade nas análises dos pedidos de ressarcimento, períodos contíguos deverão ser agrupados num único arquivo digital e o respectivo pedido feito através de um único processo digital. OBSERVAÇÃO 2: Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de outros documentos comprobatórios, conforme o caso.
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica, inscrita no Cadastro de Comércio, Indústria e Serviços (CCIS) do Estado de MS. Pessoa Jurídica, inscrita no Cadastro de Comércio, Indústria e Serviços (CCIS) do Estado de MS.
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Uma Uferms
+
+Etapas
+Etapas Solicitar eletronicamente o serviço “ICMS ST – Pedido de Ressarcimento – Subanexo II ao Anexo III do RICMS”, mediante acesso restrito ao e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar eletronicamente o serviço “ICMS ST – Pedido de Ressarcimento – Subanexo II ao Anexo III do RICMS”, mediante acesso restrito ao e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Preencher os dados solicitados nas telas do serviço. Preencher os dados solicitados nas telas do serviço. Salvar a solicitação criada. Salvar a solicitação criada. Emitir/pagar ou vincular o DAEMS referente à taxa do valor do serviço (1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais). Emitir/pagar ou vincular o DAEMS referente à taxa do valor do serviço (1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais). Realizar o carregamento (upload) do arquivo em extensão “TXT” contendo os Formulários disciplinados no Subanexo II ao Anexo III do RICMS prevista no art. 1º do Subanexo II ao Anexo III do RICMS para processamento automático. Em caso de erro de leiaute, o código de erro será informado imediatamente ao contribuinte para correção e reenvio do arquivo. Realizar o carregamento (upload) do arquivo em extensão “TXT” contendo os Formulários disciplinados no Subanexo II ao Anexo III do RICMS prevista no art. 1º do Subanexo II ao Anexo III do RICMS para processamento automático. Em caso de erro de leiaute, o código de erro será informado imediatamente ao contribuinte para correção e reenvio do arquivo. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/.
+ 
+Legislação
+
+Artigo 12, do Anexo III ao RICMS
+Subanexo II ao Anexo III do RICMS
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Tecnologia da Informação - COTIN
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Primeiramente o processo será encaminhado à COTIN, para processamento do arquivo digital, e depois para a COFICS, para análise e parecer
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Márcio Valério Verbisck 
+Telefone: 3318-3595 Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/. Legislação Unidade responsável pela atualização das informações Coordenadoria de Tecnologia da Informação - COTIN Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Primeiramente o processo será encaminhado à COTIN, para processamento do arquivo digital, e depois para a COFICS, para análise e parecer Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Márcio Valério Verbisck Telefone: 3318-3595
+

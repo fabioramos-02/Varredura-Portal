@@ -1,0 +1,72 @@
+IPVA – alegação/comunicação de venda de veículo
+O que é este serviço?
+Use este serviço para transferir a responsabilidade do pagamento do IPVA para o comprador, quando você vende um veículo. Use este serviço para transferir a responsabilidade do pagamento do IPVA para o comprador, quando você vende um veículo.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento, o qual deve ser preenchido no campo denominado “Requerimento”, dentro do Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, contendo as seguintes informações: 
+
+
+Identificação do requerente, CPF, endereço, telefone e e-mail; 
+Solicitação da transferência dos débitos ou outro pedido;
+Dados do(s) veículo(s) (placa e Renavam) objeto do pedido;
+
+
+Certificado de Registro e Licenciamento do veículo (CRLV), podendo ser enviada a sua versão eletrônica (CRLV-e);
+Alegação / Comunicação de Venda emitida pelo Detran (Departamento Estadual de Trânsito do Mato Grosso do Sul), pelo Cartório ou outro órgão competente;
+Procuração, quando o requerimento for gerado por procurador;
+
+B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/ );
+C) Pagar a Taxa de Serviços Estaduais. A) Documentos necessários: B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/ ); C) Pagar a Taxa de Serviços Estaduais.
+
+Quem pode utilizar este serviço?
+Pessoas Físicas e Jurídicas. Pessoas Físicas e Jurídicas.
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Uma Uferms
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – alegação/comunicação de venda de veículo. Preencher os dados solicitados e anexar os documentos necessários. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – alegação/comunicação de venda de veículo. Preencher os dados solicitados e anexar os documentos necessários. Gerar no próprio sistema (e-SAP) a taxa de serviços estaduais no valor de 1 (uma) Uferms e realizar o pagamento de acordo com as opções disponibilizadas ou indicar o número do documento de arrecadação, se já possuir DAEMS pago. Gerar no próprio sistema (e-SAP) a taxa de serviços estaduais no valor de 1 (uma) Uferms e realizar o pagamento de acordo com as opções disponibilizadas ou indicar o número do documento de arrecadação, se já possuir DAEMS pago. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+No próprio sistema e-SAP, clicando no botão “Ver Solicitações” (a situação estará na coluna “Status”), ou 
+No módulo “Minhas Mensagens”, onde você receberá mensagens referentes ao andamento da solicitação. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Até 90 dias
+ 
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) 
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 160, II, “b” da Lei Estadual nº 1.810, de 22/12/1997
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do IPVA – UFIPVA
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do IPVA – UFIPVA 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+André Eiji Miyahara Lara 
+Telefone: 3316-7515 Quanto tempo leva (prazo máximo para atendimento)? Até 90 dias Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 160, II, “b” da Lei Estadual nº 1.810, de 22/12/1997 Unidade responsável pela atualização das informações Unidade de Fiscalização do IPVA – UFIPVA Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do IPVA – UFIPVA Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: André Eiji Miyahara Lara Telefone: 3316-7515
+

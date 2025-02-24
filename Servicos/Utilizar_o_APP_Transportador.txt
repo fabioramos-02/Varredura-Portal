@@ -1,0 +1,46 @@
+Utilizar o APP Transportador
+O que é este serviço?
+Registro das informações detalhadas sobre o transporte / trânsito de animais. Registro das informações detalhadas sobre o transporte / trânsito de animais.
+
+Exigências para realizar o serviço
+Ter cadastro do motorista e veículo no site da Iagro. Caso não possua, verificar aqui.
+Ter o APP Transportador baixado e com primeiro login realizado. Caso não tenha feito, verificar aqui. 
+Ter a GTA emitida e impressa. Ter cadastro do motorista e veículo no site da Iagro. Caso não possua, verificar aqui. Ter o APP Transportador baixado e com primeiro login realizado. Caso não tenha feito, verificar aqui. Ter a GTA emitida e impressa.
+
+Quem pode utilizar este serviço?
+Qualquer pessoa física. Qualquer pessoa física.
+
+Prazos
+15 Minutos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar o aplicativo no celular.
+Inserir CPF e CNH do motorista para login, caso não tenha escolhido a opção "permanecer ativo". Acessar o aplicativo no celular. Inserir CPF e CNH do motorista para login, caso não tenha escolhido a opção "permanecer ativo". Clicar em "nova viagem"
+Próximas etapas deverá inserir informações da viagem:
+- Veículo
+- Carroceria (caso tenha)
+- Guia de Trânsito Animal Clicar em "nova viagem" Próximas etapas deverá inserir informações da viagem: - Veículo - Carroceria (caso tenha) - Guia de Trânsito Animal Para inserir veículo, deverá colocar a placa e renavam 
+Cliar em confirmar
+ 
+Para inserir o veículo, informar os dados da PLACA e RENAVAM.
+O sistema apresenta tela para CONFIRMAR ou CANCELAR Para inserir veículo, deverá colocar a placa e renavam Cliar em confirmar Para inserir o veículo, informar os dados da PLACA e RENAVAM. O sistema apresenta tela para CONFIRMAR ou CANCELAR Para inserir a carroceria, informar os dados da PLACA e RENAVAM ou selecionar carroceria desejada. 
+O sistema apresenta tela para CONFIRMAR ou CANCELAR Para inserir a carroceria, informar os dados da PLACA e RENAVAM ou selecionar carroceria desejada. O sistema apresenta tela para CONFIRMAR ou CANCELAR Permitir o APP Transportador Iagro tire fotos.
+Inserir os dados através de leitura de QRCore, código de barras ou manualmente.
+O sistema exibirá os dados para CONFIRMAR ou CANCELAR as informações.
+A GTA deverá estar ativa e Dentro do prazo de trânsito. Permitir o APP Transportador Iagro tire fotos. Inserir os dados através de leitura de QRCore, código de barras ou manualmente. O sistema exibirá os dados para CONFIRMAR ou CANCELAR as informações. A GTA deverá estar ativa e Dentro do prazo de trânsito. Clicar em iniciar viagem, verificar os dados exibidos.
+Clicar em confirmar ou cancelar. 
+No caso de transporte de equideos, o sistema trará a opção de "baixar todos os documentos". Clicar em iniciar viagem, verificar os dados exibidos. Clicar em confirmar ou cancelar. No caso de transporte de equideos, o sistema trará a opção de "baixar todos os documentos". Ao chegar no destino final, definido na GTA, clicar em "finalizar viagem"  e confirmar ou não (sim / não). 
+
+Caso clique em SIM, o sistema irá finalizar a viagem e disponibilizará em histórico de viagens do motorista 
+Caso clique em NÃO voltará para a tela da viagem iniciada
+
+Após confirmado, o usuário poderá VISUALIZAR os dados da viagem realizada. 
+Os dados da viagem são transmitidos automaticamente, desde que o usuário esteja com seu aparelho online. Ao chegar no destino final, definido na GTA, clicar em "finalizar viagem"  e confirmar ou não (sim / não). Após confirmado, o usuário poderá VISUALIZAR os dados da viagem realizada. Os dados da viagem são transmitidos automaticamente, desde que o usuário esteja com seu aparelho online.
+
+Outras informações
+Legislação 
+Portaria IAGRO nº 3730, de 19/04/2024, que Estabelece o controle efetivo do transporte de animais vivos através do “Programa de Certificação Sanitária do Transporte de Cargas Vivas” no Estado de Mato Grosso do Sul e dá outras providências. Legislação Portaria IAGRO nº 3730, de 19/04/2024, que Estabelece o controle efetivo do transporte de animais vivos através do “Programa de Certificação Sanitária do Transporte de Cargas Vivas” no Estado de Mato Grosso do Sul e dá outras providências.
+

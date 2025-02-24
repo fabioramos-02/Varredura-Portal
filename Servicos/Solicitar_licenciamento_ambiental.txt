@@ -1,0 +1,112 @@
+Solicitar licenciamento ambiental
+O que é este serviço?
+O Licenciamento Ambiental é um instrumento que autoriza pessoas física ou jurídica a desenvolver implantar e operar empreendimentos ou atividades no âmbito do estado de Mato Grosso do Sul. O Licenciamento Ambiental é um instrumento que autoriza pessoas física ou jurídica a desenvolver implantar e operar empreendimentos ou atividades no âmbito do estado de Mato Grosso do Sul.
+
+Exigências para realizar o serviço
+Conforme o Manual de Licenciamento Ambiental SEMADE n.09/2015, dependendo da fase do Licenciamento Ambiental ou de Autorização Ambiental existe um rol de documentos a serem apresentados, abaixo exemplificaremos a documentação para obtenção da Licença Prévia (LP):
+I – Requerimento padrão (pegar no site do IMASUL) devidamente preenchido e assinado pelo empreendedor ou seu representante legal, conforme formulário/modelo fornecido pelo IMASUL, ou a folha de rosto do Pré-processo (SIRIEMA), conforme couber;
+II – Cópia do CPF e RG do requerente, se pessoa física ou do signatário do requerimento se pessoa jurídica;
+III – Cópia do Contrato Social registrado, CNPJ/MF e Inscrição Estadual, quando se tratar de Sociedade por Cotas de Responsabilidade Ltda, e Ata de Eleição da atual diretoria quando se tratar de sociedade anônima;
+IV – Cópia do ato de nomeação do representante constante do requerimento, quando o requerente for órgão público;
+V – Cópia do instrumento de procuração (vigente), quando for o caso;
+VI – Cópia da matricula do imóvel acompanhada, quando for o caso, do respectivo contrato ou termo de anuência no arrendamento, cessão e/ou aluguel de área;
+VII – Croqui pormenorizado de acesso à propriedade e à área da atividade. Quando referente a área rural o croqui deverá conter indicação das coordenadas geográficas (Datun SIRGAS 2000) da entrada principal da propriedade e da sede da mesma;
+VIII – Certidão da Prefeitura Municipal, declarando que o local e o tipo de atividade está em conformidade com a legislação aplicável ao uso e ocupação do solo (somente para atividades em área urbana e/ou de expansão urbana);
+IX – Relatório do SISLA (Sistema Interativo de Suporte ao Licenciamento Ambiental) conforme Art. 10 da Resolução SEMADE n.09/2015 (juntar cópia do arquivo digital “Shape File” utilizado para gerar o relatório SISLA, sendo arquivo salvo em CD);
+X – Estudo Ambiental Elementar conforme determinado nos anexos II a IX da Resolução SEMADE n.09/2015 ou Termo de Referência fornecido pelo IMASUL;
+XI – Anotação(s) de Responsabilidade Técnica – ART, pertinente aos documentos técnicos apresentados;
+XII – Comprovante do recolhimento dos custos inerentes ao licenciamento solicitado e à publicidade, conforme guias fornecidas pelo IMASUL.
+XIII – Proposta de Compensação Ambiental - CA contendo Valor de Referencia (VR) da atividade e o Grau de Impacto (GI) conforme Decreto Estadual Nº 12.909, de 29 de dezembro de 2009 no caso de atividades sujeitas a apresentação dos estudos elementares EIA/RIMA, EAP ou RAS. (somente para atividades dispensadas da fase de Licença de Instalação);
+XIV – Cópia do Cadastro de Usuário de Recurso Hídrico ou Outorga (caso couber).
+OBS.: Para as demais fases de Licenciamento Ambiental/Autorização (RLP; LI; RLI; LIO; RLIO; LO; RLO; AA; RAA), buscar a documentação o Anexo I da Resolução SEMADE n.09/2015.
+Algumas atividades isentas do Licenciamento Ambiental e pelo Manual de Licenciamento Ambiental podendo ser formalizado pelo próprio usuário, pessoa física ou jurídica uma Declaração de Isento, atráves do Serviço SIRIEMA, disponível no site do Imasulhttp://siriema.imasul.ms.gov.br/ Conforme o Manual de Licenciamento Ambiental SEMADE n.09/2015, dependendo da fase do Licenciamento Ambiental ou de Autorização Ambiental existe um rol de documentos a serem apresentados, abaixo exemplificaremos a documentação para obtenção da Licença Prévia (LP): I – Requerimento padrão (pegar no site do IMASUL) devidamente preenchido e assinado pelo empreendedor ou seu representante legal, conforme formulário/modelo fornecido pelo IMASUL, ou a folha de rosto do Pré-processo (SIRIEMA), conforme couber;
+II – Cópia do CPF e RG do requerente, se pessoa física ou do signatário do requerimento se pessoa jurídica;
+III – Cópia do Contrato Social registrado, CNPJ/MF e Inscrição Estadual, quando se tratar de Sociedade por Cotas de Responsabilidade Ltda, e Ata de Eleição da atual diretoria quando se tratar de sociedade anônima;
+IV – Cópia do ato de nomeação do representante constante do requerimento, quando o requerente for órgão público;
+V – Cópia do instrumento de procuração (vigente), quando for o caso;
+VI – Cópia da matricula do imóvel acompanhada, quando for o caso, do respectivo contrato ou termo de anuência no arrendamento, cessão e/ou aluguel de área;
+VII – Croqui pormenorizado de acesso à propriedade e à área da atividade. Quando referente a área rural o croqui deverá conter indicação das coordenadas geográficas (Datun SIRGAS 2000) da entrada principal da propriedade e da sede da mesma;
+VIII – Certidão da Prefeitura Municipal, declarando que o local e o tipo de atividade está em conformidade com a legislação aplicável ao uso e ocupação do solo (somente para atividades em área urbana e/ou de expansão urbana);
+IX – Relatório do SISLA (Sistema Interativo de Suporte ao Licenciamento Ambiental) conforme Art. 10 da Resolução SEMADE n.09/2015 (juntar cópia do arquivo digital “Shape File” utilizado para gerar o relatório SISLA, sendo arquivo salvo em CD);
+X – Estudo Ambiental Elementar conforme determinado nos anexos II a IX da Resolução SEMADE n.09/2015 ou Termo de Referência fornecido pelo IMASUL;
+XI – Anotação(s) de Responsabilidade Técnica – ART, pertinente aos documentos técnicos apresentados;
+XII – Comprovante do recolhimento dos custos inerentes ao licenciamento solicitado e à publicidade, conforme guias fornecidas pelo IMASUL.
+XIII – Proposta de Compensação Ambiental - CA contendo Valor de Referencia (VR) da atividade e o Grau de Impacto (GI) conforme Decreto Estadual Nº 12.909, de 29 de dezembro de 2009 no caso de atividades sujeitas a apresentação dos estudos elementares EIA/RIMA, EAP ou RAS. (somente para atividades dispensadas da fase de Licença de Instalação);
+XIV – Cópia do Cadastro de Usuário de Recurso Hídrico ou Outorga (caso couber). OBS.: Para as demais fases de Licenciamento Ambiental/Autorização (RLP; LI; RLI; LIO; RLIO; LO; RLO; AA; RAA), buscar a documentação o Anexo I da Resolução SEMADE n.09/2015. Algumas atividades isentas do Licenciamento Ambiental e pelo Manual de Licenciamento Ambiental podendo ser formalizado pelo próprio usuário, pessoa física ou jurídica uma Declaração de Isento, atráves do Serviço SIRIEMA, disponível no site do Imasulhttp://siriema.imasul.ms.gov.br/
+
+Quem pode utilizar este serviço?
+Pessoas físicas ou jurídicas interessadas em obter: licenças, autorizações ou declarações ambientais. Pessoas físicas ou jurídicas interessadas em obter: licenças, autorizações ou declarações ambientais.
+
+Prazos
+3 Meses.
+
+Quais os custos?
+Variável: consultar tabela
+
+Etapas
+Etapas Contactar o IMASUL para receber os documentos necessários para dar entrada em processos de Licenciamento, Autorização ou Declaração Ambiental, através do telefone: (67) 3318-6056/6020/6022/6156 ou do e-mail: atendimento@imasul.ms.gov.br. Dirija-se ao IMASUL para protocolar o requerimento da Licença, Autorização ou da Declaração Ambiental na sede em Campo Grande, em um escritório Local / Regional ou via correspondência (neste caso encaminhar duas vias de todos os documentos para receber de volta com o número do protocolo do documento).
+INSTITUTO DE MEIO AMBIENTE DE MATO GROSSO DO SUL – IMASUL
+	Fone:  (67) 3318-6056/6020/6022/6156/6000
+	Rua Des. Leão Neto do Carmo, 06 Campo Grande (MS) CEP 79037-100 Para consultar o andamento do Processo de autorização, faça uma consulta do processo no SITE.
+
+Outras informações
+Custo deste serviço:
+As taxas de custos de análise para o licenciamento Ambiental e das Autorizações Ambientais, bem como as isenções e reduções destas taxas foram estabelecidas no Decreto Estadual 11.766/2004 que estabelece os critérios para cálculo dos custos dos serviços prestados pelo Instituto, os quais deverão ser recolhidos pelo requerente. São fixadas em Unidade Fiscal Estadual de Referência de Mato Grosso do Sul – UFERMS, devendo ser convertidos em reais na
+data de emissão da guia de recolhimento.
+As guias de recolhimento são elaboradas pela Central de Atendimentos do IMASUL pessoalmente ou podem ser solicitadas através do email: atendimento@imasul.ms.gov.br (informar eventuais taxas, preços ou despesas envolvidas na prestação do serviço, bem como as hipóteses em que exista gratuidade e os procedimentos para obtê-la, quando cabível).
+Prazo deste serviço:
+Os prazos para o Licenciamento Ambiental previstos na Lei 2.257/2001 se diferem conforme o tipo de estudo exigido: PTA, RAS, EAP, RCA ou EIA/RIMA, todos conforme o Manual de Licenciamento Ambiental estabelece para cada tipo de atividade ou empreendimento, bem como se o empreendimento ou atividade esta situado na Bacia do Rio Paraguai – PAB. Também difere conforme a fase em que se encontra (Licença Prévia, Licença de Instalação, Licença de Instalação para Ampliação, Licença de Operação, Renovações de Licenças, Alteração de Titularidade, Alteração de Razão Social ou de uma Carta Consulta).
+O requerimento poderá ser vistoriado ou fiscalizado para posterior emissão de Parecer Técnico conclusivo para seu deferimento com emissão da Licença, Autorização e Declaração Ambiental; ou poderá ser indeferido – (no caso de impossibilidade legal ou de aspectos ambientais) ou arquivado (no caso se não atender as pendências técnicas ou notificações requeridas dentro do prazo pré-estabelecido).
+A contagem dos prazos previstos na Lei 2.257/2001 será suspensa para satisfação de pendências documentais, elaboração dos estudos ambientais complementares ou preparação de esclarecimentos pelo empreendedor.
+Os prazos estipulados poderão ser alterados, desde que justificados e com a concordância expressa do empreendedor e do Imasul e são contados a partir do acolhimento do requerimento das licenças ambientais.
+Sobre os custos, de acordo com o Decreto nº 11.766 de 29/12/2004: Art. 4º O empreendedor ou o requerente recolherá ao IMASUL o valor correspondente à prestação dos serviços referidos nos incisos do art. 3º deste Decreto, calculado por meio das seguintes fórmulas:
+
+I - sem consultoria externa: CT = (ST + VT + CA1) x PPD;
+
+II - com consultoria externa: CT = (ST + VT + CE + CA2) x PPD;
+
+Onde:
+CT = custo total dos serviços (UFERMS)
+ST = custo dos serviços técnicos = T1 x H x Ch
+VT = custo da vistoria técnica = (T2 x D x Cd) + (V x R x Ck)
+CA1 = custo administrativo = 10% (ST + VT)
+PPD = potencial poluidor degradador
+CE = custo da consultoria externa = Cc x H
+CA2 = custo administrativo com consultoria externa = 10% (ST+VT+CE)
+Sendo:
+T1 = número de técnicos envolvidos na análise
+H = número de horas de análise
+Ch = custo da hora de técnicos = 02 UFERMS
+T2 = número de servidores envolvidos na vistoria
+D = número de dias trabalhados na vistoria
+Cd = custo de despesas de viagem = 05 UFERMS
+V = número de veículos utilizados na vistoria
+R = número de quilômetros rodados
+Ck = custo do quilômetro rodado = 0,06 UFERMS
+Cc = custo da hora de consultoria externa = 04 UFERMS Custo deste serviço: As taxas de custos de análise para o licenciamento Ambiental e das Autorizações Ambientais, bem como as isenções e reduções destas taxas foram estabelecidas no Decreto Estadual 11.766/2004 que estabelece os critérios para cálculo dos custos dos serviços prestados pelo Instituto, os quais deverão ser recolhidos pelo requerente. São fixadas em Unidade Fiscal Estadual de Referência de Mato Grosso do Sul – UFERMS, devendo ser convertidos em reais na
+data de emissão da guia de recolhimento. As guias de recolhimento são elaboradas pela Central de Atendimentos do IMASUL pessoalmente ou podem ser solicitadas através do email: atendimento@imasul.ms.gov.br (informar eventuais taxas, preços ou despesas envolvidas na prestação do serviço, bem como as hipóteses em que exista gratuidade e os procedimentos para obtê-la, quando cabível). Prazo deste serviço: Os prazos para o Licenciamento Ambiental previstos na Lei 2.257/2001 se diferem conforme o tipo de estudo exigido: PTA, RAS, EAP, RCA ou EIA/RIMA, todos conforme o Manual de Licenciamento Ambiental estabelece para cada tipo de atividade ou empreendimento, bem como se o empreendimento ou atividade esta situado na Bacia do Rio Paraguai – PAB. Também difere conforme a fase em que se encontra (Licença Prévia, Licença de Instalação, Licença de Instalação para Ampliação, Licença de Operação, Renovações de Licenças, Alteração de Titularidade, Alteração de Razão Social ou de uma Carta Consulta). O requerimento poderá ser vistoriado ou fiscalizado para posterior emissão de Parecer Técnico conclusivo para seu deferimento com emissão da Licença, Autorização e Declaração Ambiental; ou poderá ser indeferido – (no caso de impossibilidade legal ou de aspectos ambientais) ou arquivado (no caso se não atender as pendências técnicas ou notificações requeridas dentro do prazo pré-estabelecido). A contagem dos prazos previstos na Lei 2.257/2001 será suspensa para satisfação de pendências documentais, elaboração dos estudos ambientais complementares ou preparação de esclarecimentos pelo empreendedor. Os prazos estipulados poderão ser alterados, desde que justificados e com a concordância expressa do empreendedor e do Imasul e são contados a partir do acolhimento do requerimento das licenças ambientais. Sobre os custos, de acordo com o Decreto nº 11.766 de 29/12/2004: Art. 4º O empreendedor ou o requerente recolherá ao IMASUL o valor correspondente à prestação dos serviços referidos nos incisos do art. 3º deste Decreto, calculado por meio das seguintes fórmulas:
+
+I - sem consultoria externa: CT = (ST + VT + CA1) x PPD;
+
+II - com consultoria externa: CT = (ST + VT + CE + CA2) x PPD;
+
+Onde:
+CT = custo total dos serviços (UFERMS)
+ST = custo dos serviços técnicos = T1 x H x Ch
+VT = custo da vistoria técnica = (T2 x D x Cd) + (V x R x Ck)
+CA1 = custo administrativo = 10% (ST + VT)
+PPD = potencial poluidor degradador
+CE = custo da consultoria externa = Cc x H
+CA2 = custo administrativo com consultoria externa = 10% (ST+VT+CE)
+Sendo:
+T1 = número de técnicos envolvidos na análise
+H = número de horas de análise
+Ch = custo da hora de técnicos = 02 UFERMS
+T2 = número de servidores envolvidos na vistoria
+D = número de dias trabalhados na vistoria
+Cd = custo de despesas de viagem = 05 UFERMS
+V = número de veículos utilizados na vistoria
+R = número de quilômetros rodados
+Ck = custo do quilômetro rodado = 0,06 UFERMS
+Cc = custo da hora de consultoria externa = 04 UFERMS
+

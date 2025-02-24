@@ -1,0 +1,30 @@
+Realizar consulta de processos
+O que é este serviço?
+A Consulta de processos é uma ferramenta localizada no SITE DO IMASUL, que possibilita o usuário a localizar o processo dentro do órgão. A Consulta de processos é uma ferramenta localizada no SITE DO IMASUL, que possibilita o usuário a localizar o processo dentro do órgão.
+
+Exigências para realizar o serviço
+O usuário precisa conter o número do Processo, nome completo, CPF e/ou CNPJ do interessado. O usuário precisa conter o número do Processo, nome completo, CPF e/ou CNPJ do interessado.
+
+Quem pode utilizar este serviço?
+Qualquer usuário que tenha interesse em um processo que esteja ativo no órgão. Qualquer usuário que tenha interesse em um processo que esteja ativo no órgão.
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acesse o SITE para Pesquisar os processos. Preencha o campo de pesquisa com uma das seguintes oções:
+	
+Número do processo
+Nome do interessado
+CPF do interessado
+CNPJ do interessado
+
+
+Clique em "Pesquisar". Preencha o campo conforme solicitar a imagem de CAPTCHA. Após o preenchimento dos campos, aguarde o resultado das informações do Processo.
+
+Outras informações
+
+

@@ -1,0 +1,26 @@
+Consultar produtos agrotóxicos
+O que é este serviço?
+Consulta quanto ao devido cadastramento do produto junto à  Iagro e acesso as informações técnicas (bula) para a correta utilização pelo usuário. Consulta quanto ao devido cadastramento do produto junto à  Iagro e acesso as informações técnicas (bula) para a correta utilização pelo usuário.
+
+Exigências para realizar o serviço
+Possuir a informação para a consulta, podendo ser: cultura, praga, produto ou ingrediente ativo. Possuir a informação para a consulta, podendo ser: cultura, praga, produto ou ingrediente ativo.
+
+Quem pode utilizar este serviço?
+Pessoa física ou jurídica interessada nas informação. Pessoa física ou jurídica interessada nas informação.
+
+Prazos
+5 Minutos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar a página Listagem de Agrotóxicos. Acessar a página Listagem de Agrotóxicos. A consulta poderá ser feita por cultura, praga, Mapa/Ibama, indústria, produto ou ingrediente ativo. A consulta poderá ser feita por cultura, praga, Mapa/Ibama, indústria, produto ou ingrediente ativo. Após definidos os parâmetros, clicar em pesquisar. 
+Será apresentado uma lista na tela com o número, agrotóxico, indústria, classe toxicológica, nº Mapa/Ibama e bula. 
+Para acessar a bula completa, clicar no ícone. Após definidos os parâmetros, clicar em pesquisar. Será apresentado uma lista na tela com o número, agrotóxico, indústria, classe toxicológica, nº Mapa/Ibama e bula. 
+Para acessar a bula completa, clicar no ícone.
+
+Outras informações
+Legislação: 
+Decreto nº 12.059, de 17/03/2006, que regulamenta a Lei nº 2.951, de 17 de dezembro de 2004, que dispõe sobre os agrotóxicos, seus componentes e afins. Legislação: Decreto nº 12.059, de 17/03/2006, que regulamenta a Lei nº 2.951, de 17 de dezembro de 2004, que dispõe sobre os agrotóxicos, seus componentes e afins.
+

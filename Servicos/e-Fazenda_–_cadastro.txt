@@ -1,0 +1,83 @@
+e-Fazenda – cadastro
+O que é este serviço?
+Realizar o cadastramento na plataforma eletrônica “e-Fazenda”, disponibilizada na área de acesso restrito dos endereços eletrônicos www.ms.gov.br e www.sefaz.ms.gov.br. O e-Fazenda é uma plataforma eletrônica que oferece acesso centralizado a serviços públicos relacionados a tributos estaduais.
+Observação: As opções de relacionamento disponibilizadas pelo Portal do ICMS Transparente, previstas na Lei nº 3.796/2009, foram transferidas à plataforma eletrônica “e-Fazenda” de que trata o Decreto nº 16.373, de 31/01/2024. Realizar o cadastramento na plataforma eletrônica “e-Fazenda”, disponibilizada na área de acesso restrito dos endereços eletrônicos www.ms.gov.br e www.sefaz.ms.gov.br. O e-Fazenda é uma plataforma eletrônica que oferece acesso centralizado a serviços públicos relacionados a tributos estaduais. Observação: As opções de relacionamento disponibilizadas pelo Portal do ICMS Transparente, previstas na Lei nº 3.796/2009, foram transferidas à plataforma eletrônica “e-Fazenda” de que trata o Decreto nº 16.373, de 31/01/2024.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Não é necessário apresentar documentos. 
+
+B) Realizar o cadastro mediante autenticação por certificado digital ou por acesso à conta “gov.br”;
+C) Cadastrar, no mínimo, um telefone celular e um endereço de e-mail, para o recebimento de avisos e de mensagens da SEFAZ/MS; 
+D) Efetuar a leitura e a aceitação dos seguintes documentos:
+
+Termos de Uso;
+Política de Privacidade;
+Termo de Autorização de Envio de SMS e de E-mails;
+Termo de Consentimento e de Responsabilidade do Domicílio Tributário Eletrônico.
+
+Observação: O Termo de Consentimento e de Responsabilidade do Domicílio Tributário Eletrônico será: 
+I - Obrigatório, para contribuintes sujeitos à inscrição no Cadastro de Contribuintes do Estado (CCE); 
+II - Opcional, para contribuintes não sujeitos à inscrição no CCE. Nesses casos, o aceite do termo será solicitado quando o usuário requerer acesso a serviços que exijam o recebimento de notificações eletrônicas. Conforme os termos do Decreto nº 16.373, de 31/01/2024. A) Documentos necessários: B) Realizar o cadastro mediante autenticação por certificado digital ou por acesso à conta “gov.br”; C) Cadastrar, no mínimo, um telefone celular e um endereço de e-mail, para o recebimento de avisos e de mensagens da SEFAZ/MS; D) Efetuar a leitura e a aceitação dos seguintes documentos: Observação: O Termo de Consentimento e de Responsabilidade do Domicílio Tributário Eletrônico será: I - Obrigatório, para contribuintes sujeitos à inscrição no Cadastro de Contribuintes do Estado (CCE); II - Opcional, para contribuintes não sujeitos à inscrição no CCE. Nesses casos, o aceite do termo será solicitado quando o usuário requerer acesso a serviços que exijam o recebimento de notificações eletrônicas. Conforme os termos do Decreto nº 16.373, de 31/01/2024.
+
+Quem pode utilizar este serviço?
+a) Pessoa física ou jurídica que seja contribuinte ou responsável legal dos seguintes tributos estaduais:
+
+Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS);
+Imposto sobre a Propriedade de Veículos Automotores (IPVA);
+Imposto sobre a Transmissão “Causa Mortis” e Doação de Quaisquer Bens ou Diretos (ITCD);
+Taxas, em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição, incluído o pedágio pela utilização de vias conservadas pelo Poder Público;
+Contribuição de melhoria, decorrente de obras públicas;
+Contribuição cobrada dos servidores estaduais, para o custeio, em benefício destes, do sistema de previdência e assistência social;
+Outras contribuições instituídas no âmbito da administração tributária estadual.
+
+b) Pessoa física ou jurídica interessada em manter contato, obter e prestar informações e acessar demais serviços disponibilizados pela SEFAZ/MS. a) Pessoa física ou jurídica que seja contribuinte ou responsável legal dos seguintes tributos estaduais: b) Pessoa física ou jurídica interessada em manter contato, obter e prestar informações e acessar demais serviços disponibilizados pela SEFAZ/MS.
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar o link https://eservicos.sefaz.ms.gov.br/, clicar em “Cadastre-se aqui” e  escolher a forma de cadastro, ou seja, CPF ou CNPJ:
+
+Cadastro com CPF: É permitido o cadastro mediante autenticação por certificado digital e-CPF emitido por uma entidade credenciada pela ICP Brasil ou por acesso à conta “gov.br”. Com essa opção, será realizado o cadastro da pessoa física e automaticamente liberados os perfis de relacionamento, como Contabilista e empresas onde o CPF possui vínculo como sócio com poderes de administração. 
+Cadastro com CNPJ: É aceito apenas um certificado e-CNPJ emitido por uma entidade credenciada pela ICP Brasil. Esse cadastro libera apenas acessos às Inscrições Estaduais do CNPJ. Acessar o link https://eservicos.sefaz.ms.gov.br/, clicar em “Cadastre-se aqui” e  escolher a forma de cadastro, ou seja, CPF ou CNPJ: Termos de Uso;
+Política de Privacidade;
+Termo de Autorização de Envio de SMS e de E-mails;
+Termo de Consentimento e de Responsabilidade do Domicílio Tributário Eletrônico.
+
+Outras informações
+Canais de acesso a este serviço
+Eletronicamente, no link https://eservicos.sefaz.ms.gov.br/, mediante autenticação por certificado digital ou por acesso à conta “gov.br”.
+ 
+Canais de comunicação ao usuário
+e-Fazenda e e-mail.
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Lei nº 6.062, de 31/05/2023
+Decreto nº 16.373, de 31/01/2024
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Atendimento e Apoio ao Contribuinte – COACON 
+ 
+Unidade responsável pela recepção do pedido
+On-line 
+ 
+Unidade responsável pela prestação do serviço
+Autoatendimento 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Armando da Silva Moura
+Telefone: 3389-7898 Canais de acesso a este serviço Eletronicamente, no link https://eservicos.sefaz.ms.gov.br/, mediante autenticação por certificado digital ou por acesso à conta “gov.br”. Canais de comunicação ao usuário e-Fazenda e e-mail. Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Coordenadoria de Atendimento e Apoio ao Contribuinte – COACON Unidade responsável pela recepção do pedido On-line Unidade responsável pela prestação do serviço Autoatendimento Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Armando da Silva Moura Telefone: 3389-7898
+

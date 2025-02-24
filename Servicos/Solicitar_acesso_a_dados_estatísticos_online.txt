@@ -1,0 +1,22 @@
+Solicitar acesso a dados estatísticos online
+O que é este serviço?
+Serviço de consulta pública aos dados estatísticos e indicadores de segurança pública acessível gratuitamente a qualquer cidadão. Serviço de consulta pública aos dados estatísticos e indicadores de segurança pública acessível gratuitamente a qualquer cidadão.
+
+Exigências para realizar o serviço
+Ter acesso a intenet para acesso ao site de consulta desse serviço. Ter acesso a intenet para acesso ao site de consulta desse serviço.
+
+Quem pode utilizar este serviço?
+Qualquer cidadão. Qualquer cidadão.
+
+Prazos
+1 Minuto.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar o site da Sejusp/MS, a saber, https://www.sejusp.ms.gov.br/ Acessar o site da Sejusp/MS, a saber, https://www.sejusp.ms.gov.br/ Clicar no banner Estatísticas Online e o usuário será direcionado ao link http://estatistica.sigo.ms.gov.br/ Clicar no banner Estatísticas Online e o usuário será direcionado ao link http://estatistica.sigo.ms.gov.br/ Selecionar critérios de consulta de dados, tais como ano, região do estado, ocorrências, vítimas, cumprimento de mandados de prisão, localização e desaparecimento de pessoa. Na medida em que são selecionados os critérios os dados são exibidos. Selecionar critérios de consulta de dados, tais como ano, região do estado, ocorrências, vítimas, cumprimento de mandados de prisão, localização e desaparecimento de pessoa. Na medida em que são selecionados os critérios os dados são exibidos.
+
+Outras informações
+O serviço de consulta a Estatísticas Online pode ser utilizado mediante consulta ao site da Sejusp/MS clicando no banner Estatísticas Online, que direciona o usuário ao link http://estatistica.sigo.ms.gov.br O serviço de consulta a Estatísticas Online pode ser utilizado mediante consulta ao site da Sejusp/MS clicando no banner Estatísticas Online, que direciona o usuário ao link http://estatistica.sigo.ms.gov.br
+

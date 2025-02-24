@@ -1,0 +1,22 @@
+Emitir 2ª via da fatura
+O que é este serviço?
+Visa à emissão de segunda via da fatura de gás quando solicitado pelo usuário. Visa à emissão de segunda via da fatura de gás quando solicitado pelo usuário.
+
+Exigências para realizar o serviço
+Ser uma unidade consumidora de gás natural interligada à rede de distribuição da MSGÁS e ter em mãos o número do cófido de cliente. Ser uma unidade consumidora de gás natural interligada à rede de distribuição da MSGÁS e ter em mãos o número do cófido de cliente.
+
+Quem pode utilizar este serviço?
+Todos os clientes da MSGÁS. Todos os clientes da MSGÁS.
+
+Prazos
+30 Minutos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Entrar no site https://www.msgas.com.br e clicar no icone "Agência Virtual" ou baixar o aplicativo MSGASApp. Entrar no site https://www.msgas.com.br e clicar no icone "Agência Virtual" ou baixar o aplicativo MSGASApp. Deverá ser informado o código do cliente, fornecido pela MSGÁS ao usuário, e a senha de acesso criada pelo usuário. Deverá ser informado o código do cliente, fornecido pela MSGÁS ao usuário, e a senha de acesso criada pelo usuário. Dentro da plataforma, após feito o login, o cliente poderá baixar a fatura correspondente ao mês desejado, clicando no icone "visualizar" ou enviar para o email cadastrado ao clicar no icone "enviar por email". Dentro da plataforma, após feito o login, o cliente poderá baixar a fatura correspondente ao mês desejado, clicando no icone "visualizar" ou enviar para o email cadastrado ao clicar no icone "enviar por email".
+
+Outras informações
+Serviço prestado via aplicativo ou site Serviço prestado via aplicativo ou site
+

@@ -1,0 +1,24 @@
+Solicitar telediagnóstico em teledermatologia
+O que é este serviço?
+A Teledermatologia em demartologia é um modelo funcional de diagnóstico em dermatologia via internet, através do Sistema de Telemedicina e Telessaúde (STT), que possibilita e facilita a aproximação da Atenção Primária à Saúde e do atendimento especializado. Utiliza protocolos clínicos de registro fotográfico de lesões que possibilitam ao médico descrever a lesão, classificar o risco e, quando necessário, sugerir a conduta clínica na Atenção Primária à Saúde. O Médico solicita o Telediagnóstico em Dermatologia e encaminha o paciente para Unidade de Saúde cadastrada como Ponto de Telediagnóstico onde é realizado o registro fotográfico. Posteriormente, tal registro é enviado juntamente às informações clínicas do paciente via plataforma para o Núcleo Especialista laudar. O laudo é feito por especialistas do Núcleo de Telessaúde de SC/UFSC e tem o prazo de até 72h para ser devolvido à unidade solicitante, onde o médico fará a devolutiva com o paciente. 
+Esse laudo pode ser visualizado pelo médico solicitante, pelo profissional que realizou o exame e pelo paciente por meio de protocolo de acesso. A Teledermatologia em demartologia é um modelo funcional de diagnóstico em dermatologia via internet, através do Sistema de Telemedicina e Telessaúde (STT), que possibilita e facilita a aproximação da Atenção Primária à Saúde e do atendimento especializado. Utiliza protocolos clínicos de registro fotográfico de lesões que possibilitam ao médico descrever a lesão, classificar o risco e, quando necessário, sugerir a conduta clínica na Atenção Primária à Saúde. O Médico solicita o Telediagnóstico em Dermatologia e encaminha o paciente para Unidade de Saúde cadastrada como Ponto de Telediagnóstico onde é realizado o registro fotográfico. Posteriormente, tal registro é enviado juntamente às informações clínicas do paciente via plataforma para o Núcleo Especialista laudar. O laudo é feito por especialistas do Núcleo de Telessaúde de SC/UFSC e tem o prazo de até 72h para ser devolvido à unidade solicitante, onde o médico fará a devolutiva com o paciente. Esse laudo pode ser visualizado pelo médico solicitante, pelo profissional que realizou o exame e pelo paciente por meio de protocolo de acesso.
+
+Exigências para realizar o serviço
+Prioritariamente médicos da Atenção Primária à Saúde dos municípios onde o serviço está implantado, cadastrados com usuário e senha no Sistema de Telemedicina e Telediagnóstico de Santa Catarina (STT/SC) e PNTD. Prioritariamente médicos da Atenção Primária à Saúde dos municípios onde o serviço está implantado, cadastrados com usuário e senha no Sistema de Telemedicina e Telediagnóstico de Santa Catarina (STT/SC) e PNTD.
+
+Quem pode utilizar este serviço?
+Prioritariamente médicos da Atenção Primária à Saúde dos municípios onde o serviço está implantado Prioritariamente médicos da Atenção Primária à Saúde dos municípios onde o serviço está implantado
+
+Prazos
+3 Dias úteis.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Realizar consulta médica em estabelecimento de saúde/SUS para solicitação de exame por Telediagnóstico e encaminhamento a uma unidade de saúde do município que tenha ponto de Teledermatologia para realização da coleta da imagem. Realizar consulta médica em estabelecimento de saúde/SUS para solicitação de exame por Telediagnóstico e encaminhamento a uma unidade de saúde do município que tenha ponto de Teledermatologia para realização da coleta da imagem. O paciente deverá realizar a captação da imagem (exame) no estabelecimento de saúde do município com ponto de Teledermatologia implantado. O paciente deverá realizar a captação da imagem (exame) no estabelecimento de saúde do município com ponto de Teledermatologia implantado. O médico solicitante de posse do exame com laudo faz a avaliação e sugere conduta e encaminhamento do paciente se necessário. O médico solicitante de posse do exame com laudo faz a avaliação e sugere conduta e encaminhamento do paciente se necessário.
+
+Outras informações
+Site: telessaude.saude.ms.gov.br
+Whatsapp: (67) 98468-6741 Site: telessaude.saude.ms.gov.br Whatsapp: (67) 98468-6741
+

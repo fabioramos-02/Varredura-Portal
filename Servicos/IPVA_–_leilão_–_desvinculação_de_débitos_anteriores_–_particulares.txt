@@ -1,0 +1,81 @@
+IPVA – leilão – desvinculação de débitos anteriores – particulares
+O que é este serviço?
+Use este serviço para solicitar a desvinculação dos débitos de IPVA anteriores à aquisição de veículo automotor, quando esse veículo tiver sido adquirido em leilão, tendo como comitente a Administração Pública, ou seja, o leilão tenha sido realizado a pedido de algum órgão público.
+Você pode incluir mais de um veículo para um mesmo arrematante por pedido.
+Se você for o próprio leiloeiro ou representar órgão da Administração Pública, utilize o seguinte serviço: IPVA – leilão – desvinculação de débitos anteriores – Administração Pública e leiloeiros oficiais. Use este serviço para solicitar a desvinculação dos débitos de IPVA anteriores à aquisição de veículo automotor, quando esse veículo tiver sido adquirido em leilão, tendo como comitente a Administração Pública, ou seja, o leilão tenha sido realizado a pedido de algum órgão público. Você pode incluir mais de um veículo para um mesmo arrematante por pedido. Se você for o próprio leiloeiro ou representar órgão da Administração Pública, utilize o seguinte serviço: IPVA – leilão – desvinculação de débitos anteriores – Administração Pública e leiloeiros oficiais.
+
+Exigências para realizar o serviço
+A) Documentos necessários:
+
+Requerimento, o qual deve ser preenchido no campo denominado “Requerimento” do Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, contendo a solicitação de desvinculação e os dados (placa e Renavam) relativos aos veículos objeto do pedido;
+Certificado de Registro e Licenciamento do veículo (CRLV), podendo ser enviada a sua versão eletrônica (CRLV-e);
+Procuração, quando o requerimento for gerado por procurador;
+Documento oficial que comprove a ocorrência do leilão, como:
+
+Recibo da Arrematação;
+Guia de Licitação da Receita Federal;
+Auto de Arrematação;
+Auto de Leilão Extrajudicial Positivo ou Certidão de Leilão Positivo.
+
+
+Documento oficial que informe a data em que ocorreu a apreensão do veículo, quando houver, como:
+
+Auto de Apreensão;
+Documento de Notificação de Recolhimento de Veículo (DRV);
+Certidão de Objeto e Pé.
+
+
+Comprovante de pagamento da Taxa de Serviços Estaduais.
+
+B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/). A) Documentos necessários: B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/).
+
+Quem pode utilizar este serviço?
+Pessoas Físicas e Jurídicas que tenham arrematado veículo em leilão da Administração Pública Pessoas Físicas e Jurídicas que tenham arrematado veículo em leilão da Administração Pública
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Uma Uferms
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – leilão – desvinculação de débitos anteriores – particulares. Preencher os dados solicitados e anexar os documentos necessários. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – leilão – desvinculação de débitos anteriores – particulares. Preencher os dados solicitados e anexar os documentos necessários. Gerar no próprio sistema (e-SAP) a taxa de serviços estaduais no valor de 1 (uma) Uferms e realizar o pagamento de acordo com as opções disponibilizadas ou indicar o número do documento de arrecadação, se já possuir DAEMS pago. Gerar no próprio sistema (e-SAP) a taxa de serviços estaduais no valor de 1 (uma) Uferms e realizar o pagamento de acordo com as opções disponibilizadas ou indicar o número do documento de arrecadação, se já possuir DAEMS pago. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+No próprio sistema e-SAP, clicando no botão “Ver Solicitações” (a situação estará na coluna “Status”), ou 
+No módulo “Minhas Mensagens”, onde você receberá mensagens referentes ao andamento da solicitação. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Até 90 dias
+ 
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 145, 146, IV, “a” e “b” e § 3º , artigo 155 § 5º e artigo 163, III, todos da Lei Estadual nº 1.810, de 22/12/1997
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do IPVA – UFIPVA
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do IPVA – UFIPVA 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação; não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Paulo Sérgio Monteiro Ferreira
+Telefone: 3316-7515 Quanto tempo leva (prazo máximo para atendimento)? Até 90 dias Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 145, 146, IV, “a” e “b” e § 3º , artigo 155 § 5º e artigo 163, III, todos da Lei Estadual nº 1.810, de 22/12/1997 Unidade responsável pela atualização das informações Unidade de Fiscalização do IPVA – UFIPVA Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do IPVA – UFIPVA Observação As informações desta Carta de Serviços têm caráter apenas de orientação; não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Paulo Sérgio Monteiro Ferreira Telefone: 3316-7515
+

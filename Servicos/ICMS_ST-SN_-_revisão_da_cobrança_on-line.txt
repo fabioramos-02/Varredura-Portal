@@ -1,0 +1,90 @@
+ICMS ST-SN - revisão da cobrança on-line
+O que é este serviço?
+Solicitar a revisão eletrônica de apuração da cobrança do ICMS ST-SN realizada pela SEFAZMS, na forma prevista na Resolução/Sefaz nº 3.033, de 01.08.2019 Solicitar a revisão eletrônica de apuração da cobrança do ICMS ST-SN realizada pela SEFAZMS, na forma prevista na Resolução/Sefaz nº 3.033, de 01.08.2019
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Operações sujeitas à Substituição Tributária – ST: Comprovação do pagamento do ICMS ST, código 333 (DAEMS, GNRE, TVF, REGIME ESPECIAL); 
+Desfazimento da operação – devolução: Comprovação inequívoca do retorno da mercadoria à origem, mediante, preferencialmente, cópia da nota fiscal de devolução com a comprovação da passagem pelo Posto Fiscal de saída do Estado (ou o RPE – Registro de Passagem Estadual – correspondente);
+Quando se tratar de fabricantes de artigos do vestuário e acessórios, de roupas de cama, mesa e banho e de cortinas: documento que indique os Números do CAE e CNAE;
+Quando se tratar de indústria detentora de benefício fiscal: Comprovação da validade do benefício (se necessário, deve-se verificar o Termo de Acordo com a SEFAZ);
+Quando se tratar de bens ou mercadorias destinadas ao ativo fixo, consumo ou uso: Comprovação do pagamento do ICMS DIF. ALÍQUOTAS, código 350 (DAEMS, GNRE, TVF, REGIME ESPECIAL);
+Quando se tratar de remessa por conta e ordem de terceiros: chave de acesso da NF-e;
+Quando se tratar de operação sujeita ao pagamento do ICMS Garantido ou Equalização, com pagamento antecipado: Comprovação do pagamento do ICMS Garantido, códigos 357 ou 359; ICMS-Equalização, código 349 (por DAEMS, GNRE, TVF); 
+Quando se tratar de ICMS-ST retido por substituto tributário inscrito no MS, indicar a chave de acesso da NF-e.
+
+OBSERVAÇÃO: 
+Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de documentos comprobatórios, conforme o caso.
+B) A nota fiscal ou o item da nota fiscal estar enquadrado em uma das seguintes hipóteses:
+I – Operações:
+
+sujeitas ao regime de substituição tributária;
+destinadas a estabelecimentos fabricantes de artigos do vestuário e acessórios, de roupas de cama, mesa e banho e de cortinas;
+destinadas aos estabelecimentos industriais detentores de benefício ou incentivo fiscal concedidos mediante deliberação ou proposta do Fórum Deliberativo do MS Forte Indústria (MS-Forte) ou mediante acordo celebrado na forma do disposto no art. 34 da Lei Complementar Estadual nº 93, de 05/11/2001 (MS-EMPREENDEDOR);
+que não sejam oneradas pelo imposto, nas operações internas;
+relativas a aquisição de bens ou mercadorias destinadas a uso, consumo ou ativo fixo;
+relativas à remessa por conta e ordem de terceiros;
+cujo pagamento do ICMS ST já tenha sido efetuado ou retido por substituto tributário inscrito no MS.
+
+II – Erro de preenchimento da nota fiscal ou de inclusão de seus dados nos sistemas informatizados da Secretaria de Estado de Fazenda. A) Documentos necessários: OBSERVAÇÃO: Caso seja necessário, as autoridades competentes para analisar a solicitação da revisão podem solicitar a apresentação de documentos comprobatórios, conforme o caso. B) A nota fiscal ou o item da nota fiscal estar enquadrado em uma das seguintes hipóteses: I – Operações: II – Erro de preenchimento da nota fiscal ou de inclusão de seus dados nos sistemas informatizados da Secretaria de Estado de Fazenda.
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS, optante pelo Simples Nacional Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS, optante pelo Simples Nacional
+
+Prazos
+15 Dias úteis.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar o e-Fazenda, Módulo “Informações Fiscais” e nos casos em que a solicitação de revisão eletrônica ocorrer até a data do vencimento do ICMS, fazer a desvinculação das notas fiscais incluídas na cobrança indevidamente.
+OBSERVAÇÕES:
+
+A solicitação de revisão eletrônica da cobrança de ICMS somente pode ser feita uma única vez por mês de referência de cobrança do ICMS, para cada código de tributo;
+As notas fiscais objeto da solicitação de revisão serão desvinculadas, provisoriamente, da apuração do imposto efetuada pela Sefaz, até a respectiva decisão e, conforme o caso, será:
+
+I – Restabelecido o vínculo das notas fiscais cuja solicitação seja indeferida;
+II – Homologada a desvinculação das notas fiscais em relação às quais a revisão for deferida.
+
+Em decorrência dos eventos de desvinculação e de restabelecimento do vínculo de notas fiscais supracitados, serão disponibilizados, automática e imediatamente, os Documentos de Arrecadação Estadual de Mato Grosso do Sul (DAEMS), para emissão e impressão pelo contribuinte, por meio do e-Fazenda, relativos:
+
+ I – ao valor que remanescer após a desvinculação;
+ II – ao valor devido, incluídos o valor restabelecido, se for o caso, e o valor de que trata o inciso I deste parágrafo, que não tenha sido recolhido.
+
+A análise e a decisão sobre a solicitação de revisão devem ser concluídas no prazo de 15 (quinze) dias úteis contados da respectiva solicitação, excluído o período transcorrido entre a data de solicitação de documentos e a de sua apresentação, se for o caso;
+A solicitação de revisão não gera efeito suspensivo da cobrança do ICMS ST-SN apurado no respectivo período. Acessar o e-Fazenda, Módulo “Informações Fiscais” e nos casos em que a solicitação de revisão eletrônica ocorrer até a data do vencimento do ICMS, fazer a desvinculação das notas fiscais incluídas na cobrança indevidamente. OBSERVAÇÕES: I – Restabelecido o vínculo das notas fiscais cuja solicitação seja indeferida; II – Homologada a desvinculação das notas fiscais em relação às quais a revisão for deferida. I – ao valor que remanescer após a desvinculação; II – ao valor devido, incluídos o valor restabelecido, se for o caso, e o valor de que trata o inciso I deste parágrafo, que não tenha sido recolhido. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Módulo “Informações Fiscais”. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Módulo “Informações Fiscais”. Acompanhar o andamento do serviço solicitado no e-Fazenda – Módulo “Informações Fiscais”. Acompanhar o andamento do serviço solicitado no e-Fazenda – Módulo “Informações Fiscais”.
+
+Outras informações
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Módulo “Informações Fiscais”
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema “Informações Fiscais” 
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/.
+ 
+Legislação
+
+Artigo 14, § 2º-D do Anexo III ao RICMS
+Resolução/Sefaz nº 3.033, de 01.08.2019
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização de Mercadorias em Trânsito - COFIMT
+ 
+Unidade responsável pela recepção do pedido
+On-line
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização de Mercadorias em Transportadoras – UFMTR ou Unidade de Controle e Monitoramento do Simples Nacional – USIMPLES
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Fabricio Cerezuela Policeno 
+Telefone: 3318-3161 Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Módulo “Informações Fiscais” Canais de comunicação ao usuário e-Fazenda - Sistema “Informações Fiscais” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/. Legislação Unidade responsável pela atualização das informações Coordenadoria de Fiscalização de Mercadorias em Trânsito - COFIMT Unidade responsável pela recepção do pedido On-line Unidade responsável pela prestação do serviço Unidade de Fiscalização de Mercadorias em Transportadoras – UFMTR ou Unidade de Controle e Monitoramento do Simples Nacional – USIMPLES Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Fabricio Cerezuela Policeno Telefone: 3318-3161
+

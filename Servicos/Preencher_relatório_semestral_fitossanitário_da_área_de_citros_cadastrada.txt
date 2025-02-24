@@ -1,0 +1,32 @@
+Preencher relatório semestral fitossanitário da área de citros cadastrada
+O que é este serviço?
+Auto declaração semestral das condições fitossanitárias das áreas de citros cadastradas no sistema da Iagro. Auto declaração semestral das condições fitossanitárias das áreas de citros cadastradas no sistema da Iagro.
+
+Exigências para realizar o serviço
+Ter o cadastro da área de citros na Iagro. Ter o cadastro da área de citros na Iagro.
+
+Quem pode utilizar este serviço?
+Qualquer pessoa com cadastro da área de citros na Iagro. Qualquer pessoa com cadastro da área de citros na Iagro.
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acesse o serviço de Relatório Semestral de Vistoria e Monitoramento Acesse o serviço de Relatório Semestral de Vistoria e Monitoramento Identificação: Informar a Inscrição Estadual (IE) ou Inscrição Sanitária (IS) e o CPF ou CNPJ do Produtor/Instituição responsável pela área já cadastrada
+Cultura e Semestre: Informar cultura (Citros) e semestre avaliado
+Produtor/Propriedade: Informar um email para confirmação do recebimento dos dados, endereço e telefone
+Condições fitossanitárias da área cadastrada: data do término da inspeção, número de plantas sintomáticas por mês, número total de armadilhas por mês, número total de insetos capturados por mês, se há presença de murta na propriedade, se houve eliminação de murta na propriedade. 
+Declaração de vistoria Visualizar todas as informações preenchidas, para confirmação ou edição dos campos. Após conferência, o relatório semestral deve ser salvo no sistema da Iagro.
+
+Outras informações
+Periodicidade: semestral 
+Datas: 
+
+1º semestre - até 15 de julho
+2º semestre - até 15 de janeiro 
+
+Dúvidas ou outras informações: nmfito@iagro.ms.gov.br Periodicidade: semestral Datas: Dúvidas ou outras informações: nmfito@iagro.ms.gov.br
+

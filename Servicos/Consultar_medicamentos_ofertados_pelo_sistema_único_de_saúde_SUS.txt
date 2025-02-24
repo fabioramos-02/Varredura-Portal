@@ -1,0 +1,24 @@
+Consultar medicamentos ofertados pelo sistema único de saúde SUS
+O que é este serviço?
+Consulta realizada pelo usuário para verificar os medicamentos ofertados no sistema único de saúde. Consulta realizada pelo usuário para verificar os medicamentos ofertados no sistema único de saúde.
+
+Exigências para realizar o serviço
+Não há exigências. Não há exigências.
+
+Quem pode utilizar este serviço?
+Qualquer cidadão. Qualquer cidadão.
+
+Prazos
+30 Minutos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas O usuário acessará o link www.gov.br/conitec/pt-br/centrais-de-conteudo/biblioteca-virtual/rename-2022 onde estará disponível a informação desejada O usuário acessará o link www.gov.br/conitec/pt-br/centrais-de-conteudo/biblioteca-virtual/rename-2022 onde estará disponível a informação desejada
+
+Outras informações
+A Relação Nacional de medicamentos essenciais (Rename) é um importante instrumento orientador do uso de medicamentos e insumos no SUS.
+A publicação apresenta a lista de medicamentos e insumos disponibilizados no SUS de acordo com as responsabilidades de financiamento, proporcionando transparência e fortalecendo o uso racional de medicamentos.
+https://www.gov.br/saude/pt-br/composicao/sectics/rename A Relação Nacional de medicamentos essenciais (Rename) é um importante instrumento orientador do uso de medicamentos e insumos no SUS. A publicação apresenta a lista de medicamentos e insumos disponibilizados no SUS de acordo com as responsabilidades de financiamento, proporcionando transparência e fortalecendo o uso racional de medicamentos. https://www.gov.br/saude/pt-br/composicao/sectics/rename
+

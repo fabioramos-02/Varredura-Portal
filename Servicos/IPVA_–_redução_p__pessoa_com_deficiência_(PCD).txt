@@ -1,0 +1,75 @@
+IPVA – redução p/ pessoa com deficiência (PCD)
+O que é este serviço?
+Use este serviço para solicitar a redução do IPVA de veículo para uso de pessoa com deficiência (PCD), conforme definições no Regulamento.
+A redução do IPVA devido é de sessenta por cento (60%) e só pode ser concedida a um veículo por PCD.
+A PCD não precisa estar habilitada a dirigir e o veículo pode estar registrado, no Detran/MS, em nome tanto da pessoa com deficiência quanto do seu representante legal.
+Se a deficiência for permanente, o interessado precisará comprovar essa situação apenas uma vez. Quando quiser trocar de veículo, poderá solicitar a transferência do benefício por meio do seguinte serviço: IPVA – troca de veículo – redução p/ pessoa com deficiência (PCD). Use este serviço para solicitar a redução do IPVA de veículo para uso de pessoa com deficiência (PCD), conforme definições no Regulamento. A redução do IPVA devido é de sessenta por cento (60%) e só pode ser concedida a um veículo por PCD. A PCD não precisa estar habilitada a dirigir e o veículo pode estar registrado, no Detran/MS, em nome tanto da pessoa com deficiência quanto do seu representante legal. Se a deficiência for permanente, o interessado precisará comprovar essa situação apenas uma vez. Quando quiser trocar de veículo, poderá solicitar a transferência do benefício por meio do seguinte serviço: IPVA – troca de veículo – redução p/ pessoa com deficiência (PCD).
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento, o qual deve ser preenchido no campo denominado “Requerimento”, dentro do Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, contendo as seguintes informações: 
+
+
+ Identificação da pessoa com deficiência, com indicação do seu CPF, endereço, telefone e e-mail; 
+ Pedido do benefício, informando os dados do veículo (placa e Renavam) e o exercício (ano) para o qual solicita a redução;
+Para os casos em que o veículo esteja em nome do representante legal da PCD, apresentar documento de identificação do representante;
+
+
+Certificado de Registro e Licenciamento do veículo (CRLV), podendo ser enviada a sua versão eletrônica (CRLV-e);
+Procuração, quando o requerimento for efetuado por procurador;
+Laudo médico do DETRAN ou INSS ou ainda Laudo médico emitido por profissional credenciado ao SUS, indicando a deficiência, com menção ao CID.
+
+B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/ );
+C) Estar em dia com as obrigações perante a Fazenda Pública Estadual;
+D) Ser pessoa com deficiência ou responsável legal de uma PCD;
+E) O veículo automotor objeto do benefício deve se destinar exclusivamente ao uso da PCD;
+F) Comprovar a deficiência com Laudo médico do DETRAN ou INSS ou ainda Laudo médico emitido por profissional credenciado ao SUS.
+Observações: 
+1 - Quando o representante legal for o pai ou a mãe da PCD, não será necessária a apresentação de procuração.
+2 – Na solicitação aberta via e-SAP, poderá figurar como requerente tanto a pessoa com deficiência (PCD) quanto o seu representante legal. A) Documentos necessários: B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/ ); C) Estar em dia com as obrigações perante a Fazenda Pública Estadual; D) Ser pessoa com deficiência ou responsável legal de uma PCD; E) O veículo automotor objeto do benefício deve se destinar exclusivamente ao uso da PCD; F) Comprovar a deficiência com Laudo médico do DETRAN ou INSS ou ainda Laudo médico emitido por profissional credenciado ao SUS. Observações: 1 - Quando o representante legal for o pai ou a mãe da PCD, não será necessária a apresentação de procuração. 2 – Na solicitação aberta via e-SAP, poderá figurar como requerente tanto a pessoa com deficiência (PCD) quanto o seu representante legal.
+
+Quem pode utilizar este serviço?
+Pessoa Física com deficiência e seus representantes legais. Pessoa Física com deficiência e seus representantes legais.
+
+Prazos
+80 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – redução p/ pessoa com deficiência (PCD). Preencher os dados solicitados e anexar os documentos necessários. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – redução p/ pessoa com deficiência (PCD). Preencher os dados solicitados e anexar os documentos necessários. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+No próprio sistema e-SAP, clicando no botão “Ver Solicitações” (a situação estará na coluna “Status”), ou 
+No módulo “Minhas Mensagens”, onde você receberá mensagens referentes ao andamento da solicitação. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+Outras informações
+Canais de acesso a este serviço
+Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) 
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 154 da Lei Estadual nº 1.810, de 22/12/1997
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do IPVA – UFIPVA
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do IPVA – UFIPVA 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Paulo Sérgio Monteiro Ferreira
+Telefone: 3316-7515 Canais de acesso a este serviço Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 154 da Lei Estadual nº 1.810, de 22/12/1997 Unidade responsável pela atualização das informações Unidade de Fiscalização do IPVA – UFIPVA Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do IPVA – UFIPVA Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Paulo Sérgio Monteiro Ferreira Telefone: 3316-7515
+

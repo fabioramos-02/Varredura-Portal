@@ -1,0 +1,28 @@
+Consultar horários e tarifas de linhas de transporte intermunicipal de passageiros
+O que é este serviço?
+Aplicativo MS TRIP, que informa sobre horários, empresas operadoras e tarifas de todas as linhas de viagem entre municípios de Mato Grosso do Sul. Aplicativo MS TRIP, que informa sobre horários, empresas operadoras e tarifas de todas as linhas de viagem entre municípios de Mato Grosso do Sul.
+
+Exigências para realizar o serviço
+Disponível conforme interesse do usuário, basta ter um celular ou tablet com acesso à Internet. Disponível conforme interesse do usuário, basta ter um celular ou tablet com acesso à Internet.
+
+Quem pode utilizar este serviço?
+População em geral. População em geral.
+
+Prazos
+5 Acesso Imediato.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas ​​​​​​Acessar uma loja de aplicativos, pesquisar pelo nome MS TRIP e fazer o download.
+Aqui você tem links para ir direto a uma loja de Aplicativos: 
+Se seu smartphone é Android: https://play.google.com/store/apps/details?id=com.grupoimagetech.geologAppPainel
+Se seu smartphone é iOS: https://apps.apple.com/br/app/ms-trip/id1620953069 ​​​​​​Acessar uma loja de aplicativos, pesquisar pelo nome MS TRIP e fazer o download. Aqui você tem links para ir direto a uma loja de Aplicativos: Se seu smartphone é Android: https://play.google.com/store/apps/details?id=com.grupoimagetech.geologAppPainel Se seu smartphone é iOS: https://apps.apple.com/br/app/ms-trip/id1620953069 ​​​​​Abrir o aplicativo. A tela inicial já apresenta o menu “Viagens” em destaque, com campos de busca. ​​​​​Abrir o aplicativo. A tela inicial já apresenta o menu “Viagens” em destaque, com campos de busca. Na tela de pesquisa, preencher os campos de origem, destino, opção de viagem "ida" ou "ida e volta" e data. O APP vai listar as empresas operadoras com seus respectivos horários. Algumas têm link para sites de vendas ou contatos de WhatsApp. Na tela de pesquisa, preencher os campos de origem, destino, opção de viagem "ida" ou "ida e volta" e data. O APP vai listar as empresas operadoras com seus respectivos horários. Algumas têm link para sites de vendas ou contatos de WhatsApp.
+
+Outras informações
+O App tem sistema de busca que permite consultar horários de determinada linha, a (s) empresa (s) operadora (s), e o valor da tarifa base.
+Também é possível verificar em tempo real a previsão de chegada de veículo em trânsito a determinado ponto.
+O App da AGEMS não realiza a venda de passagem, mas oferece links para sites ou canais de WhatsApp das operadoras
+IMPORTANTE: não estão incluídos os valores de taxas de embarques, pedágio e seguro facultativo no valor da tarifa informado. O preço final da passagem é informado no contato com a operadora. O App tem sistema de busca que permite consultar horários de determinada linha, a (s) empresa (s) operadora (s), e o valor da tarifa base. Também é possível verificar em tempo real a previsão de chegada de veículo em trânsito a determinado ponto. O App da AGEMS não realiza a venda de passagem, mas oferece links para sites ou canais de WhatsApp das operadoras IMPORTANTE: não estão incluídos os valores de taxas de embarques, pedágio e seguro facultativo no valor da tarifa informado. O preço final da passagem é informado no contato com a operadora.
+

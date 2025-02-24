@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor
 from carregar import carregar_planilha
 from scraping import obter_info_servico_com_selenium
 from gerar_txt import salvar_arquivo
@@ -9,22 +10,25 @@ num_servicos_para_processar = None  # Ajuste este valor para 3 ou outro número,
 # Carregar os links dos serviços e os títulos da planilha
 links = carregar_planilha("servicos.xlsx")
 
-
-
-# Iteração sobre os links e extração dos serviços
-for i, link in enumerate(links):
-    # Se num_servicos_para_processar for diferente de None e o número de iterações atingir o limite, pare
-    if num_servicos_para_processar is not None and i >= num_servicos_para_processar:
-        break
-
+# Função para processar um serviço
+def processar_servico(link):
     nome_servico = link['titulo']  # Nome do serviço na coluna 'titulo'
     url_servico = link['endereco']  # URL do serviço na coluna 'endereco'
+    
+    print(f"Processando serviço: {nome_servico} - URL: {url_servico}")
 
-    
-    
     # Obter a descrição do serviço usando o nome da planilha
     nome_servico, sobre_servico = obter_info_servico_com_selenium(url_servico, nome_servico)
     
     # Salvar arquivo na pasta 'Servicos'
     pasta_servicos = 'Servicos'
     salvar_arquivo(nome_servico, sobre_servico, pasta_destino=pasta_servicos)
+
+# Usar ThreadPoolExecutor para paralelizar a execução dos serviços
+with ThreadPoolExecutor() as executor:
+    # Se num_servicos_para_processar não for None, limitar a quantidade de serviços processados
+    if num_servicos_para_processar is not None:
+        links = links[:num_servicos_para_processar]
+    
+    # Executar a função de processamento em paralelo para todos os serviços
+    executor.map(processar_servico, links)

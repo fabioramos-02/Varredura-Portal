@@ -1,0 +1,79 @@
+Escrituração fiscal digital (EFD) - credenciamento voluntário
+O que é este serviço?
+Serviço disponibilizado aos contribuintes alcançados pelo § 2º ao Art. 4º do Subanexo XIV ao Anexo XV do RICMS que não são obrigados à entrega de arquivos (EFD) e poderão optar pelo credenciamento de forma voluntária e irretratável mediante solicitação direcionada a esta secretaria. 
+A solicitação deverá ser formalizada via e-SAP - Sistema Administrativo de Processo Eletrônico disponibilizado na plataforma e-Fazenda.
+A data do credenciamento será a data de conclusão da análise da solicitação, se deferido o pedido do contribuinte.
+Compete à Secretaria de Estado de Fazenda do Mato Grosso do Sul atribuir o perfil a cada estabelecimento, e o será classificado de acordo com o regime de pagamento. Serviço disponibilizado aos contribuintes alcançados pelo § 2º ao Art. 4º do Subanexo XIV ao Anexo XV do RICMS que não são obrigados à entrega de arquivos (EFD) e poderão optar pelo credenciamento de forma voluntária e irretratável mediante solicitação direcionada a esta secretaria. A solicitação deverá ser formalizada via e-SAP - Sistema Administrativo de Processo Eletrônico disponibilizado na plataforma e-Fazenda. A data do credenciamento será a data de conclusão da análise da solicitação, se deferido o pedido do contribuinte. Compete à Secretaria de Estado de Fazenda do Mato Grosso do Sul atribuir o perfil a cada estabelecimento, e o será classificado de acordo com o regime de pagamento.
+
+Exigências para realizar o serviço
+1) Documentos necessários: 
+Não é necessário apresentar documentos.
+Observação: Realizar, no sistema e-SAP, a solicitação de credenciamento voluntário à entrega de arquivos EFD com as seguintes informações:
+
+Inscrição Estadual junto à SEFAZ/MS;
+CNPJ - Cadastro Nacional de Pessoas Jurídica ou CPF - Cadastro de Pessoas Físicas.
+
+2) Requisitos para a solicitação ao credenciamento voluntário:
+
+Não estar enquadrado como obrigado à entrega de arquivos EFD, de acordo com legislação pertinente;
+Estar inscrito no Cadastro de Contribuinte do Estado (CCE/MS), sem qualquer irregularidade cadastral;
+Ter acesso à plataforma e-Fazenda. 1) Documentos necessários: Não é necessário apresentar documentos. Observação: Realizar, no sistema e-SAP, a solicitação de credenciamento voluntário à entrega de arquivos EFD com as seguintes informações: 2) Requisitos para a solicitação ao credenciamento voluntário:
+
+Quem pode utilizar este serviço?
+Contribuintes cadastrados no CCE/MS e com acesso à plataforma e-Fazenda.
+
+ 
+Quem não pode utilizar este serviço?
+
+Contribuintes não cadastradas no CCE/MS ou sem acesso à plataforma e-Fazenda.
+
+ 
+Quem não pode ser voluntário?
+
+Contribuintes obrigados à entrega de arquivos EFD;
+Microempreendedor individual (MEI) optante ao regime de pagamento Sistema de Recolhimento em Valores Fixos Mensais dos Tributos do Simples Nacional (SIMEI);
+Contribuintes CAP inscritos no Cadastro de Pessoas Físicas (CPF) que não sejam obrigados à EFD. Quem não pode utilizar este serviço? Quem não pode ser voluntário?
+
+Prazos
+20 Dias corridos.
+
+Quais os custos?
+Uma Uferms
+
+Etapas
+Etapas Acessar a plataforma e-Fazenda. Acessar a plataforma e-Fazenda. Acessar o sistema e-SAP. Acessar o sistema e-SAP. Realizar a solicitação de credenciamento voluntário à entrega de arquivos EFD com as seguintes informações:
+- Inscrição Estadual junto à SEFAZ/MS;
+- CNPJ - Cadastro Nacional de Pessoas Jurídica ou CPF - Cadastro de Pessoas Físicas. Realizar a solicitação de credenciamento voluntário à entrega de arquivos EFD com as seguintes informações: - Inscrição Estadual junto à SEFAZ/MS; - CNPJ - Cadastro Nacional de Pessoas Jurídica ou CPF - Cadastro de Pessoas Físicas.
+
+Outras informações
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+Sistema e-SAP -  Sistema Administrativo de Processo Eletrônico
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária:
+Subanexo 14 ao Anexo 15 ao RICMS - Da Escrituração Fiscal Digital (EFD) e Resolução/SEFAZ Nº 2.510 de 18/11/2013.
+ 
+Unidade responsável pela atualização das informações
+Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE)
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE)
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Vinícius Martinez Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 58.00 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário Sistema e-SAP -  Sistema Administrativo de Processo Eletrônico Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária: Subanexo 14 ao Anexo 15 ao RICMS - Da Escrituração Fiscal Digital (EFD) e Resolução/SEFAZ Nº 2.510 de 18/11/2013. Unidade responsável pela atualização das informações Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE) Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE) Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Vinícius Martinez
+

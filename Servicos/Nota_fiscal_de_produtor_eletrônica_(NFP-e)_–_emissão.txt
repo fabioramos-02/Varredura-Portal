@@ -1,0 +1,99 @@
+Nota fiscal de produtor eletrônica (NFP-e) – emissão
+O que é este serviço?
+Emissão de Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição à Nota Fiscal de Produtor (NFP), modelo 4.
+OBSERVAÇÕES:
+
+Considera-se Nota Fiscal de Produtor Eletrônica (NFP-e) o documento emitido, assinado e armazenado eletronicamente pela Secretaria de Fazenda do Estado de Mato Grosso do Sul, de existência apenas digital, com a finalidade de documentar operações com produtos agropecuários, inclusive operações de saída de gado bovino e bubalino, antes da ocorrência do fato gerador. Assim, será emitido o DANFE, que é o documento utilizado para acompanhar o trânsito de mercadorias acobertado por NFP-e, o qual será impresso em uma única via;
+O contribuinte da agropecuária pode, opcionalmente, utilizar a Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição à Nota Fiscal do Produtor, Série Especial (NFP/SE) de que trata o Subanexo II, ao Anexo XV, ao Regulamento do ICMS;
+A utilização da NFP-e não dispensa o destinatário da emissão da nota fiscal relativa à entrada dos respectivos produtos no seu estabelecimento, prevista no art. 33 do Anexo XV - Das Obrigações Acessórias, ao RICMS; com exceção dos casos descritos pelo art. 19-C, § 5°, I do Subanexo XII ao Anexo XV do RICMS;
+Tratando-se de operação tributada, a NFP-e deverá ser acompanhada do respectivo documento de arrecadação. Emissão de Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição à Nota Fiscal de Produtor (NFP), modelo 4. OBSERVAÇÕES:
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Na hipótese de emissão direta no e-Fazenda:
+
+
+ Acesso ao e-Fazenda, mediante acesso à conta “gov.br” ou certificado digital;
+ Dados necessários à emissão da NFP-e (remetente, destinatário, descrição dos produtos, quantidades, valores, etc.);
+ Guia de Transito Animal (GTA), fornecido pela IAGRO, quando se tratar de animais sujeitos à fiscalização daquela Agência (também pode ser emitida eletronicamente através do Programa Saniagro).
+
+
+Na hipótese de emissão pela Agência Fazendária:
+
+
+Quando o solicitante for o contribuinte ou representante legal (pais, tutores, curadores, inventariante, etc.):
+
+
+Documento oficial com foto;
+Senha de acesso ao e-Fazenda;
+Dados necessários à emissão da NFP-e (remetente, destinatário, descrição dos produtos, quantidades, valores, etc.);
+Guia de Transito Animal (GTA), fornecido pelo IAGRO, quando se tratar de animais sujeitos à fiscalização daquela Agência (também pode ser emitida eletronicamente através do Programa Saniagro);
+Termo de Inventariante, quando se tratar de espólio (e autorização judicial, se for o caso);
+Documento que comprove a representação legal, quando se tratar de emissão solicitada pelo pai/mãe, tutor, curador, etc. 
+
+
+Quando o solicitante for o procurador:
+
+
+Procuração por instrumento público ou particular, com firma reconhecida e que contenha a especificação dos poderes, tais como: cadastro e acesso à conta no e-Fazenda, solicitação e emissão de documentos fiscais;
+Documento oficial com foto;
+Senha de acesso ao e-Fazenda;
+Dados necessários à emissão da NFP-e (remetente, destinatário, descrição dos produtos, quantidades, valores, etc.);
+Guia de Transito Animal (GTA), fornecido pelo IAGRO, quando se tratar de animais sujeitos à fiscalização daquela Agência (também pode ser emitida eletronicamente através do Programa Saniagro).
+
+B) Estar inscrito no Cadastro de Contribuintes da Agropecuária (CAP) e estar em situação regular com suas obrigações tributárias;
+C) Estar cadastrado no e-Fazenda;
+D) Na hipótese de emissão pelas Agências Fazendárias por intermédio de procurador, este deverá se cadastrar no e-Fazenda. A) Documentos necessários: B) Estar inscrito no Cadastro de Contribuintes da Agropecuária (CAP) e estar em situação regular com suas obrigações tributárias; C) Estar cadastrado no e-Fazenda; D) Na hipótese de emissão pelas Agências Fazendárias por intermédio de procurador, este deverá se cadastrar no e-Fazenda.
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS
+
+Prazos
+5 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas a) Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e, quando a natureza da operação não estiver restrita às Agenfas; ou
+b) Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP), ou pessoalmente ou por intermédio de um procurador em qualquer Agência Fazendária ou Posto de Atendimento (mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso). a) Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e, quando a natureza da operação não estiver restrita às Agenfas; ou b) Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP), ou pessoalmente ou por intermédio de um procurador em qualquer Agência Fazendária ou Posto de Atendimento (mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”, quando o canal de acesso ao serviço for o e-SAP.
+OBSERVAÇÃO: Após a emissão da NFP-e, o contribuinte deve realizar a conferência das informações registradas no documento fiscal, e caso identifique algum erro, deverá efetuar o cancelamento da nota fiscal dentro do prazo de 144 horas, sem custo, desde que não tenha ocorrido a circulação de mercadoria ou a prestação do serviço. Segue o link do serviço de cancelamento de NFP-e dentro do prazo de 144 horas, para mais informações: https://www.catalogo.sefaz.ms.gov.br/nota-fiscal-de-produtor-eletronica-nfp-e-cancelamento-dentro-do-prazo-de-144h/. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”, quando o canal de acesso ao serviço for o e-SAP. OBSERVAÇÃO: Após a emissão da NFP-e, o contribuinte deve realizar a conferência das informações registradas no documento fiscal, e caso identifique algum erro, deverá efetuar o cancelamento da nota fiscal dentro do prazo de 144 horas, sem custo, desde que não tenha ocorrido a circulação de mercadoria ou a prestação do serviço. Segue o link do serviço de cancelamento de NFP-e dentro do prazo de 144 horas, para mais informações: https://www.catalogo.sefaz.ms.gov.br/nota-fiscal-de-produtor-eletronica-nfp-e-cancelamento-dentro-do-prazo-de-144h/.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Imediato ou 5 dias 
+ 
+Canais de acesso a este serviço
+
+Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e, quando a natureza da operação não estiver restrita às Agenfas; ou 
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP), ou pessoalmente ou por intermédio de um procurador em qualquer Agência Fazendária ou Posto de Atendimento (mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso).
+
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistemas NFP-E/NFA-E ou e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 19-C do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC
+ 
+Unidade responsável pela recepção do pedido
+On-line ou Agência Fazendária 
+ 
+Unidade responsável pela prestação do serviço
+Autoatendimento ou Agência Fazendária 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Elias Zuanazzi 
+Anderson Luiz Correa da Costa 
+Ewerton Cruz Cordeiros 
+Telefone: 3318-3152 Quanto tempo leva (prazo máximo para atendimento)? Imediato ou 5 dias Canais de acesso a este serviço Canais de comunicação ao usuário e-Fazenda - Sistemas NFP-E/NFA-E ou e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 19-C do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC Unidade responsável pela recepção do pedido On-line ou Agência Fazendária Unidade responsável pela prestação do serviço Autoatendimento ou Agência Fazendária Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Elias Zuanazzi Anderson Luiz Correa da Costa Ewerton Cruz Cordeiros Telefone: 3318-3152
+

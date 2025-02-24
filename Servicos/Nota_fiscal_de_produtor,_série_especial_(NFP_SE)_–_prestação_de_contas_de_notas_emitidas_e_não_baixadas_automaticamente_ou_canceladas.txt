@@ -1,0 +1,108 @@
+Nota fiscal de produtor, série especial (NFP/SE) – prestação de contas de notas emitidas e não baixadas automaticamente ou canceladas
+O que é este serviço?
+Prestar contas de Nota Fiscal de Produtor, Série Especial (NFP/SE) emitidas e não baixadas automaticamente ou canceladas Prestar contas de Nota Fiscal de Produtor, Série Especial (NFP/SE) emitidas e não baixadas automaticamente ou canceladas
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+1. Na hipótese de prestação de contas realizada diretamente pelo produtor no e-Fazenda:
+a. Acesso ao e-Fazenda;
+b. Os DANFES referentes às Notas Fiscais Eletrônicas (NF-e) não corretamente referenciadas, para fins de referenciamento manual e consequente baixa da pendência, quando cabível;
+c. As 2ª vias das notas fiscais emitidas e que estiverem pendentes de prestação de contas, acompanhadas das respectivas notas fiscais de entrada ou declaração de recebimento, conforme o caso, para fins de preenchimento no momento da emissão da Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição às NFP/SE pendentes.
+2. Na hipótese de prestação de contas realizada pela Agência Fazendária no e-Fazenda:
+a. Documento oficial com foto;
+b. Acesso ao e-Fazenda;
+c. Os DANFES referentes às Notas Fiscais Eletrônicas (NF-e) não corretamente referenciadas, para fins de referenciamento manual e consequente baixa da pendência, quando cabível;
+d. As 2ª vias das notas fiscais emitidas e que estiverem pendentes de prestação de contas, acompanhadas das respectivas notas fiscais de entrada ou declaração de recebimento, conforme o caso, para fins de preenchimento no momento da emissão da Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição às NFP/SE pendentes;
+e. Procuração por instrumento público ou particular, com firma reconhecida e que contenha a especificação dos poderes, tais como: cadastro e acesso à conta no e-Fazenda, solicitação e emissão de documentos fiscais, quando a prestação de contas for realizada por procurador.
+OBSERVAÇÃO: em nenhuma das hipóteses haverá devolução dos talonários ou da 2ª via à Agência Fazendária, devendo o emitente manter sob sua guarda durante o período decacional.
+B) Estar cadastrado no e-Fazenda;
+C) Possuir NFP/SE pendentes de prestação de contas em virtude do não referenciamento automático via referenciamento a uma Nota Fiscal Eletrônica Entrada (NF-e) ou a uma Nota Fiscal do Produtor Eletrônica (NFP-e);
+D) Realizar prestação de contas mediante:
+
+Referenciamento manual na hipótese em que o destinatário da NFP-SE não tenha feito o referenciamento corretamente; art. 19-A § 2°, I do Subanexo XII ao Anexo XV do RICMS. 
+Substituição pela Nota Fiscal do Produtor Eletrônica (NFP-e), quando:
+
+a) a nota fiscal emitida pelo destinatário, por ocasião da entrada, não seja eletrônica;
+b) o destinatário não tenha emitido nota fiscal por ocasião da entrada;
+c) o destinatário seja consumidor final ou não esteja obrigado à emissão do documento fiscal;
+d) a Nota Fiscal de Produtor, Série Especial, não seja documento hábil para acobertar a operação.
+
+Cancelamento sempre que ocorrer:
+
+a) erro ou rasura no seu preenchimento;
+b) defeito na impressão;
+c) desfazimento da operação, desde que não tenha havido a circulação das mercadorias;
+d) o vencimento do prazo para sua utilização;
+e) o extravio, a perda ou a inutilização, com pagamento da multa por extravio de documento fiscal.
+OBSERVAÇÃO: Os formulários impressos devem ser cancelados mediante a inscrição, em sentido transversal, do termo “cancelado” e a anotação do motivo que determinou o seu cancelamento e, se for o caso, o número da nova nota fiscal emitida em substituição.
+E) Observar o prazo para utilização do formulário como documento válido, que é de:
+i. 30 (trinta) dias após a data da impressão do formulário da Nota Fiscal de Produtor, Série Especial, nos casos em que, no momento da impressão, seja identificado o destinatário e este esteja apto a receber as mercadorias com diferimento do lançamento e do pagamento do imposto, nos termos da legislação pertinente; 
+ii. 90 (noventa) dias contados da data da impressão do formulário da Nota Fiscal de Produtor, Série Especial, nos demais casos;
+iii. ou 31 de dezembro de cada ano, em todos os casos;
+F) Fazer a prestação de contas de todas as notas emitidas até o dia 10 (dez) do mês subsequente ao da emissão ou do vencimento do prazo de validade do formulário, o que ocorrer primeiro;
+G) Fazer o pagamento da multa no valor de 0,9 (noventa por cento) Uferms por nota fiscal cuja prestação de contas ocorreu fora do prazo ou foi extraviada (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial);
+H) Fazer o pagamento da multa de 6 (seis) Uferms por nota emitida em formulário vencido (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial);
+I) Na hipótese de substituição pela NFP-e, fazer o recolhimento do ICMS ou do FUNDERSUL/FUNDEMS quando devidos. A) Documentos necessários: 1. Na hipótese de prestação de contas realizada diretamente pelo produtor no e-Fazenda: a. Acesso ao e-Fazenda; b. Os DANFES referentes às Notas Fiscais Eletrônicas (NF-e) não corretamente referenciadas, para fins de referenciamento manual e consequente baixa da pendência, quando cabível; c. As 2ª vias das notas fiscais emitidas e que estiverem pendentes de prestação de contas, acompanhadas das respectivas notas fiscais de entrada ou declaração de recebimento, conforme o caso, para fins de preenchimento no momento da emissão da Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição às NFP/SE pendentes. 2. Na hipótese de prestação de contas realizada pela Agência Fazendária no e-Fazenda: a. Documento oficial com foto; b. Acesso ao e-Fazenda; c. Os DANFES referentes às Notas Fiscais Eletrônicas (NF-e) não corretamente referenciadas, para fins de referenciamento manual e consequente baixa da pendência, quando cabível; d. As 2ª vias das notas fiscais emitidas e que estiverem pendentes de prestação de contas, acompanhadas das respectivas notas fiscais de entrada ou declaração de recebimento, conforme o caso, para fins de preenchimento no momento da emissão da Nota Fiscal de Produtor Eletrônica (NFP-e) em substituição às NFP/SE pendentes; e. Procuração por instrumento público ou particular, com firma reconhecida e que contenha a especificação dos poderes, tais como: cadastro e acesso à conta no e-Fazenda, solicitação e emissão de documentos fiscais, quando a prestação de contas for realizada por procurador. OBSERVAÇÃO: em nenhuma das hipóteses haverá devolução dos talonários ou da 2ª via à Agência Fazendária, devendo o emitente manter sob sua guarda durante o período decacional. B) Estar cadastrado no e-Fazenda; C) Possuir NFP/SE pendentes de prestação de contas em virtude do não referenciamento automático via referenciamento a uma Nota Fiscal Eletrônica Entrada (NF-e) ou a uma Nota Fiscal do Produtor Eletrônica (NFP-e); D) Realizar prestação de contas mediante: a) a nota fiscal emitida pelo destinatário, por ocasião da entrada, não seja eletrônica; b) o destinatário não tenha emitido nota fiscal por ocasião da entrada; c) o destinatário seja consumidor final ou não esteja obrigado à emissão do documento fiscal; d) a Nota Fiscal de Produtor, Série Especial, não seja documento hábil para acobertar a operação. a) erro ou rasura no seu preenchimento; b) defeito na impressão; c) desfazimento da operação, desde que não tenha havido a circulação das mercadorias; d) o vencimento do prazo para sua utilização; e) o extravio, a perda ou a inutilização, com pagamento da multa por extravio de documento fiscal. OBSERVAÇÃO: Os formulários impressos devem ser cancelados mediante a inscrição, em sentido transversal, do termo “cancelado” e a anotação do motivo que determinou o seu cancelamento e, se for o caso, o número da nova nota fiscal emitida em substituição. E) Observar o prazo para utilização do formulário como documento válido, que é de: i. 30 (trinta) dias após a data da impressão do formulário da Nota Fiscal de Produtor, Série Especial, nos casos em que, no momento da impressão, seja identificado o destinatário e este esteja apto a receber as mercadorias com diferimento do lançamento e do pagamento do imposto, nos termos da legislação pertinente; ii. 90 (noventa) dias contados da data da impressão do formulário da Nota Fiscal de Produtor, Série Especial, nos demais casos; iii. ou 31 de dezembro de cada ano, em todos os casos; F) Fazer a prestação de contas de todas as notas emitidas até o dia 10 (dez) do mês subsequente ao da emissão ou do vencimento do prazo de validade do formulário, o que ocorrer primeiro; G) Fazer o pagamento da multa no valor de 0,9 (noventa por cento) Uferms por nota fiscal cuja prestação de contas ocorreu fora do prazo ou foi extraviada (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial); H) Fazer o pagamento da multa de 6 (seis) Uferms por nota emitida em formulário vencido (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial); I) Na hipótese de substituição pela NFP-e, fazer o recolhimento do ICMS ou do FUNDERSUL/FUNDEMS quando devidos.
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS
+
+Prazos
+15 Acesso Imediato.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Da multa no valor de 0,9 (noventa por cento) Uferms por nota fiscal cuja prestação de contas ocorreu fora do prazo ou foi extraviada (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial);
+Da multa de 6 (seis) Uferms por nota emitida em formulário vencido (já aplicada a redução prevista na legislação e emitida automaticamente pelo Sistema Série Especial);
+Na hipótese de substituição pela NFP-e, fazer o recolhimento do ICMS ou do FUNDERSUL/FUNDEMS quando devidos. a) Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Série Especial, Módulo “Prestação de Contas”; ou
+b) Pessoalmente ou através do seu representante legal no Posto de Atendimento ou Agência Fazendária. a) Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Série Especial, Módulo “Prestação de Contas”; ou b) Pessoalmente ou através do seu representante legal no Posto de Atendimento ou Agência Fazendária.
+
+Outras informações
+Quais os custos?
+Sem custo 
+ 
+Custo das Multas
+
+3 Uferms por documento extraviado, Código 644, conforme art. 117, IV, alínea “m”, e art. 118 da Lei nº 1.810/1997, sem prejuízo da redução prevista no art. 118, da mesma Lei;
+3 Uferms por nota fiscal cuja prestação de contas ocorrer fora do prazo, Código 644, conforme art. 117 Lei nº 1.810/1997, sem prejuízo da redução prevista no art. 118, da mesma Lei;
+20 Uferms por nota fiscal cuja emissão tenha sido realizada em formulário vencido, Código 644, conforme art. 117 da Lei nº 1.810/1997, sem prejuízo da redução prevista no art. 118, da mesma Lei.
+
+ 
+Canais de acesso a este serviço
+
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Série Especial, Módulo “Prestação de Contas”; ou
+Pessoalmente ou através do seu representante legal no Posto de Atendimento ou Agência Fazendária.
+
+ 
+Canais de comunicação ao usuário
+Cientificação Pessoal ou Sistema Série Especial
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigo 1º, §§ 1º, II, 2º, 9º, artigo 4º, inciso III, artigo 5º do Subanexo 002 ao Anexo 015 ao Regulamento do ICMS – RICMS
+Artigo 5º da Resolução/SEFAZ nº 2.611, de 12/02/2015
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC
+ 
+Unidade responsável pela recepção do pedido
+On-line ou Agência Fazendária 
+ 
+Unidade responsável pela prestação do serviço
+Autoatendimento ou Agência Fazendária 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Elias Zuanazzi 
+Anderson Luiz Correa da Costa 
+Ewerton Cruz Cordeiros 
+Telefone: 3318-3152 Quais os custos? Sem custo Custo das Multas Canais de acesso a este serviço Canais de comunicação ao usuário Cientificação Pessoal ou Sistema Série Especial Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC Unidade responsável pela recepção do pedido On-line ou Agência Fazendária Unidade responsável pela prestação do serviço Autoatendimento ou Agência Fazendária Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Elias Zuanazzi Anderson Luiz Correa da Costa Ewerton Cruz Cordeiros Telefone: 3318-3152
+

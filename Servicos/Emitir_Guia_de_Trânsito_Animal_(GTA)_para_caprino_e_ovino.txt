@@ -1,0 +1,195 @@
+Emitir Guia de Trânsito Animal (GTA) para caprino e ovino
+O que é este serviço?
+Emissão de guia de trânsito intraestadual e interestadual de caprinos e ovinos. Emissão de guia de trânsito intraestadual e interestadual de caprinos e ovinos.
+
+Exigências para realizar o serviço
+Ter a exploração pecuária de caprinos e ovinos cadastrada e atualizada no e-Saniagro. Ter a exploração pecuária de caprinos e ovinos cadastrada e atualizada no e-Saniagro.
+
+Quem pode utilizar este serviço?
+Produtor rural e/ou seu representante legal. Produtor rural e/ou seu representante legal.
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+sem custo
+
+1. Confirmação da GTA
+Etapas Acessar o sistema e-Saniagro para emitir a GTA.
+A GTA manual pode ser emitida em casos excepcionais e será registrada no sistema após a emissão. Acessar o sistema e-Saniagro para emitir a GTA. A GTA manual pode ser emitida em casos excepcionais e será registrada no sistema após a emissão. 1. Confirmação da GTA
+
+
+A confirmação da GTA é obrigatória.
+
+
+Para GTAs eletrônicas, o destinatário deve confirmar a entrada no sistema em até 7 dias após o vencimento da GTA.
+
+
+2. Cancelamento da GTA
+
+
+Caso o trânsito dos animais não seja realizado, a e-GTA pode ser cancelada.
+
+
+O cancelamento deve ser feito:
+
+
+Dentro de 24 horas pelo produtor rural, através do seu perfil no sistema.
+
+
+Após 24 horas, o cancelamento deve ser solicitado em uma Unidade Local da IAGRO.
+
+
+
+
+3. Validade da GTA
+
+
+A validade da GTA varia conforme o meio de transporte:
+
+
+Para transporte rodoviário, a validade é de até 3 dias corridos.
+
+
+
+
+4. Prorrogação da GTA
+
+
+Se houver necessidade de prolongar a movimentação, é possível solicitar uma extensão do prazo em uma Unidade Local da IAGRO.
+
+
+ 
+PONTOS ADICIONAIS PARA EMISSÃO 
+1. Documentação Necessária
+
+
+A GTA deve estar acompanhada de outros documentos válidos, como:
+
+
+Nota Fiscal (dependendo do propósito do trânsito: abate, reprodução, exposições, etc.).
+
+
+Atestado Sanitário Clínico (para alguns transbordos, comprovando a ausência de enfermidades como febre aftosa, epididimite ovina, etc.).
+
+
+
+
+2. Informações Detalhadas na e-GTA
+
+
+Durante a emissão, o produtor ou seu representante deve informar:
+
+
+Rota do trânsito (estradas, cidades de passagem e pontos de referência).
+
+
+Essas informações são essenciais para rastreabilidade e controle.
+
+
+
+
+3. Atualização do Cadastro
+
+
+Manter o cadastro da propriedade e dos animais sempre atualizado no sistema e-SANIAGRO.
+
+
+A emissão da GTA só é autorizada para propriedades registradas e em conformidade.
+
+
+4. Compliance com Normas de Transporte
+
+
+Seguir as orientações do "Manual de Boas Práticas de Manejo".
+
+
+Atender às exigências sanitárias gerais durante o transporte dos animais.
+
+
+5. Confirmação de GTAs Pendentes
+
+
+Se houver GTAs pendentes, o produtor deve confirmá-las.
+
+
+A ficha sanitária estará impedida de emitir novas e-GTAs até que a comunicação seja realizada. A confirmação da GTA é obrigatória. Para GTAs eletrônicas, o destinatário deve confirmar a entrada no sistema em até 7 dias após o vencimento da GTA. Caso o trânsito dos animais não seja realizado, a e-GTA pode ser cancelada. O cancelamento deve ser feito: Dentro de 24 horas pelo produtor rural, através do seu perfil no sistema. Após 24 horas, o cancelamento deve ser solicitado em uma Unidade Local da IAGRO. A validade da GTA varia conforme o meio de transporte: Para transporte rodoviário, a validade é de até 3 dias corridos. Se houver necessidade de prolongar a movimentação, é possível solicitar uma extensão do prazo em uma Unidade Local da IAGRO. PONTOS ADICIONAIS PARA EMISSÃO A GTA deve estar acompanhada de outros documentos válidos, como: Nota Fiscal (dependendo do propósito do trânsito: abate, reprodução, exposições, etc.). Atestado Sanitário Clínico (para alguns transbordos, comprovando a ausência de enfermidades como febre aftosa, epididimite ovina, etc.). Durante a emissão, o produtor ou seu representante deve informar: Rota do trânsito (estradas, cidades de passagem e pontos de referência). Essas informações são essenciais para rastreabilidade e controle. Manter o cadastro da propriedade e dos animais sempre atualizado no sistema e-SANIAGRO. A emissão da GTA só é autorizada para propriedades registradas e em conformidade. Seguir as orientações do "Manual de Boas Práticas de Manejo". Atender às exigências sanitárias gerais durante o transporte dos animais. Se houver GTAs pendentes, o produtor deve confirmá-las. A ficha sanitária estará impedida de emitir novas e-GTAs até que a comunicação seja realizada. 1. Vinculação do Transportador e Veículo
+
+
+O transportador e o veículo devem ser vinculados ao documento de trânsito através do "App Transportador".
+
+
+O transportador deve:
+
+
+Registrar eletronicamente o trajeto.
+
+
+Confirmar o desembarque no destino informado na GTA.
+
+
+
+
+2. Comunicação de Entrada de Animais
+
+
+Para entradas de animais provenientes de outras unidades da federação:
+
+
+Comunicar à IAGRO em até 7 dias após o vencimento da GTA.
+
+
+Apresentar a GTA original.
+
+
+
+
+3. Condições da Propriedade
+
+
+Garantir que os animais estejam em boas condições de saúde antes do transporte.
+
+
+Monitorar o estado sanitário dos animais para evitar o transporte de animais doentes. O transportador e o veículo devem ser vinculados ao documento de trânsito através do "App Transportador". O transportador deve: Registrar eletronicamente o trajeto. Confirmar o desembarque no destino informado na GTA. Para entradas de animais provenientes de outras unidades da federação: Comunicar à IAGRO em até 7 dias após o vencimento da GTA. Apresentar a GTA original. Garantir que os animais estejam em boas condições de saúde antes do transporte. Monitorar o estado sanitário dos animais para evitar o transporte de animais doentes. 1. Suspensão da Emissão da GTA
+
+
+A emissão da e-GTA pode ser suspensa se a propriedade estiver sob investigação epidemiológica.
+
+
+A suspensão permanece até a conclusão da investigação.
+
+
+2. Responsabilidade por Atestados
+
+
+Todos os atestados sanitários devem ser:
+
+
+Firmados por médicos veterinários registrados.
+
+
+Claros e em conformidade com as exigências legais.
+
+
+
+
+3. Cumprimento de Prazos
+
+
+O produtor deve cumprir rigorosamente os prazos estabelecidos na portaria:
+
+
+Para emissão, confirmação e comunicação.
+
+
+O não cumprimento pode resultar em sanções administrativas. A emissão da e-GTA pode ser suspensa se a propriedade estiver sob investigação epidemiológica. A suspensão permanece até a conclusão da investigação. Todos os atestados sanitários devem ser: Firmados por médicos veterinários registrados. Claros e em conformidade com as exigências legais. O produtor deve cumprir rigorosamente os prazos estabelecidos na portaria: Para emissão, confirmação e comunicação. O não cumprimento pode resultar em sanções administrativas.
+
+Outras informações
+Legislação: Portaria Iagro MS nº 3.736/2024, que estabelece normas e procedimentos para o trânsito intraestadual e interestadual de caprinos e ovinos no Estado do Mato Grosso do Sul e dar outras providências.
+
+Manual de Procedimentos para o Trânsito de Caprinos e Ovinos – Versão 1.0
+
+Dúvidas e informações: pnsco@iagro.ms.gov.br Legislação: Portaria Iagro MS nº 3.736/2024, que estabelece normas e procedimentos para o trânsito intraestadual e interestadual de caprinos e ovinos no Estado do Mato Grosso do Sul e dar outras providências.
+
+Manual de Procedimentos para o Trânsito de Caprinos e Ovinos – Versão 1.0 Dúvidas e informações: pnsco@iagro.ms.gov.br
+

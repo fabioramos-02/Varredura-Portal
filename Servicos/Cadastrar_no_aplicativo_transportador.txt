@@ -1,0 +1,44 @@
+Cadastrar no aplicativo transportador
+O que é este serviço?
+Cadastro online de motoristas e veículos (transportadores)  de cargas vivas para utilizar o App Transportador. Cadastro online de motoristas e veículos (transportadores)  de cargas vivas para utilizar o App Transportador.
+
+Exigências para realizar o serviço
+Possuir Cadastro de Pessoa Física (CPF) e Carteira Nacional de Habilitação (CNH)
+Possuir veículo com registro (renavam)
+Baixar o APP (disponível em Google Play e Apple Store) Possuir Cadastro de Pessoa Física (CPF) e Carteira Nacional de Habilitação (CNH) Possuir veículo com registro (renavam) Baixar o APP (disponível em Google Play e Apple Store)
+
+Quem pode utilizar este serviço?
+Qualquer pessoa física com Carteira Nacional de Habilitação (CNH) Qualquer pessoa física com Carteira Nacional de Habilitação (CNH)
+
+Prazos
+5 Minutos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acessar o sistema, através deste link
+Inserir as informações solicitadas referente ao motorista (transportador). 
+
+Identificação - CPF e CNH (número registro, em vermelho) 
+Dados pessoais - nome, telefone, RG, UF, órgão expedidor e email motorista
+Endereço - CEP, logradouro, nº, complemento, bairro, UF, cidade
+Importar documento -  emissão, validade, categoria e UF da CNH. Anexar arquivo do documento. 
+
+Após realizado o cadastro no site, os dados serão utilizados no App Transportador (disponível no Google Play e App Store). Acessar o sistema, através deste link Inserir as informações solicitadas referente ao motorista (transportador). Após realizado o cadastro no site, os dados serão utilizados no App Transportador (disponível no Google Play e App Store). Cadastrar o veículo, a carroceria ou embarcação, no site da IAGRO.
+
+Para cadastrar o veiculo Clique aqui.
+Pra cadastrar a carroceria  Clique aqui.
+Para cadastar a embarcação Clique aqui. Cadastrar o veículo, a carroceria ou embarcação, no site da IAGRO. Acessar a loja do celular - Google Play ou APP Store
+Confirmar o icone do aplicativo: Acessar a loja do celular - Google Play ou APP Store Confirmar o icone do aplicativo: Após o cadastro do motorista e veículo feitos no site (etapas 1 e 2) e baixar o app no celular (etapa 3):
+
+Fazer login no App Transportador com o CPF e CNH. 
+Para o primeiro login, o usuário deverá estar online (wifi ou dados móveis). 
+
+ 
+Caso o usuário desejar, poderá clicar em "permanecer conectado" para entrar direto nos próximos acessos. Após o cadastro do motorista e veículo feitos no site (etapas 1 e 2) e baixar o app no celular (etapa 3): Caso o usuário desejar, poderá clicar em "permanecer conectado" para entrar direto nos próximos acessos.
+
+Outras informações
+Legislação: 
+Portaria Iagro n. 3.730, de 22/04/2024, que estabelece o controle efetivo do transporte de animais vivos através do “Programa de Certificação Sanitária do Transporte de Cargas Vivas” no Estado de Mato Grosso do Sul e dá outras providências. Legislação: Portaria Iagro n. 3.730, de 22/04/2024, que estabelece o controle efetivo do transporte de animais vivos através do “Programa de Certificação Sanitária do Transporte de Cargas Vivas” no Estado de Mato Grosso do Sul e dá outras providências.
+

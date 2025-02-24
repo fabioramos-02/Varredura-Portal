@@ -1,0 +1,22 @@
+Conceder acesso ao Gitlabs.
+O que é este serviço?
+Serviço de gestão dos códigos fontes, provendo a hospedagem e versionamento destes Serviço de gestão dos códigos fontes, provendo a hospedagem e versionamento destes
+
+Exigências para realizar o serviço
+Abrir chamado de suporte por e-mail Abrir chamado de suporte por e-mail
+
+Quem pode utilizar este serviço?
+Todos os desenvolvedores que publicam aplicações na SETDIG Todos os desenvolvedores que publicam aplicações na SETDIG
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas
+
+Outras informações
+Envie um incidente para suporte-east@fazenda.ms.gov.br, contendo: nome completo, e-mail e equipe para criação das credenciais. Envie um incidente para suporte-east@fazenda.ms.gov.br, contendo: nome completo, e-mail e equipe para criação das credenciais.
+

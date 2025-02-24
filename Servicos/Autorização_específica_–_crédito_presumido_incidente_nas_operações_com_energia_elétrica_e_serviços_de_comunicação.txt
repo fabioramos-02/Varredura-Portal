@@ -1,0 +1,78 @@
+Autorização específica – crédito presumido incidente nas operações com energia elétrica e serviços de comunicação
+O que é este serviço?
+Concessão de Autorização Específica para utilização do benefício de crédito presumido sobre o valor do imposto incidente nas operações com energia elétrica ou serviços de comunicação, nos seguintes termos:
+a)  No caso de empresas fornecedoras de energia elétrica, o crédito presumido será no valor equivalente a até 10% (dez por cento) do valor do faturamento bruto de seus estabelecimentos localizados neste Estado, verificado no segundo mês anterior ao da apropriação do crédito concedido;
+b) No caso de empresas prestadoras de serviços de comunicação, o crédito presumido será no valor equivalente a até 10% (dez por cento) do valor do faturamento bruto de seus estabelecimentos localizados neste Estado, verificado no segundo mês anterior ao da apropriação do crédito concedido. Concessão de Autorização Específica para utilização do benefício de crédito presumido sobre o valor do imposto incidente nas operações com energia elétrica ou serviços de comunicação, nos seguintes termos: a)  No caso de empresas fornecedoras de energia elétrica, o crédito presumido será no valor equivalente a até 10% (dez por cento) do valor do faturamento bruto de seus estabelecimentos localizados neste Estado, verificado no segundo mês anterior ao da apropriação do crédito concedido; b) No caso de empresas prestadoras de serviços de comunicação, o crédito presumido será no valor equivalente a até 10% (dez por cento) do valor do faturamento bruto de seus estabelecimentos localizados neste Estado, verificado no segundo mês anterior ao da apropriação do crédito concedido.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento, com a descrição das operações ou prestações que realiza, indicando as disposições legais ou regulamentares em que se encontra amparado o benefício do crédito presumido, assinado pelo sócio da empresa ou seu representante legal, contendo a qualificação completa do requerente (inclusive endereço para correspondência, TELEFONE e e-mail);
+Cópia do documento de identidade e cópia do comprovante de inscrição no Cadastro da Pessoa Física – CPF – dos sócios e diretores da sociedade ou, se for o caso, do empresário individual;
+Cópia da procuração que confira os respectivos poderes, no caso em que o requerimento seja assinado por procurador, com documento de identidade do procurador;
+Cópia do comprovante de inscrição no Cadastro Nacional da Pessoa Jurídica – CNPJ;
+Cópia do comprovante de residência do titular ou dos sócios e diretores;
+Cópia do contrato social ou da publicação do estatuto e da ata da assembleia geral que elegeu a última diretoria, bem como de suas respectivas alterações, quando se tratar de pessoa jurídica; ou cópia do documento que comprove o registro na Junta Comercial do Estado de Mato Grosso do Sul – JUCEMS, quando se tratar de pessoa que explora o estabelecimento como empresário individual;
+Certidão simplificada da Junta Comercial do Estado de MS – JUCEMS – expedida nos últimos 30 (trinta) dias anteriores à data do requerimento de autorização específica;
+DAEMS referente à Taxa de Serviços Estaduais no valor de 5 (cinco) Uferms, com comprovação do pagamento;
+Certidão Negativa de Débitos, emitida no site da SEFAZ ou da PGE, ou Certidão Circunstanciada – Com Efeito de Negativa, emitida na Agência Fazendária ou na Procuradoria Geral do Estado.
+
+B) Estar cadastrado no e-Fazenda e possuir inscrição estadual ativa no Cadastro de Comércio, Indústria e Serviços – CCIS;
+C) Tratar-se de empresa fornecedora de energia elétrica ou prestadora de serviços de comunicação.
+D) Não possuir pendências fiscais e/ou cadastrais junto ao Fisco Estadual;
+E) No caso de energia elétrica, o crédito presumido somente pode ser concedido a título de liquidação de débitos de órgãos do Poder Executivo Estadual ou de entidades a ele vinculadas, decorrentes do consumo de energia elétrica, adquirida da empresa fornecedora beneficiária;
+F) No caso de serviços de comunicação, o crédito presumido somente pode ser concedido a título de liquidação de débitos de órgãos do Poder Executivo Estadual ou de entidades a ele vinculadas, decorrentes de aquisição de serviços de comunicação prestados pela empresa beneficiária. 
+Observação: 
+
+Energia elétrica: A apropriação do crédito presumido, para fins de compensação com débito do imposto, deve ser feita na Escrituração Fiscal Digital (EFD), mediante o registro do respectivo valor no campo 08 (Valor total de “ajustes a crédito”) do Registro E110 (Apuração do ICMS), com a utilização do código de ajuste MS020032 - Crédito (Art. 70-A do Anexo I do RICMS), no campo 02 (Código de ajuste da apuração) do Registro E111 (Ajuste da Apuração do ICMS);
+
+
+Serviços de comunicação: A apropriação do crédito presumido, para fins de compensação com débito do imposto, deve ser feita na Escrituração Fiscal Digital (EFD), mediante o registro do respectivo valor no campo 08 (Valor total de “ajustes a crédito”) do Registro E110 (Apuração do ICMS), com a utilização do código de ajuste MS020032 - Crédito (Art. 77-B do Anexo I do RICMS), no campo 02 (Código de ajuste da apuração) do Registro E111 (Ajuste da Apuração do ICMS). A) Documentos necessários: B) Estar cadastrado no e-Fazenda e possuir inscrição estadual ativa no Cadastro de Comércio, Indústria e Serviços – CCIS; C) Tratar-se de empresa fornecedora de energia elétrica ou prestadora de serviços de comunicação. D) Não possuir pendências fiscais e/ou cadastrais junto ao Fisco Estadual; E) No caso de energia elétrica, o crédito presumido somente pode ser concedido a título de liquidação de débitos de órgãos do Poder Executivo Estadual ou de entidades a ele vinculadas, decorrentes do consumo de energia elétrica, adquirida da empresa fornecedora beneficiária; F) No caso de serviços de comunicação, o crédito presumido somente pode ser concedido a título de liquidação de débitos de órgãos do Poder Executivo Estadual ou de entidades a ele vinculadas, decorrentes de aquisição de serviços de comunicação prestados pela empresa beneficiária. Observação:
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS
+
+Prazos
+120 Dias corridos.
+
+Quais os custos?
+Cinco Uferms
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Fazer a emissão da Taxa de Serviços Estaduais de 5 (cinco) Uferms e efetuar o pagamento na rede bancária credenciada (OBS.: essa taxa será gerada no próprio sistema e-SAP). Fazer a emissão da Taxa de Serviços Estaduais de 5 (cinco) Uferms e efetuar o pagamento na rede bancária credenciada (OBS.: essa taxa será gerada no próprio sistema e-SAP). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+5 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 49.01 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigos 70-A e 77-B do Anexo I ao Regulamento do ICMS - RICMS
+Artigos 72 a 77 do Anexo V ao Regulamento do ICMS - RICMS
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços - COFICS
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços - COFICS
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Leonardo Lopes da Silva
+Telefone: 3322-7600 Quais os custos? 5 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 49.01 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços - COFICS Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços - COFICS Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Leonardo Lopes da Silva Telefone: 3322-7600
+

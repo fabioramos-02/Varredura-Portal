@@ -1,0 +1,219 @@
+Registrar estabelecimento no serviço de inspeção estadual (SIE)
+O que é este serviço?
+Registrar estabelecimento de produtos de origem animal no serviço de inspeção estadual (SIE). Registrar estabelecimento de produtos de origem animal no serviço de inspeção estadual (SIE).
+
+Exigências para realizar o serviço
+Ter Inscrição Estadual 
+Preencher o requerimento
+Pagar as taxas do serviço Ter Inscrição Estadual Preencher o requerimento Pagar as taxas do serviço
+
+Quem pode utilizar este serviço?
+Qualquer pessoa física ou  jurídica com inscrição estadual. Qualquer pessoa física ou  jurídica com inscrição estadual.
+
+Prazos
+30 Dias úteis.
+
+Quais os custos?
+UFERMS 15
+
+Etapas
+Etapas Acessar serviços públicos 
+Fazer a autenticação com Inscrição Estadual  (IE) e código de acesso
+Se a Inscrição Estadual (IE) não tiver um código de acesso vinculado, ao clicar para gerar o código, o requerente receberá as instruções no e-mail cadastrado na SEFAZ Acessar serviços públicos Fazer a autenticação com Inscrição Estadual  (IE) e código de acesso Se a Inscrição Estadual (IE) não tiver um código de acesso vinculado, ao clicar para gerar o código, o requerente receberá as instruções no e-mail cadastrado na SEFAZ Informar o tipo de construção - terreno, estabelecimento em construção ou estabelecimento construído.
+Selecionar o subtipo - carnes e derivados, leite e derivados, mel e derivados, ovos e derivados ou pescado e derivados
+Informar a classificação - poderá escolher mais de uma classificação 
+Clicar em próximo Informar o tipo de construção - terreno, estabelecimento em construção ou estabelecimento construído. Selecionar o subtipo - carnes e derivados, leite e derivados, mel e derivados, ovos e derivados ou pescado e derivados Informar a classificação - poderá escolher mais de uma classificação Clicar em próximo Informações obtidas na SEFAZ não poderão ser alteradas:
+
+CNPJ, Inscrição Estadual, nome, razão social e e-mail informado na SEFAZ
+
+Informar:
+
+
+Via de acesso
+
+
+Coordenada geográfica (pode ser preenchida com latitude e longitude em graus ou decimais, ou através do mapa)
+
+
+Telefone Informações obtidas na SEFAZ não poderão ser alteradas: Informar: Via de acesso Coordenada geográfica (pode ser preenchida com latitude e longitude em graus ou decimais, ou através do mapa) Telefone Informações a serem fornecidas:
+
+
+Via de acesso
+
+
+Licença Ambiental:
+
+
+Número
+
+
+Validade
+
+
+Capacidade
+
+
+
+
+Certificado de Regularidade no Conselho de Classe (do estabelecimento):
+
+
+Informar "Sim", "Não" ou o número do certificado.
+
+
+
+
+Responsável Técnico (verificar IAGRO):
+
+
+CPF
+
+
+Nome
+
+
+Formação técnica
+
+
+Nº no Conselho de Classe / UF (se aplicável) + nome do conselho (ex.: CRMV, CREA, etc.)
+
+
+Observação:
+Caso o Responsável Técnico (RT) ainda não possua cadastro, ele deverá ser realizado mediante envio dos documentos necessários. Esse cadastro não será efetuado através do requerimento de solicitação de registro. Via de acesso Licença Ambiental: Número Validade Capacidade Certificado de Regularidade no Conselho de Classe (do estabelecimento): Informar "Sim", "Não" ou o número do certificado. CPF Nome Formação técnica Nº no Conselho de Classe / UF (se aplicável) + nome do conselho (ex.: CRMV, CREA, etc.) Observação:
+Caso o Responsável Técnico (RT) ainda não possua cadastro, ele deverá ser realizado mediante envio dos documentos necessários. Esse cadastro não será efetuado através do requerimento de solicitação de registro. Será exibido um resumo com as informações inseridas.
+
+
+Se houver algo a ser alterado, clique em "Anterior" para voltar e corrigir.
+
+
+Se todos os dados estiverem corretos, clique em "Salvar e prosseguir".
+
+
+Importante:
+Para evitar a perda dos dados já preenchidos, informe "Sim" na caixa de mensagem exibida pelo sistema, quando ele perguntar se deseja enviar os dados parcialmente. Será exibido um resumo com as informações inseridas. Se houver algo a ser alterado, clique em "Anterior" para voltar e corrigir. Se todos os dados estiverem corretos, clique em "Salvar e prosseguir". Importante:
+Para evitar a perda dos dados já preenchidos, informe "Sim" na caixa de mensagem exibida pelo sistema, quando ele perguntar se deseja enviar os dados parcialmente. Instruções para envio de arquivos:
+
+
+Formato: Todos os arquivos devem ser enviados em PDF
+
+
+Quantidade: Para cada tipo de anexo, é permitido incluir mais de um arquivo
+
+
+Anexos necessários:
+
+
+Documentos técnicos e plantas:
+
+
+Planta de situação
+
+
+Planta baixa
+
+
+Planta de fachada
+
+
+Planta de cortes
+
+
+Planta de layout de equipamentos
+
+
+Planta hidrossanitária
+
+
+
+
+Documentos legais e comprobatórios:
+
+
+Comprovante de responsabilidade técnica do projeto
+
+
+Memorial de construção
+
+
+Memorial econômico sanitário
+
+
+Termo de compromisso
+
+
+Alvará da prefeitura
+
+
+Licença ambiental
+
+
+Laudo de análise microbiológica
+
+
+Contrato social
+
+
+Contrato de venda
+
+
+
+
+Documentos cadastrais e pessoais:
+
+
+CNPJ atualizado
+
+
+Comprovante de inscrição estadual
+
+
+Comprovante de RG e CPF
+
+
+Certificado de regularidade
+
+
+Comprovante de responsabilidade técnica
+
+
+Apresentação do programa de qualidade
+
+
+
+
+ 
+Concordar com a veracdade dos dados. Formato: Todos os arquivos devem ser enviados em PDF Quantidade: Para cada tipo de anexo, é permitido incluir mais de um arquivo Documentos técnicos e plantas: Planta de situação Planta baixa Planta de fachada Planta de cortes Planta de layout de equipamentos Planta hidrossanitária Documentos legais e comprobatórios: Comprovante de responsabilidade técnica do projeto Memorial de construção Memorial econômico sanitário Termo de compromisso Alvará da prefeitura Licença ambiental Laudo de análise microbiológica Contrato social Contrato de venda Documentos cadastrais e pessoais: CNPJ atualizado Comprovante de inscrição estadual Comprovante de RG e CPF Certificado de regularidade Comprovante de responsabilidade técnica Apresentação do programa de qualidade Concordar com a veracdade dos dados. Para acompanhar a solicitação, acesse Serviços Públicos e informe a inscrição estadual e o código de cesso.
+Status da solicitação:
+
+Pendente de análise: A solicitação está aguardando avaliação.
+Requerimento devolvido:
+
+Será detalhado o motivo da devolução.
+Em caso de devolução, o requerente deverá regularizar a pendência clicando no botão "Próximo".
+
+
+Aguardando vistoria local: A solicitação está aguardando a realização da vistoria.
+
+ 
+Desistência da solicitação:
+
+A qualquer momento, o requerente poderá desistir da solicitação clicando no botão amarelo "Desistir". Para acompanhar a solicitação, acesse Serviços Públicos e informe a inscrição estadual e o código de cesso. Status da solicitação: Desistência da solicitação: DAEMS referente a análise de projeto
+Quando o requerimento estiver com todos os documentos necessários e o parecer da vistoria inicial for favorável, será gerado o DAEMS e enviado por e-mail. DAEMS referente a análise de projeto Quando o requerimento estiver com todos os documentos necessários e o parecer da vistoria inicial for favorável, será gerado o DAEMS e enviado por e-mail. A Iagro analisará a documentação apresentada e entrará em contato para agendar a data da vistoria. A Iagro analisará a documentação apresentada e entrará em contato para agendar a data da vistoria. DAEMS referente a taxa de registro
+Quando o parecer for favorável será gerado o DAEMS e enviado por e-mail. DAEMS referente a taxa de registro Quando o parecer for favorável será gerado o DAEMS e enviado por e-mail. O Título de Registro (certificado) será assinado pela autoridade competente e disponibilizado pela Iagro.
+O estabelecimento estará cadastrado no e-Saniagro. O Título de Registro (certificado) será assinado pela autoridade competente e disponibilizado pela Iagro. O estabelecimento estará cadastrado no e-Saniagro.
+
+Outras informações
+Legislação: 
+Lei Estadual 4.820 de 10/03/2016, dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas.
+
+Decreto Estadual 14.756 de 12/06/2017, Regulamenta a Lei nº 4.820, de 10 de março de 2016, que dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas.
+
+Decreto Estadual n° 15.550, de 19 de novembro de 2020, Acrescenta dispositivos ao Decreto nº 14.756, de 12 de junho de 2017, que regulamenta a Lei nº 4.820, de 10 de março de 2016, que dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas
+Portaria Iagro MS DIPOA nº 3.695 de 21/12/2022
+Valor da UFERMS Clique Aqui
+Dúvidas: dipoa@iagro.ms.gov.br Legislação: Lei Estadual 4.820 de 10/03/2016, dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas.
+
+Decreto Estadual 14.756 de 12/06/2017, Regulamenta a Lei nº 4.820, de 10 de março de 2016, que dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas.
+
+Decreto Estadual n° 15.550, de 19 de novembro de 2020, Acrescenta dispositivos ao Decreto nº 14.756, de 12 de junho de 2017, que regulamenta a Lei nº 4.820, de 10 de março de 2016, que dispõe sobre as normas que regulam a obrigatoriedade de prévia inspeção e fiscalização dos produtos de origem animal, produzidos no Estado de Mato Grosso do Sul, destinados ao consumo, e sobre matérias correlatas Portaria Iagro MS DIPOA nº 3.695 de 21/12/2022 Valor da UFERMS Clique Aqui Dúvidas: dipoa@iagro.ms.gov.br
+

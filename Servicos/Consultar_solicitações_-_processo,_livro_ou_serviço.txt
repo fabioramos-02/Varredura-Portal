@@ -1,0 +1,33 @@
+Consultar solicitações - processo, livro ou serviço
+O que é este serviço?
+Trata-se de um serviço web que permite consultar os serviços solicitados junto a JUCEMS, tais como:
+
+Processos de aberturas, alterações, extinções ou outros documentos de interesse da empresa que foram levados para registro na JUCEMS;
+Solicitações de autenticação de livro digitais e;
+Certidões Digitais ou Fichas Cadastrais solicitadas.
+
+No caso de processo em pendência, a consulta fornecerá informações necessárias para que a mesma possa ser sanada/cumprida, exceto no caso de livro mercantil.
+A consulta é realizada no site da JUCEMS no link https://portalservicos.jucems.ms.gov.br/Portal/pages/consultaProcesso.jsf.
+A JUCEMS oferece a Consulta Processo, Livro e Serviços, solicitados e disponibilizados pela internet em tempo real. Trata-se de um serviço web que permite consultar os serviços solicitados junto a JUCEMS, tais como: No caso de processo em pendência, a consulta fornecerá informações necessárias para que a mesma possa ser sanada/cumprida, exceto no caso de livro mercantil. A consulta é realizada no site da JUCEMS no link https://portalservicos.jucems.ms.gov.br/Portal/pages/consultaProcesso.jsf. A JUCEMS oferece a Consulta Processo, Livro e Serviços, solicitados e disponibilizados pela internet em tempo real.
+
+Exigências para realizar o serviço
+É necessário ter o número da sua solicitação de serviço ou processo, conforme o caso.
+Verifique o número de protocolo da sua solicitação constante na Guia de Recolhimento gerada para a mesma. É necessário ter o número da sua solicitação de serviço ou processo, conforme o caso. Verifique o número de protocolo da sua solicitação constante na Guia de Recolhimento gerada para a mesma.
+
+Quem pode utilizar este serviço?
+Qualquer cidadão que efetuou uma solicitação de registro de processo, livro ou serviço na JUCEMS. Qualquer cidadão que efetuou uma solicitação de registro de processo, livro ou serviço na JUCEMS.
+
+Prazos
+1 Minuto.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas O interessado deve acessar ao site da JUCEMS, www.jucems.ms.gov.br, e depois localizar e clicar na opção selecionar a opção “Consulta Processo” disponibilizado na área “Consultas”; O interessado deve acessar ao site da JUCEMS, www.jucems.ms.gov.br, e depois localizar e clicar na opção selecionar a opção “Consulta Processo” disponibilizado na área “Consultas”; O sistema irá solicitar o nº do protocolo da solicitação e em seguida clicar em pesquisar; O sistema irá solicitar o nº do protocolo da solicitação e em seguida clicar em pesquisar; O sistema retornará com o resultado da pesquisa e em caso da solicitação estar aprovada, disponibilizará o link para download do documento.
+Obs: A JUCEMS disponibiliza o download da solicitação aprovada pelo prazo de até trinta dias após aprovação, após esse prazo a referida solicitação é descartada. O sistema retornará com o resultado da pesquisa e em caso da solicitação estar aprovada, disponibilizará o link para download do documento.
+Obs: A JUCEMS disponibiliza o download da solicitação aprovada pelo prazo de até trinta dias após aprovação, após esse prazo a referida solicitação é descartada.
+
+Outras informações
+O serviço dessas consultas são gratuitos. O serviço dessas consultas são gratuitos.
+

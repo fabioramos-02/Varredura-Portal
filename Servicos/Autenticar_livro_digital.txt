@@ -1,0 +1,48 @@
+Autenticar livro digital
+O que é este serviço?
+O Livro Digital (livros contábeis ou não dos empresários individuais, das sociedades, bem como dos livros dos agentes auxiliares do comércio) consiste no envio eletrônico da escrituração das empresas para a Junta Comercial do Estado de Mato Grosso do Sul, sendo que esta escrituração deverá ser assinada digitalmente, pelo administrador e o contador da empresa, através de Assinatura Avançada. A autenticação é a verificação das informações contidas nos Termos de Abertura e Encerramento dos livros das empresas registradas na JUCEMS e no ato de reconhecimento do documento como verdadeiro. O serviço está disponível para todos os tipos jurídicos. O Livro Digital (livros contábeis ou não dos empresários individuais, das sociedades, bem como dos livros dos agentes auxiliares do comércio) consiste no envio eletrônico da escrituração das empresas para a Junta Comercial do Estado de Mato Grosso do Sul, sendo que esta escrituração deverá ser assinada digitalmente, pelo administrador e o contador da empresa, através de Assinatura Avançada. A autenticação é a verificação das informações contidas nos Termos de Abertura e Encerramento dos livros das empresas registradas na JUCEMS e no ato de reconhecimento do documento como verdadeiro. O serviço está disponível para todos os tipos jurídicos.
+
+Exigências para realizar o serviço
+Recolhimento pagamento de paragmento referente ao serviço;
+Selo de Confiabilidade (Prata ou Ouro) de cada assinante (administrador e do contador da empresa), obtido no portal gov.br.
+Procuração, para os casos em que a escrituração é assinada por procurador. O arquivamento do instrumento de mandato (procuração) com poderes específicos para o ato na JUCEMS é obrigatório;
+O Livro Digital deve estar no formato PDF/A (pesquisável), com tamanho máximo de 10 Mb (megabytes) e com a resolução recomendada entre 150 e 250 dpi, desde que o arquivo fique legível, na cor Preto e Branco ou Black and White dependendo do idioma do software de digitalização, tamanho A4. Recolhimento pagamento de paragmento referente ao serviço;
+Selo de Confiabilidade (Prata ou Ouro) de cada assinante (administrador e do contador da empresa), obtido no portal gov.br.
+Procuração, para os casos em que a escrituração é assinada por procurador. O arquivamento do instrumento de mandato (procuração) com poderes específicos para o ato na JUCEMS é obrigatório;
+O Livro Digital deve estar no formato PDF/A (pesquisável), com tamanho máximo de 10 Mb (megabytes) e com a resolução recomendada entre 150 e 250 dpi, desde que o arquivo fique legível, na cor Preto e Branco ou Black and White dependendo do idioma do software de digitalização, tamanho A4.
+
+Quem pode utilizar este serviço?
+O público alvo é todo empresário e/ou seu representante que tenha o desejo solicitar o arquivamento de Livro Digital de sua empresa ou aquelas nas quais está representando. O público alvo é todo empresário e/ou seu representante que tenha o desejo solicitar o arquivamento de Livro Digital de sua empresa ou aquelas nas quais está representando.
+
+Prazos
+1 Dia útil.
+
+Quais os custos?
+R$143,00
+
+Etapas
+Etapas Acesse o nosso Portal de Serviços, https://portalservicos.jucems.ms.gov.br/Portal, efetue o login, depois clique na opção Solicitar Autenticação; Acesse o nosso Portal de Serviços, https://portalservicos.jucems.ms.gov.br/Portal, efetue o login, depois clique na opção Solicitar Autenticação; Localize e selecione a empresa pelo Nome Empresarial, NIRE ou CNPJ; Localize e selecione a empresa pelo Nome Empresarial, NIRE ou CNPJ; Para dar prosseguimento na solicitação, gere e recolha a guia de recolhimento, caso ainda não tenha emitido seu GR clique aqui. Para dar prosseguimento na solicitação, gere e recolha a guia de recolhimento, caso ainda não tenha emitido seu GR clique aqui. Informar no campo "Número de arrecadação estadual - DAE" a guia de recolhimento paga e clicar em avançar; Informar no campo "Número de arrecadação estadual - DAE" a guia de recolhimento paga e clicar em avançar; Informar se será assinado por procurador e clicar em avançar;
+Preencher todos os campos referentes aos termos (abertura e encerramento);
+Clicar em avançar e escolher se utilizará o próprio termo ou o padrão gerado automaticamente pelo sistema;
+Anexar o arquivo do livro digital; Informar se será assinado por procurador e clicar em avançar;
+Preencher todos os campos referentes aos termos (abertura e encerramento);
+Clicar em avançar e escolher se utilizará o próprio termo ou o padrão gerado automaticamente pelo sistema;
+Anexar o arquivo do livro digital; As partes deverão assinar com a assinatura avançada gov.br. As partes deverão assinar com a assinatura avançada gov.br. Enviar Livro Digital para JUCEMS, clicando na opção enviar para a Junta. Enviar Livro Digital para JUCEMS, clicando na opção enviar para a Junta. Após o deferimento, fazer o download do livro digital autenticado. Após o deferimento, fazer o download do livro digital autenticado.
+
+Outras informações
+Os valores praticados para a autenticação de Livros Digitais estão dispostos na Tabela de Preços da JUCEMS.
+Consulte o valor deste serviço em http://www.jucems.ms.gov.br/taxas
+Você deverá acompanhar a análise da sua solicitação através da opção “Livro Digital -> Consultar Solicitação” e caso ela já esteja aprovada, realize o download.
+Obs: A JUCEMS disponibiliza o download da solicitação aprovada pelo prazo de até trinta dias após aprovação, após esse prazo a referida solicitação é descartada.
+Dúvidas frequentes sobre Livro Digital:
+
+Qual o valor a ser pago para autenticação do livro digital?
+	
+Para cada arquivo contendo um livro digital é gerado uma GR Online.
+O valor encontra-se disponível no site da JUCEMS, http://www.jucems.ms.gov.br/taxas.
+		 
+
+
+Caso for utilizar procuração, a mesma deverá ter poderes para a prática do ato (INSTRUÇÃO NORMATIVA DREI nº 82 § 2º do Art. 6,  alterada pela Instrução Normativa DREI nº 55, de 02 de junho de 2021) e deverá ser arquivada na Junta Comercial, antes do envio do livro digital. O arquivamento de tal procuração na JUCEMS é obrigatório. Os valores praticados para a autenticação de Livros Digitais estão dispostos na Tabela de Preços da JUCEMS. Consulte o valor deste serviço em http://www.jucems.ms.gov.br/taxas Você deverá acompanhar a análise da sua solicitação através da opção “Livro Digital -> Consultar Solicitação” e caso ela já esteja aprovada, realize o download.
+Obs: A JUCEMS disponibiliza o download da solicitação aprovada pelo prazo de até trinta dias após aprovação, após esse prazo a referida solicitação é descartada. Dúvidas frequentes sobre Livro Digital:
+

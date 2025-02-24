@@ -1,0 +1,72 @@
+Nota fiscal eletrônica (NF-e), modelo 55 – pedido de cancelamento extemporâneo
+O que é este serviço?
+Solicitação de pedido de cancelamento extemporâneo de Nota Fiscal Eletrônica – NF-e, modelo 55 (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NF-e).
+ 
+ATENÇÃO: O cancelamento da NF-e NÃO será autorizado quando se tratar de:
+- NF-e com Registro de Passagem pelo Fisco;
+- NF-e vinculada a CT-e devidamente autorizado;
+- NF-e registrada em EFD própria;
+- NF-e registrada em EFD de terceiros;
+- NF-e denegada;
+- NF-e com confirmação da operação pelo destinatário;
+- NF-e já cancelada;
+- NF-e vinculada a MDF-e devidamente autorizado;
+- NF-e vinculada a MDF-e autorizado com evento de encerramento;
+- IE em situação irregular (cancelada ou baixada);
+- NF-e com Evento de Averbação de Exportação;
+- NF-e com Evento de Vistoria SUFRAMA e Internalização SUFRAMA.
+- NF-e vinculada à Duplicata Escritural
+- NF-e com registro de Insucesso na Entrega da Mercadoria
+- NF-e com registro de Evento de Conciliação Financeira (ECONF)
+Após o pedido ser processado e autorizado pela SEFAZ, o contribuinte deve realizar o procedimento do cancelamento extemporâneo da NF-e.
+Eventuais dúvidas podem ser enviadas por meio do FALE CONOSCO (Assunto: NF-e). Solicitação de pedido de cancelamento extemporâneo de Nota Fiscal Eletrônica – NF-e, modelo 55 (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NF-e). ATENÇÃO: O cancelamento da NF-e NÃO será autorizado quando se tratar de: - NF-e com Registro de Passagem pelo Fisco; - NF-e vinculada a CT-e devidamente autorizado; - NF-e registrada em EFD própria; - NF-e registrada em EFD de terceiros; - NF-e denegada; - NF-e com confirmação da operação pelo destinatário; - NF-e já cancelada; - NF-e vinculada a MDF-e devidamente autorizado; - NF-e vinculada a MDF-e autorizado com evento de encerramento; - IE em situação irregular (cancelada ou baixada); - NF-e com Evento de Averbação de Exportação; - NF-e com Evento de Vistoria SUFRAMA e Internalização SUFRAMA. - NF-e vinculada à Duplicata Escritural - NF-e com registro de Insucesso na Entrega da Mercadoria - NF-e com registro de Evento de Conciliação Financeira (ECONF) Após o pedido ser processado e autorizado pela SEFAZ, o contribuinte deve realizar o procedimento do cancelamento extemporâneo da NF-e. Eventuais dúvidas podem ser enviadas por meio do FALE CONOSCO (Assunto: NF-e).
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+1. Chave de acesso da NF-e.
+B) Ter ultrapassado o prazo de 144 horas contado a partir da Autorização da NF-e. A) Documentos necessários: 1. Chave de acesso da NF-e. B) Ter ultrapassado o prazo de 144 horas contado a partir da Autorização da NF-e.
+
+Quem pode utilizar este serviço?
+Contribuinte (Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS) devidamente cadastrado no e-Fazenda e cujo CNPJ base deve ser igual ao que consta na Chave de Acesso da NF-e a ser cancelada. Contribuinte (Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS) devidamente cadastrado no e-Fazenda e cujo CNPJ base deve ser igual ao que consta na Chave de Acesso da NF-e a ser cancelada.
+
+Prazos
+2 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Entrar na Área Restrita do e-Fazenda, módulo “Serviços ao Contribuinte”, acessar a Opção “Pedido de Cancelamento Extemporâneo de NF-e” e realizar a solicitação do pedido de cancelamento extemporâneo inserindo a(s) chave(s) de acesso. Entrar na Área Restrita do e-Fazenda, módulo “Serviços ao Contribuinte”, acessar a Opção “Pedido de Cancelamento Extemporâneo de NF-e” e realizar a solicitação do pedido de cancelamento extemporâneo inserindo a(s) chave(s) de acesso. Após, o sistema realizará o processamento do pedido de cancelamento extemporâneo da NF-e, devolvendo o retorno da análise no mesmo módulo (SERVIÇOS AO CONTRIBUINTE – Pedido de Cancelamento Extemporâneo de NF-e): pedido autorizado ou não. Após, o sistema realizará o processamento do pedido de cancelamento extemporâneo da NF-e, devolvendo o retorno da análise no mesmo módulo (SERVIÇOS AO CONTRIBUINTE – Pedido de Cancelamento Extemporâneo de NF-e): pedido autorizado ou não. Se autorizado (liberado), o emitente da NF-e (no caso o solicitante) deve realizar o cancelamento pelo seu emissor de NF-e. Se autorizado (liberado), o emitente da NF-e (no caso o solicitante) deve realizar o cancelamento pelo seu emissor de NF-e.
+
+Outras informações
+Quais os custos?
+Sem custo.
+ 
+Canais de acesso a este serviço
+Pela Internet, mediante acesso à área restrita no e-Fazenda, Módulo “Serviços ao Contribuinte”.
+ 
+Canais de comunicação ao usuário
+e-Fazenda – Módulo “Serviços ao Contribuinte” – Pedido de Cancelamento Extemporâneo de NF-e
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 15-A, § 2º do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS. 
+ 
+Unidade responsável pela atualização das informações
+Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE
+ 
+Unidade responsável pela recepção do pedido
+On-line
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Lívia Inara Akamine
+Telefone: 3318-3595 Quais os custos? Sem custo. Canais de acesso a este serviço Pela Internet, mediante acesso à área restrita no e-Fazenda, Módulo “Serviços ao Contribuinte”. Canais de comunicação ao usuário e-Fazenda – Módulo “Serviços ao Contribuinte” – Pedido de Cancelamento Extemporâneo de NF-e Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 15-A, § 2º do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS. Unidade responsável pela atualização das informações Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE Unidade responsável pela recepção do pedido On-line Unidade responsável pela prestação do serviço Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Lívia Inara Akamine Telefone: 3318-3595
+

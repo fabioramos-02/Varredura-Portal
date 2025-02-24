@@ -1,0 +1,479 @@
+Requerer autorização de empresas permissionárias para fins de reparo e manutenção de instrumentos de medição regulamentados
+O que é este serviço?
+Autorizar sociedades empresariais e pelas não empresariais (sociedades simples) que requeiram a autorização para fins de reparo e manutenção de instrumentos de medição regulamentados, sob supervisão metrológica do Inmetro e dos órgãos da Rede Brasileira de Metrologia Legal e Qualidade – Inmetro (RBMLQ-I), nos termos da regulamentação técnica metrológica aplicável. Autorizar sociedades empresariais e pelas não empresariais (sociedades simples) que requeiram a autorização para fins de reparo e manutenção de instrumentos de medição regulamentados, sob supervisão metrológica do Inmetro e dos órgãos da Rede Brasileira de Metrologia Legal e Qualidade – Inmetro (RBMLQ-I), nos termos da regulamentação técnica metrológica aplicável.
+
+Exigências para realizar o serviço
+Empresa permissionária cadastrada e ativa junto a AEM/MS-INMETRO Empresa permissionária cadastrada e ativa junto a AEM/MS-INMETRO
+
+Quem pode utilizar este serviço?
+Empresas interessadas em realizar conserto e manutenção em instrumentos de medição regulamentados pelo INMETRO. Empresas interessadas em realizar conserto e manutenção em instrumentos de medição regulamentados pelo INMETRO.
+
+Prazos
+30 Dias úteis.
+
+Quais os custos?
+Variável: Consultar tabela
+
+Etapas
+Etapas SOLICITAÇÃO PARA CONCESSÃO DE MANUTENÇÃO OU RENOVAÇÃO:
+FOR-Dimel-229 preenchido
+A solicitação de autorização de concessão ou renovação de serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS POR REPRESENTANTE LEGAL DA EMPRESA
+Anexar os seguintes documentos:
+1. Cópia do Contrato Social devidamente registrado no Registro Público de Empresa Mercantis (Junta Comercial) para as Sociedades Empresárias ou no Registro Civil de Pessoas Jurídicas (Cartório de Títulos e Documentos) para as Sociedades Simples, do local de domicílio e compatível com a atividade de manutenção e reparo, ou seja, a cláusula do objeto deve descrever atividades associadas à manutenção e reparo de instrumentos de medição ( balanças).
+Nota:Para empresas que realizarem manutenção e reparo exclusivamente nas atividades da própria sociedade, tais como fabricantes de alimentos, de fertilizantes, de informática, de papel e celulose, as distribuidoras de gás e energia, sindicatos, cooperativas entre outras, deverão apresentar além do Contrato Social, uma declaração, devidamente firmada por seu Representante Legal e averbada em cartório, de que não prestam serviços de manutenção e reparo a terceiros ou com a finalidade econômica;
+2. Certificado de Calibração de todos os instrumentos de medição utilizados para realizar manutenção e reparo de IPNA.
+A calibração de pesos terá sua periodicidade válida a cada dois anos.
+Além de preencher o FOR-Dimel 229 com a descrição detalhada dos pesos, deverá ainda anexar os certificados dos mesmos.
+3. Declaração de Conhecimento acerca da regulamentação técnica metrológica vigente e das condições técnicas a que está sujeita, devendo assumir inteira e total responsabilidade por ações e omissões contrárias a quaisquer das obrigações instituídas e apuradas em ato normativo pertinente expedido pelo Conmetro e Inmetro no âmbito da Metrologia Legal (Fazer declaração em Papel Timbrado)
+4. Cópia do comprovante de capacitação dos técnicos e do responsável técnico de acordo com o escopo solicitado.
+5. Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+6. Lacre de material plástico, contendo o n.º da Autorização e a sigla do Estado;
+Quando for encontrada Não Conformidade após a vistoria, preencher FOR-Dimel-233(Plano de ações, acompanhamento e recomendação).
+SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S)
+No caso de inclusão ou exclusão de responsável técnico e técnicos, a empresa Permissionária deverá preencher o FOR-Dimel-231
+INCLUSÃO
+Anexar:
+a) Cópia do cartão de identificação do(s) técnico(s) assinado(s), conforme Portaria Inmetro nº 457/2021
+b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico de acordo com o escopo solicitado
+Para todo serviço efetuado deverá ser emitido, em duas vias, uma Ordem de Serviço numerada, sendo uma via do cliente e outra via da permissionária.
+A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar prazos vigentes previstos em legislação pertinente.
+A numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos;
+O manual de utilização do PSIE pode ser obtido em:
+servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf
+Nota: Os certificados de verificação e ou calibração originais dos Pesos dos Permissionários deverão estar disponíveis na empresa.
+EXIGÊNCIAS PARA AUTORIZAÇÃO
+
+Instalações apropriadas, quando couber.
+Equipamentos/Instrumentos/Ferramentas adequadas ao que a empresa se propõe.
+A empresa deve manter em arquivo os certificados/laudos dos padrões de sua propriedade.
+Atender às determinações da legislação metrológica e demais normas pertinentes:
+Certificados de calibração e verificação dos Pesos
+As oficinas deverão possuir pesos padrão na quantidade igual à capacidade máxima dos instrumentos para a qual estiver solicitando sua autorização, compatíveis com as cargas mínima, máxima e classe de exatidão dos instrumentos a serem reparados;
+
+Ex: A empresa autorizada para a capacidade de 50 kg deverá possuir pesos padrão onde a somatória individual de cada peso seja igual ou superior à 50 kg e assim sucessivamente até 1000 kg.
+
+Para instrumentos acima de 1.000 kg, poderá a permissionária utilizar o método de substituição de pesos padrão, desde que sejam usados pelo menos 1.000 kg ou 50% da carga máxima, o que for maior.
+
+
+EQUIPAMENTOS NECESSÁRIOS
+ Para balanças de Classe I e II
+
+
+
+BALANÇA CLASSE
+PESO CLASSE
+
+
+I
+F1, E2
+
+
+II
+F2, M1 – ou superior
+
+
+01 (um)
+Peso
+1 mg
+01 (um)
+Peso
+1 g
+
+
+02 (dois)
+Peso
+2 mg
+02 (dois)
+Peso
+2 g
+
+
+01 (um)
+Peso
+5 mg
+01 (um)
+Peso
+5 g
+
+
+01 (um)
+Peso
+10 mg
+01 (um)
+Peso
+10 g
+
+
+02 (dois)
+Peso
+20 mg
+02 (dois)
+Peso
+20 g
+
+
+01 (um)
+Peso
+50 mg
+01 (um)
+Peso
+50 g
+
+
+01 (um)
+Peso
+100 mg
+01 (um)
+Peso
+100 g
+
+
+02 (dois)
+Peso
+200 mg
+02 (dois)
+Peso
+200 g
+
+
+01 (um)
+Peso
+500 mg
+01 (um)
+Peso
+500 g
+
+
+ 
+ 
+ 
+04 (quatro)
+Peso
+1.000 g
+
+
+
+As quantidades acima representam uma sugestão de aquisição. Quantidades diferentes para cada valor nominal serão aceitas, desde que em valores e quantidades suficientes para realização dos ensaios determinados pela Portaria INMETRO nº 236/1994.
+Balanças Classe III e IIII
+Deverão ser utilizados pesos padrão compatíveis com a classe de exatidão do instrumento.
+Para IPNA até 1.000 kg deverá possuir 100% dos pesos calibrados.
+Lembrar que para balanças comerciais, os permissionários deverão possuir pesos F1, F2, M1 ou M2 onde contemple os menores valores de verificação e divisão do instrumento.
+Sugerimos o estojo onde contemple pesos de 1g à 1.000g.
+
+
+
+BALANÇA CLASSE
+PESO CLASSE
+
+
+III e IIII
+M2 – ou superior
+
+
+Complementar*
+Peso
+20 kg
+
+
+01 (um)
+Peso
+10 kg
+
+
+01 (um)
+Peso
+5 kg
+
+
+02 (dois)
+Peso
+2 kg
+
+
+01 (um)
+Peso
+1 kg
+
+
+01 (um)
+Peso
+500 g
+
+
+02 (dois)
+Peso
+200 g
+
+
+01 (um)
+Peso
+100 g
+
+
+01 (um)
+Peso
+50 g
+
+
+02 (dois)
+Peso
+20 g
+
+
+01 (um)
+Peso
+10 g
+
+
+01 (um)
+Peso
+5 g
+
+
+02 (dois)
+Peso
+2 g
+
+
+01 (um)
+Peso
+1 g
+
+
+ 
+ 
+ 
+ 
+
+
+
+As quantidades acima representam uma sugestão de aquisição. Quantidades diferentes para cada valor nominal serão aceitas, desde que em valores e quantidades suficientes para realização dos ensaios determinados pela Portaria INMETRO nº 236/1994.
+RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO
+Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-Dimel-229, em até 30 (trinta) dias antes do término da autorização.
+OBS: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado no PSIE.
+SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO
+Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização.
+ MODIFICAÇÃO DA AUTORIZAÇÃO
+(Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo)
+1) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO)
+
+Toda e qualquer alteração cadastral referente à mudança de telefone, email, redução de escopo, endereço ou atualização deverá ser obrigatoriamente comunicado à AEMMS.
+
+MUDANÇA DE ENDEREÇO e redução no escopo implicará em nova visita e será necessário realizar nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização.
+2) SOLICITAÇÃO DE AUMENTO DE ESCOPO
+
+Preencher o FOR-Dimel-229, e apresentar cópia da capacitação do(s) técnico(s) em papel timbrado.
+Comprovar a existência de padrões compatíveis com o escopo e cartões de identificação dos técnicos devidamente atualizado com o novo escopo.
+OBS:Será necessário realizar nova vistoria com cobrança de taxa e firmado um novo Termo de Responsabilidade e Atestado de Autorização.
+
+3) SOLICITAÇÃO DE REDUÇÃO DE ESCOPO
+
+Preencher o FOR-Dimel-229 anexando cópia do(s) cartão(ões) de identificação atualizado(s).
+Devolver o Atestado de Autorização e o Termo de Responsabilidade.
+
+OBS: Não será necessário fazer vistoria. SOLICITAÇÃO PARA CONCESSÃO DE MANUTENÇÃO OU RENOVAÇÃO: FOR-Dimel-229 preenchido A solicitação de autorização de concessão ou renovação de serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS POR REPRESENTANTE LEGAL DA EMPRESA Anexar os seguintes documentos: 1. Cópia do Contrato Social devidamente registrado no Registro Público de Empresa Mercantis (Junta Comercial) para as Sociedades Empresárias ou no Registro Civil de Pessoas Jurídicas (Cartório de Títulos e Documentos) para as Sociedades Simples, do local de domicílio e compatível com a atividade de manutenção e reparo, ou seja, a cláusula do objeto deve descrever atividades associadas à manutenção e reparo de instrumentos de medição ( balanças). Nota:Para empresas que realizarem manutenção e reparo exclusivamente nas atividades da própria sociedade, tais como fabricantes de alimentos, de fertilizantes, de informática, de papel e celulose, as distribuidoras de gás e energia, sindicatos, cooperativas entre outras, deverão apresentar além do Contrato Social, uma declaração, devidamente firmada por seu Representante Legal e averbada em cartório, de que não prestam serviços de manutenção e reparo a terceiros ou com a finalidade econômica; 2. Certificado de Calibração de todos os instrumentos de medição utilizados para realizar manutenção e reparo de IPNA. A calibração de pesos terá sua periodicidade válida a cada dois anos. Além de preencher o FOR-Dimel 229 com a descrição detalhada dos pesos, deverá ainda anexar os certificados dos mesmos. 3. Declaração de Conhecimento acerca da regulamentação técnica metrológica vigente e das condições técnicas a que está sujeita, devendo assumir inteira e total responsabilidade por ações e omissões contrárias a quaisquer das obrigações instituídas e apuradas em ato normativo pertinente expedido pelo Conmetro e Inmetro no âmbito da Metrologia Legal (Fazer declaração em Papel Timbrado) 4. Cópia do comprovante de capacitação dos técnicos e do responsável técnico de acordo com o escopo solicitado. 5. Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021 6. Lacre de material plástico, contendo o n.º da Autorização e a sigla do Estado; Quando for encontrada Não Conformidade após a vistoria, preencher FOR-Dimel-233(Plano de ações, acompanhamento e recomendação). SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S) No caso de inclusão ou exclusão de responsável técnico e técnicos, a empresa Permissionária deverá preencher o FOR-Dimel-231 INCLUSÃO Anexar: a) Cópia do cartão de identificação do(s) técnico(s) assinado(s), conforme Portaria Inmetro nº 457/2021 b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico de acordo com o escopo solicitado Para todo serviço efetuado deverá ser emitido, em duas vias, uma Ordem de Serviço numerada, sendo uma via do cliente e outra via da permissionária. A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar prazos vigentes previstos em legislação pertinente. A numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos; O manual de utilização do PSIE pode ser obtido em: servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf Nota: Os certificados de verificação e ou calibração originais dos Pesos dos Permissionários deverão estar disponíveis na empresa. EXIGÊNCIAS PARA AUTORIZAÇÃO Ex: A empresa autorizada para a capacidade de 50 kg deverá possuir pesos padrão onde a somatória individual de cada peso seja igual ou superior à 50 kg e assim sucessivamente até 1000 kg. EQUIPAMENTOS NECESSÁRIOS Para balanças de Classe I e II As quantidades acima representam uma sugestão de aquisição. Quantidades diferentes para cada valor nominal serão aceitas, desde que em valores e quantidades suficientes para realização dos ensaios determinados pela Portaria INMETRO nº 236/1994. Balanças Classe III e IIII Deverão ser utilizados pesos padrão compatíveis com a classe de exatidão do instrumento. Para IPNA até 1.000 kg deverá possuir 100% dos pesos calibrados. Lembrar que para balanças comerciais, os permissionários deverão possuir pesos F1, F2, M1 ou M2 onde contemple os menores valores de verificação e divisão do instrumento. Sugerimos o estojo onde contemple pesos de 1g à 1.000g. As quantidades acima representam uma sugestão de aquisição. Quantidades diferentes para cada valor nominal serão aceitas, desde que em valores e quantidades suficientes para realização dos ensaios determinados pela Portaria INMETRO nº 236/1994. RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-Dimel-229, em até 30 (trinta) dias antes do término da autorização. OBS: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado no PSIE. SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização. MODIFICAÇÃO DA AUTORIZAÇÃO (Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo) 1) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO) MUDANÇA DE ENDEREÇO e redução no escopo implicará em nova visita e será necessário realizar nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização. 2) SOLICITAÇÃO DE AUMENTO DE ESCOPO 3) SOLICITAÇÃO DE REDUÇÃO DE ESCOPO OBS: Não será necessário fazer vistoria. OLICITAÇÃO DE AUTORIZAÇÃO: FOR-Dimel-229 preenchido
+A solicitação de autorização para os serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS pelo seu representante legal
+Anexar os seguintes documentos:
+
+Cópia do Contrato Social devidamente registrado no Registro Público de Empresa Mercantis (Junta Comercial) para as Sociedades Empresárias ou no Registro Civil de Pessoas Jurídicas (Cartório de Títulos e Documentos) para as Sociedades Simples, do local de domicílio e compatível com a atividade de manutenção e reparo, ou seja, a cláusula do objeto deve contemplar a atividade de conserto e/ou manutenção em instrumentos de medição médico hospitalares ou correlatos.
+
+
+Declaração de Conhecimento acerca da regulamentação técnica metrológica vigente e das condições técnicas a que está sujeita, devendo assumir inteira e total responsabilidade por ações e omissões contrárias a quaisquer das obrigações instituídas e apuradas em ato normativo pertinente expedido pelo Conmetro e Inmetro no âmbito da Metrologia Legal (Fazer declaração em Papel Timbrado)
+
+
+Cópia do comprovante de capacitação dos técnicos e do responsável técnico de acordo com o escopo solicitado.
+
+
+Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+
+
+Quando for encontrada Não Conformidade após a vistoria, preencher FOR-Dimel-233(Plano de ações, acompanhamento e recomendação).
+
+SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S)
+Preencher FOR-Dimel-231
+INCLUSÃO
+
+Anexar:
+a) Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico
+Para todo serviço efetuado deverá ser emitido uma Ordem de Serviço numerada, em duas vias, sendo uma via do cliente e outra via da permissionária.
+A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar legislação vigente.
+Nestes casos a numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos;
+O proprietário, responsável pelo instrumento, deverá assinar e manter em arquivo às ordens de serviço para cada manutenção realizada pelas permissionárias por um período de 2 anos (portaria 457/2021)
+O manual de utilização do PSIE pode ser obtido em:
+servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf
+Nota: Os certificados de verificação e ou calibração originais deverão estar disponíveis na empresa.
+EXIGÊNCIAS PARA AUTORIZAÇÃO
+
+Instalações apropriadas, quando couber.
+Equipamentos/Instrumentos/Ferramentas adequadas ao que a empresa se propõe.
+A empresa deve manter os certificados/laudos atualizados dos padrões de sua propriedade.
+
+EQUIPAMENTOS NECESSÁRIOS
+Esfigmomanômetro mecânico aneróide, divisão mínimo 1mmHg e máximo 2 mmHg ou Balança calibradora verificada com validade do certificado RBC de 01 (um) ano.
+RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO
+Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-DIMEL-229, em até 30 (trinta) dias antes do término da autorização.
+Observação: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado.
+SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO
+Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização.
+MODIFICAÇÃO DA AUTORIZAÇÃO
+(Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo)
+ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO)
+
+Toda e qualquer alteração cadastral referente à mudança de telefone, email, redução de escopo, endereço ou atualização deverá ser obrigatoriamente comunicado à AEMMS.
+
+MUDANÇA DE ENDEREÇO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização.
+ALTERAÇÃO DE ESCOPO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização.
+Nota: Os cartões de identificação deverão sempre se apresentar atualizados de acordo com alterações cadastrais. APRESENTAR CÓPIA DO(S) NOVO(S) junto com o comunicado.
+TAXA DE SERVIÇO
+* Código 894, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015.
+Legislação
+Portarias
+Portaria INMETRO nº 457/2021
+Portaria INMETRO nº 096/2008
+Portaria INMETRO nº 153/2005
+Normas
+NIT-DISME 006/2015 – revisão 2
+NIT-DISME 007/2016 – revisão 3
+NIT-DISME 008/2016 
+NIE-DIMEL 014/2006 OLICITAÇÃO DE AUTORIZAÇÃO: FOR-Dimel-229 preenchido A solicitação de autorização para os serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS pelo seu representante legal Anexar os seguintes documentos: SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S) Preencher FOR-Dimel-231 INCLUSÃO Anexar: a) Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021 b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico Para todo serviço efetuado deverá ser emitido uma Ordem de Serviço numerada, em duas vias, sendo uma via do cliente e outra via da permissionária. A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar legislação vigente. Nestes casos a numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos; O proprietário, responsável pelo instrumento, deverá assinar e manter em arquivo às ordens de serviço para cada manutenção realizada pelas permissionárias por um período de 2 anos (portaria 457/2021) O manual de utilização do PSIE pode ser obtido em: servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf Nota: Os certificados de verificação e ou calibração originais deverão estar disponíveis na empresa. EXIGÊNCIAS PARA AUTORIZAÇÃO EQUIPAMENTOS NECESSÁRIOS Esfigmomanômetro mecânico aneróide, divisão mínimo 1mmHg e máximo 2 mmHg ou Balança calibradora verificada com validade do certificado RBC de 01 (um) ano. RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-DIMEL-229, em até 30 (trinta) dias antes do término da autorização. Observação: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado. SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização. MODIFICAÇÃO DA AUTORIZAÇÃO (Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO) MUDANÇA DE ENDEREÇO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização. ALTERAÇÃO DE ESCOPO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização. Nota: Os cartões de identificação deverão sempre se apresentar atualizados de acordo com alterações cadastrais. APRESENTAR CÓPIA DO(S) NOVO(S) junto com o comunicado. TAXA DE SERVIÇO * Código 894, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015. Legislação Portarias Portaria INMETRO nº 457/2021 Portaria INMETRO nº 096/2008 Portaria INMETRO nº 153/2005 Normas NIT-DISME 006/2015 – revisão 2 NIT-DISME 007/2016 – revisão 3 NIT-DISME 008/2016 NIE-DIMEL 014/2006 SOLICITAÇÃO DE AUTORIZAÇÃO: FOR-Dimel-229 preenchido
+A solicitação de autorização para os serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS pelo seu representante legal
+Anexar os seguintes documentos:
+
+Cópia do Contrato Social devidamente registrado no Registro Público de Empresa Mercantis (Junta Comercial) para as Sociedades Empresárias ou no Registro Civil de Pessoas Jurídicas (Cartório de Títulos e Documentos) para as Sociedades Simples, do local de domicílio e compatível com a atividade de manutenção e reparo, ou seja, a cláusula do objeto deve contemplar a atividade de conserto e/ou manutenção em bombas medidoras para combustíveis líquidos.
+
+
+ Declaração de Conhecimento acerca da regulamentação técnica metrológica vigente e das condições técnicas a que está sujeita, devendo assumir inteira e total responsabilidade por ações e omissões contrárias a quaisquer das obrigações instituídas e apuradas em ato normativo pertinente expedido pelo Conmetro e Inmetro no âmbito da Metrologia Legal (Fazer declaração em Papel Timbrado)
+
+
+Cópia do comprovante de capacitação dos técnicos e do responsável técnico de acordo com o escopo solicitado.
+
+
+Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+
+
+Quando for encontrada Não Conformidade após a vistoria, preencher FOR-Dimel-233(Plano de ações, acompanhamento e recomendação).
+
+SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S)
+Preencher FOR-Dimel-231
+INCLUSÃO
+Anexar:
+a) Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico
+Para todo serviço efetuado deverá ser emitido uma Ordem de Serviço numerada, em duas vias, sendo uma via do cliente e outra via da permissionária.
+A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar legislação vigente.
+Nestes casos a numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos;
+O proprietário, responsável pelo instrumento, deverá assinar e manter em arquivo às ordens de serviço para cada manutenção realizada pelas permissionárias por um período de 2 anos (portaria 457/2021)
+O manual de utilização do PSIE pode ser obtido em:
+servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf
+Nota: Os certificados de verificação e ou calibração originais deverão estar disponíveis na empresa.
+EXIGÊNCIAS PARA AUTORIZAÇÃO
+
+Instalações apropriadas, quando couber.
+Equipamentos/Instrumentos/Ferramentas adequadas ao que a empresa se propõe.
+A empresa deve manter os certificados/laudos atualizados dos padrões de sua propriedade.
+
+EQUIPAMENTOS NECESSÁRIOS
+1) Trena de 20 m verificada com validade do certificado de 05 (cinco) anos;
+2) Cronômetro (analógico ou digital) verificado com validade do certificado de 2 (dois) anos;
+RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO
+Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-DIMEL-229, em até 30 (trinta) dias antes do término da autorização.
+Observação: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado e lacres azuis no PSIE.
+SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO
+Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização.
+MODIFICAÇÃO DA AUTORIZAÇÃO
+(Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo)
+ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO)
+
+Toda e qualquer alteração cadastral referente à mudança de telefone, email, redução de escopo, endereço ou atualização deverá ser obrigatoriamente comunicado à AEMMS.
+
+MUDANÇA DE ENDEREÇO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização.
+AMPLIAÇÃO DE ESCOPO implicará em nova visita, novo Termo de Responsabilidade e nova cobrança
+Nota: Os cartões de identificação deverão sempre se apresentar atualizados de acordo com alterações cadastrais. APRESENTAR CÓPIA DO(S) NOVO(S) junto com o comunicado.
+TAXA DE SERVIÇO
+* Código 894, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015.
+Legislação
+PORTARIAS
+Portaria INMETRO nº 457/2021
+Portaria INMETRO nº 84/1990
+Portaria INMETRO nº 201/2002
+NORMAS
+NIT-DISME 006/2015 – revisão 2
+NIT-DISME 007/2016 – revisão 3
+NIT-DISME 008/2016 
+NIE-DIMEL 014/2006 SOLICITAÇÃO DE AUTORIZAÇÃO: FOR-Dimel-229 preenchido A solicitação de autorização para os serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS pelo seu representante legal Anexar os seguintes documentos: SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S) Preencher FOR-Dimel-231 INCLUSÃO
+Anexar: a) Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021 b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico Para todo serviço efetuado deverá ser emitido uma Ordem de Serviço numerada, em duas vias, sendo uma via do cliente e outra via da permissionária. A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar legislação vigente. Nestes casos a numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos; O proprietário, responsável pelo instrumento, deverá assinar e manter em arquivo às ordens de serviço para cada manutenção realizada pelas permissionárias por um período de 2 anos (portaria 457/2021) O manual de utilização do PSIE pode ser obtido em: servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf Nota: Os certificados de verificação e ou calibração originais deverão estar disponíveis na empresa. EXIGÊNCIAS PARA AUTORIZAÇÃO EQUIPAMENTOS NECESSÁRIOS 1) Trena de 20 m verificada com validade do certificado de 05 (cinco) anos; 2) Cronômetro (analógico ou digital) verificado com validade do certificado de 2 (dois) anos; RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-DIMEL-229, em até 30 (trinta) dias antes do término da autorização. Observação: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado e lacres azuis no PSIE. SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo fornecidas pelo INMETRO, juntamente com o Atestado de Autorização. MODIFICAÇÃO DA AUTORIZAÇÃO (Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO) MUDANÇA DE ENDEREÇO implicará em nova visita e nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização. AMPLIAÇÃO DE ESCOPO implicará em nova visita, novo Termo de Responsabilidade e nova cobrança Nota: Os cartões de identificação deverão sempre se apresentar atualizados de acordo com alterações cadastrais. APRESENTAR CÓPIA DO(S) NOVO(S) junto com o comunicado. TAXA DE SERVIÇO * Código 894, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015. Legislação PORTARIAS Portaria INMETRO nº 457/2021 Portaria INMETRO nº 84/1990 Portaria INMETRO nº 201/2002 NORMAS NIT-DISME 006/2015 – revisão 2 NIT-DISME 007/2016 – revisão 3 NIT-DISME 008/2016 NIE-DIMEL 014/2006 SOLICITAÇÃO PARA CONCESSÃO DE MANUTENÇÃO OU RENOVAÇÃO:
+FOR-Dimel-229 preenchido
+A solicitação de autorização de concessão ou renovação de serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS POR REPRESENTANTE LEGAL DA EMPRESA
+Anexar os seguintes documentos:
+
+Cópia do Contrato Social devidamente registrado no Registro Público de Empresa Mercantis (Junta Comercial) para as Sociedades Empresárias ou no Registro Civil de Pessoas Jurídicas (Cartório de Títulos e Documentos) para as Sociedades Simples, do local de domicílio e compatível com a atividade de manutenção e reparo, ou seja, a cláusula do objeto deve descrever atividades associadas à manutenção e reparo de instrumentos de medição (BOMBAS MEDIDORAS DE COMBUSTÍVEL LIQUIDO)
+Certificado de Calibração de todos os instrumentos de medição utilizados para realizar manutenção e reparo das bombas medidoras. Além de preencher o FOR-Dimel 229 com a descrição detalhada dos padrões de trabalho, deverá ainda anexar os certificados dos mesmos.
+Declaração de Conhecimento acerca da regulamentação técnica metrológica vigente e das condições técnicas a que está sujeita, devendo assumir inteira e total responsabilidade por ações e omissões contrárias a quaisquer das obrigações instituídas e apuradas em ato normativo pertinente expedido pelo Conmetro e Inmetro no âmbito da Metrologia Legal (Fazer declaração em Papel Timbrado)
+Cópia do comprovante de capacitação dos técnicos e do responsável técnico de acordo com o escopo solicitado.
+Cartão de identidade funcional conforme Portaria Inmetro nº 457/2021
+
+
+Quando for encontrada Não Conformidade após a vistoria, preencher FOR-Dimel-233(Plano de ações, acompanhamento e recomendação).
+
+SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S)
+No caso de inclusão ou exclusão de responsável técnico e técnicos, a empresa Permissionária deverá preencher o FOR-Dimel-231
+INCLUSÃO
+Anexar:
+a) Cópia do cartão de identificação do(s) técnico(s) assinado(s), conforme Portaria Inmetro nº 457/2021
+b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico de acordo com o escopo solicitado
+Para todo serviço efetuado deverá ser emitido, em duas vias, uma Ordem de Serviço numerada, sendo uma via do cliente e outra via da permissionária.
+A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar prazos vigentes previstos em legislação pertinente.
+A numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos;
+O manual de utilização do PSIE pode ser obtido em:
+servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf
+Nota: Os certificados de verificação e ou calibração originais dos Padrões de Trabalho deverão estar disponíveis na empresa.
+EXIGÊNCIAS PARA AUTORIZAÇÃO
+
+Instalações apropriadas, quando couber.
+Equipamentos/Instrumentos/Ferramentas adequadas ao que a empresa se propõe.
+A empresa deve manter em arquivo os certificados/laudos dos padrões de sua propriedade.
+Atender às determinações da legislação metrológica e demais normas pertinentes:
+Certificados de calibração e ou verificação válidos
+
+
+EQUIPAMENTOS NECESSÁRIOS PARA CADA TÉCNICO
+Medida de Volume com certificado de verificação emitido por Órgão Delegado do Inmetro. A periodicidade da verificação é de 06 (seis) meses;
+Trena de 10 m com resolução de pelo menos de 1 mm, com certificado de calibração de serviço acreditado pelo Inmetro. A periodicidade da calibração é de 05 (cinco) anos;
+Cronômetro analógico ou digital com certificado de calibração de serviço acreditado pelo Inmetro. A periodicidade da calibração é de 2 (dois) anos;
+Proveta ou Copo de Becker de, pelo menos, 100 ml e divisão de 10 ml . A periodicidade da calibração é de 12 (doze) meses para proveta de vidro e para proveta de plástico.
+RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO
+Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-Dimel-229, em até 30 (trinta) dias antes do término da autorização.
+OBS: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado no PSIE.
+SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO
+Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo   e selagem fornecidas pelo INMETRO, juntamente com o Atestado de Autorização.
+ MODIFICAÇÃO DA AUTORIZAÇÃO
+(Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo)
+1) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO)
+
+Toda e qualquer alteração cadastral referente à mudança de telefone, email, redução de escopo, endereço ou atualização deverá ser obrigatoriamente comunicado à AEMMS.
+
+MUDANÇA DE ENDEREÇO implicará em nova visita e será necessário realizar nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização.
+TAXA DE SERVIÇO
+TAXA DE SUPERVISÃO TÉCNICA – R$ 762,11
+* Código 895, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015.
+Legislação
+PORTARIAS
+Portaria INMETRO nº 457/2021
+Portaria INMETRO nº 04/2013
+Portaria INMETRO nº 23/1985
+NORMAS
+NIT-DISME 006/2015 – revisão 2
+NIT-DISME 007/2016 – revisão 3
+NIT-DISME 008/2016 
+NIE-DIMEL 014/2006 SOLICITAÇÃO PARA CONCESSÃO DE MANUTENÇÃO OU RENOVAÇÃO: FOR-Dimel-229 preenchido A solicitação de autorização de concessão ou renovação de serviços de manutenção e/ou conserto deve ser apresentada impressa e assinada na AEMMS POR REPRESENTANTE LEGAL DA EMPRESA Anexar os seguintes documentos: SOLICITAÇÃO DE INCLUSÃO/EXCLUSÃO DO RESPONSÁVEL TÉCNICO E TÉCNICO(S) No caso de inclusão ou exclusão de responsável técnico e técnicos, a empresa Permissionária deverá preencher o FOR-Dimel-231 INCLUSÃO Anexar: a) Cópia do cartão de identificação do(s) técnico(s) assinado(s), conforme Portaria Inmetro nº 457/2021 b) Cópia do comprovante de capacitação do(s) técnico(s) e responsável técnico de acordo com o escopo solicitado Para todo serviço efetuado deverá ser emitido, em duas vias, uma Ordem de Serviço numerada, sendo uma via do cliente e outra via da permissionária. A prestação de contas se dará utilizando-se o PSIE – Portal de Serviços do INMETRO nos Estados – site: servicos.inmetro.rs.gov.br. Observar prazos vigentes previstos em legislação pertinente. A numeração da marca de controle deverá ser afixada na via da Ordem de Serviço da oficina, que deverá permanecer arquivada por, pelo menos, dois anos; O manual de utilização do PSIE pode ser obtido em: servicos.inmetro.rs.gov.br/Manuais/ManualOficinas2.pdf Nota: Os certificados de verificação e ou calibração originais dos Padrões de Trabalho deverão estar disponíveis na empresa. EXIGÊNCIAS PARA AUTORIZAÇÃO EQUIPAMENTOS NECESSÁRIOS PARA CADA TÉCNICO Medida de Volume com certificado de verificação emitido por Órgão Delegado do Inmetro. A periodicidade da verificação é de 06 (seis) meses; Trena de 10 m com resolução de pelo menos de 1 mm, com certificado de calibração de serviço acreditado pelo Inmetro. A periodicidade da calibração é de 05 (cinco) anos; Cronômetro analógico ou digital com certificado de calibração de serviço acreditado pelo Inmetro. A periodicidade da calibração é de 2 (dois) anos; Proveta ou Copo de Becker de, pelo menos, 100 ml e divisão de 10 ml . A periodicidade da calibração é de 12 (doze) meses para proveta de vidro e para proveta de plástico. RENOVAÇÃO DO ATESTADO DE AUTORIZAÇÃO Caso a permissionária tenha interesse em manter a autorização, esta deve manifestar-se ao Órgão Delegado, através do FOR-Dimel-229, em até 30 (trinta) dias antes do término da autorização. OBS: Para solicitar a renovação da autorização, a empresa deverá comprovar que está em dia com os lançamentos dos serviços de reparo e manutenção das etiquetas reparado no PSIE. SOLICITAÇÃO DE CANCELAMENTO DA AUTORIZAÇÃO Solicitar à AEMMS, através do formulário FOR-Dimel-229 devolvendo imediatamente as marcas de reparo   e selagem fornecidas pelo INMETRO, juntamente com o Atestado de Autorização. MODIFICAÇÃO DA AUTORIZAÇÃO (Atualização de Escopo, Solicitação de Ampliação ou Redução de Escopo) 1) ALTERAÇÕES CADASTRAIS (ATUALIZAÇÃO DE ESCOPO) MUDANÇA DE ENDEREÇO implicará em nova visita e será necessário realizar nova vistoria firmando um novo Termo de Responsabilidade e Atestado de Autorização. TAXA DE SERVIÇO TAXA DE SUPERVISÃO TÉCNICA – R$ 762,11 * Código 895, conforme Portaria Interministerial MF/MDIC nº 707, de 31 de agosto de 2015. Legislação PORTARIAS Portaria INMETRO nº 457/2021 Portaria INMETRO nº 04/2013 Portaria INMETRO nº 23/1985 NORMAS NIT-DISME 006/2015 – revisão 2 NIT-DISME 007/2016 – revisão 3 NIT-DISME 008/2016 NIE-DIMEL 014/2006
+
+Outras informações
+Procedimentos e etapas de atendimento: Disponível em: http://www.aem.ms.gov.br/?page_id=343
+E-mail: permissionario@aem.ms.gov.br e telefone (67)3317-5774.
+Portaria Inmetro nº 65 de 28 de janeiro de 2.015 disponibilizado no sítio www.inmetro.gov.brEstar 
+ 
+Consultar tabela
+Tabela de taxas metrológicas, anexo da Lei 9.933 de 1999 e Portaria Interministerial nº 44 de 2017. Procedimentos e etapas de atendimento: Disponível em: http://www.aem.ms.gov.br/?page_id=343
+E-mail: permissionario@aem.ms.gov.br e telefone (67)3317-5774. Portaria Inmetro nº 65 de 28 de janeiro de 2.015 disponibilizado no sítio www.inmetro.gov.brEstar Tabela de taxas metrológicas, anexo da Lei 9.933 de 1999 e Portaria Interministerial nº 44 de 2017.
+

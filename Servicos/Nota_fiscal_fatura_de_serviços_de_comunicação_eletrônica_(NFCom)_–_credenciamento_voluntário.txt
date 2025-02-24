@@ -1,0 +1,67 @@
+Nota fiscal fatura de serviços de comunicação eletrônica (NFCom) – credenciamento voluntário
+O que é este serviço?
+Este serviço é uma orientação para a solicitação de credenciamento para a emissão de Nota Fiscal Fatura de Serviços de Comunicação Eletrônica (NFCom). A NFCom, modelo 62, é o documento emitido e armazenado eletronicamente, de existência apenas digital, utilizada com o intuito de documentar prestações relativas aos serviços de comunicação e de telecomunicação, cuja validade jurídica é garantida pela assinatura digital do emitente e pela autorização de uso pela Secretaria de Estado de Fazenda (SEFAZ). 
+O credenciamento para os contribuintes inscritos no Cadastro de Contribuintes deste Estado e obrigados à emissão da NFCom poderá ser conforme Art. 3º, §1º do Subanexo 27 ao Anexo 15: 
+I - voluntário, quando solicitado pelo contribuinte; 
+II - de ofício, quando efetuado pela SEFAZ.
+Para emissão da NFCom, o contribuinte inscrito no Cadastro de Contribuintes deste Estado que não foi credenciado de ofício deve solicitar à SEFAZ, previamente, o seu credenciamento mediante acesso ao Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, no endereço eletrônico https://efazenda.servicos.ms.gov.br. 
+A consulta de empresas credenciadas poderá ser feita no site da SEFAZ-MS no módulo da NFCom no ícone Empresas Credenciadas. 
+O credenciamento ocorre em duas etapas (homologação e produção). Este serviço é uma orientação para a solicitação de credenciamento para a emissão de Nota Fiscal Fatura de Serviços de Comunicação Eletrônica (NFCom). A NFCom, modelo 62, é o documento emitido e armazenado eletronicamente, de existência apenas digital, utilizada com o intuito de documentar prestações relativas aos serviços de comunicação e de telecomunicação, cuja validade jurídica é garantida pela assinatura digital do emitente e pela autorização de uso pela Secretaria de Estado de Fazenda (SEFAZ). O credenciamento para os contribuintes inscritos no Cadastro de Contribuintes deste Estado e obrigados à emissão da NFCom poderá ser conforme Art. 3º, §1º do Subanexo 27 ao Anexo 15: I - voluntário, quando solicitado pelo contribuinte; II - de ofício, quando efetuado pela SEFAZ. Para emissão da NFCom, o contribuinte inscrito no Cadastro de Contribuintes deste Estado que não foi credenciado de ofício deve solicitar à SEFAZ, previamente, o seu credenciamento mediante acesso ao Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, no endereço eletrônico https://efazenda.servicos.ms.gov.br. A consulta de empresas credenciadas poderá ser feita no site da SEFAZ-MS no módulo da NFCom no ícone Empresas Credenciadas. O credenciamento ocorre em duas etapas (homologação e produção).
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+Inicialmente a apresentação de documentos não é necessária.
+B) Requisitos para credenciamento voluntário:
+O contribuinte obrigado à emissão da NFCom e que não tenha sido credenciado de ofício deverá se credenciar voluntariamente no e-Fazenda acessando o Sistema Administrativo de Processo Eletrônico (e-SAP) e nas seguintes condições: 
+1. Estar inscrito no Cadastro de Contribuinte do Estado sem qualquer irregularidade cadastral;  
+2. Estar cadastrado no e-Fazenda; 
+3. Possuir Certificado Digital no padrão ICP-Brasil tipos A1 ou A3, contendo o CNPJ de um dos estabelecimentos da empresa para emissão de NFCom;  
+4. Desenvolver ou adquirir um software emissor de NFCom; 
+5. Observar os padrões técnicos e o leiaute estabelecidos no Manual de Orientação ao Contribuinte – Padrões Técnicos de Comunicação da NFCom. 
+Obs.: o credenciamento deverá ser realizado para cada estabelecimento do contribuinte localizado neste Estado e inscrito sob o mesmo CNPJ-base.
+C) Emissão de NFCom (credenciamento voluntário e de ofício):
+1. Empresas credenciadas de ofício e empresas que tiveram o deferimento do pedido de credenciamento para emissão de NFCom estarão habilitadas em ambiente de homologação e deverão realizar os testes de aplicação do respectivo sistema (ao menos um teste de autorização com finalidade normal e um teste de cancelamento) para migrarem para o ambiente de produção que estará disponível a partir de 1º de novembro de 2025. Salienta-se que, somente após a realização com sucesso dos testes em ambiente de homologação, as empresas estarão aptas a emitir NFCom com validade jurídica no ambiente de produção. 
+Informamos que mesmo após a emissão de NFCom em ambiente de produção, o estabelecimento continuará a ter acesso ao ambiente de homologação para realizar os testes que julgar necessários. Os testes realizados no ambiente de homologação não serão avaliados pela SEFAZ-MS. A) Documentos necessários: Inicialmente a apresentação de documentos não é necessária. B) Requisitos para credenciamento voluntário: O contribuinte obrigado à emissão da NFCom e que não tenha sido credenciado de ofício deverá se credenciar voluntariamente no e-Fazenda acessando o Sistema Administrativo de Processo Eletrônico (e-SAP) e nas seguintes condições: 1. Estar inscrito no Cadastro de Contribuinte do Estado sem qualquer irregularidade cadastral; 2. Estar cadastrado no e-Fazenda; 3. Possuir Certificado Digital no padrão ICP-Brasil tipos A1 ou A3, contendo o CNPJ de um dos estabelecimentos da empresa para emissão de NFCom; 4. Desenvolver ou adquirir um software emissor de NFCom; 5. Observar os padrões técnicos e o leiaute estabelecidos no Manual de Orientação ao Contribuinte – Padrões Técnicos de Comunicação da NFCom. Obs.: o credenciamento deverá ser realizado para cada estabelecimento do contribuinte localizado neste Estado e inscrito sob o mesmo CNPJ-base. C) Emissão de NFCom (credenciamento voluntário e de ofício): 1. Empresas credenciadas de ofício e empresas que tiveram o deferimento do pedido de credenciamento para emissão de NFCom estarão habilitadas em ambiente de homologação e deverão realizar os testes de aplicação do respectivo sistema (ao menos um teste de autorização com finalidade normal e um teste de cancelamento) para migrarem para o ambiente de produção que estará disponível a partir de 1º de novembro de 2025. Salienta-se que, somente após a realização com sucesso dos testes em ambiente de homologação, as empresas estarão aptas a emitir NFCom com validade jurídica no ambiente de produção. Informamos que mesmo após a emissão de NFCom em ambiente de produção, o estabelecimento continuará a ter acesso ao ambiente de homologação para realizar os testes que julgar necessários. Os testes realizados no ambiente de homologação não serão avaliados pela SEFAZ-MS.
+
+Quem pode utilizar este serviço?
+Contribuintes que entregam NF modelos 21 e 22 (Convênio 115/03) e demais contribuintes que desejarem iniciar atividades como prestadores de serviços de comunicação. Contribuintes que entregam NF modelos 21 e 22 (Convênio 115/03) e demais contribuintes que desejarem iniciar atividades como prestadores de serviços de comunicação.
+
+Prazos
+60 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o credenciamento para emissão de NFCom no e-Fazenda acessando o Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar o credenciamento para emissão de NFCom no e-Fazenda acessando o Sistema Administrativo de Processo Eletrônico (e-SAP). Aguardar a análise da solicitação de credenciamento para emissão de NFCom (Etapa 1). Aguardar a análise da solicitação de credenciamento para emissão de NFCom (Etapa 1). Se deferida a solicitação (Etapa 1), a empresa deverá realizar testes em ambiente de homologação (ao menos um teste de autorização com finalidade normal e um teste de cancelamento) para migração para o ambiente de produção que possui validade jurídica. Se deferida a solicitação (Etapa 1), a empresa deverá realizar testes em ambiente de homologação (ao menos um teste de autorização com finalidade normal e um teste de cancelamento) para migração para o ambiente de produção que possui validade jurídica.
+
+Outras informações
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária:
+Subanexo 27 ao Anexo 15 – Da Nota Fiscal Fatura de Serviços de Comunicação Eletrônica (NFCom) e do Documento Auxiliar da NFCom (DANFE-COM) 
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços (COFICS)
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços (COFICS)
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+João Enildo Bogarim Insfran
+Assessoria/COFICS/SAT Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária: Subanexo 27 ao Anexo 15 – Da Nota Fiscal Fatura de Serviços de Comunicação Eletrônica (NFCom) e do Documento Auxiliar da NFCom (DANFE-COM) Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços (COFICS) Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Coordenadoria de Fiscalização do ICMS Indústria, Comércio e Serviços (COFICS) Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: João Enildo Bogarim Insfran Assessoria/COFICS/SAT
+

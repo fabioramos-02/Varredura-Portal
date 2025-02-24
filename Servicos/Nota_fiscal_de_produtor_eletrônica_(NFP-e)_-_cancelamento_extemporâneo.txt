@@ -1,0 +1,76 @@
+Nota fiscal de produtor eletrônica (NFP-e) - cancelamento extemporâneo
+O que é este serviço?
+Solicitar o cancelamento extemporâneo (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NFP-e) de Nota Fiscal de Produtor Eletrônica (NFP-e) Solicitar o cancelamento extemporâneo (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NFP-e) de Nota Fiscal de Produtor Eletrônica (NFP-e)
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+Na hipótese de solicitar o cancelamento da NFP-e na Agência Fazendária:
+
+Documento de identidade;
+A NFP-e que se pretende cancelar;
+Procuração pública quando o cancelamento for solicitado pelo procurador.
+
+B) Ter ultrapassado o prazo de cento e quarenta e quatro horas, contado a partir da Autorização da NFP-e;
+C) Não ter havido a circulação da mercadoria, a prestação do serviço ou o lançamento em EFD próprio ou de terceiros;
+D) Somente pode ser cancelada mediante a autorização do Fisco, após a análise do pedido formalizado pelo contribuinte, através do atendimento eletrônico, módulo NFP-e/NFA-e;
+E) Não serem identificados indícios de infração à legislação em relação a cancelamentos indevidos de Notas Fiscais pelo emitente. A) Documentos necessários: Na hipótese de solicitar o cancelamento da NFP-e na Agência Fazendária: B) Ter ultrapassado o prazo de cento e quarenta e quatro horas, contado a partir da Autorização da NFP-e; C) Não ter havido a circulação da mercadoria, a prestação do serviço ou o lançamento em EFD próprio ou de terceiros; D) Somente pode ser cancelada mediante a autorização do Fisco, após a análise do pedido formalizado pelo contribuinte, através do atendimento eletrônico, módulo NFP-e/NFA-e; E) Não serem identificados indícios de infração à legislação em relação a cancelamentos indevidos de Notas Fiscais pelo emitente.
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS Pessoa Física ou Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS
+
+Prazos
+2 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas a) Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e; ou
+b) Pessoalmente ou por intermédio de um procurador (somente procuração por instrumento público) na Agência Fazendária emissora da NFP-e mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso. a) Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e; ou b) Pessoalmente ou por intermédio de um procurador (somente procuração por instrumento público) na Agência Fazendária emissora da NFP-e mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema NFP-E/NFA-E.
+OBSERVAÇÃO:
+Não será autorizado o pedido de cancelamento extemporâneo nos seguintes casos:
+
+NFP-e com REGISTRO DE PASSAGEM pelo FISCO;
+NFP-e vinculada à CT-e (Conhecimento de Transporte Eletrônico) ou MDF-e (Manifesto de Documentos Fiscais Eletrônicos) não cancelados;
+NFP-e registrada em EFD de Terceiros ou Próprio;
+NFP-e com confirmação da operação pelo destinatário.
+
+
+Se o cancelamento extemporâneo da NFP-e não for autorizado on-line, consultar ficha específica para esse serviço: NOTA FISCAL DE PRODUTOR ELETRÔNICA (NFP-E) – CANCELAMENTO EXTEMPORÂNEO (NÃO AUTORIZADO ON-LINE). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema NFP-E/NFA-E. OBSERVAÇÃO: Não será autorizado o pedido de cancelamento extemporâneo nos seguintes casos:
+
+Outras informações
+Quais os custos?
+Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023. 
+ 
+Canais de acesso a este serviço
+
+Eletronicamente no acesso restrito (direto e pessoal) do contribuinte no e-Fazenda, módulo NFP-e/NFA-e; ou
+Pessoalmente ou por intermédio de um procurador (somente procuração por instrumento público) na Agência Fazendária emissora da NFP-e mediante a identificação através de senha e apresentação de documentos necessários à sua identificação ou do seu procurador, conforme o caso. 
+
+ 
+Canais de comunicação ao usuário
+Sistema NFP-E/NFA-E
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigos 14 e 15-A do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS      
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC
+ 
+Unidade responsável pela recepção do pedido
+On-line ou Agência Fazendária
+ 
+Unidade responsável pela prestação do serviço
+Autoatendimento ou Agência Fazendária
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Anderson Luiz Correa da Costa
+Ewerton Cruz Cordeiros 
+Telefone: 3318-3152 Quais os custos? Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023. Canais de acesso a este serviço Canais de comunicação ao usuário Sistema NFP-E/NFA-E Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigos 14 e 15-A do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS Unidade responsável pela atualização das informações Coordenadoria de Fiscalização do ICMS Agricultura e Pecuária - COFAPEC Unidade responsável pela recepção do pedido On-line ou Agência Fazendária Unidade responsável pela prestação do serviço Autoatendimento ou Agência Fazendária Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Anderson Luiz Correa da Costa Ewerton Cruz Cordeiros Telefone: 3318-3152
+

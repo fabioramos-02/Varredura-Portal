@@ -1,0 +1,73 @@
+Solicitar licenciamento ambiental para supressão vegetal
+O que é este serviço?
+A supressão é o corte raso de qualquer tipo de vegetação nativa passível de autorização existente no território do estado de Mato Grosso do Sul, que somente poderá ser realizada após a obtenção da competente autorização ambiental conforme disciplinado na legislação, preservando as áreas de reserva legal, preservação permanente, uso restrito e o bioma mata atlântica. A supressão é o corte raso de qualquer tipo de vegetação nativa passível de autorização existente no território do estado de Mato Grosso do Sul, que somente poderá ser realizada após a obtenção da competente autorização ambiental conforme disciplinado na legislação, preservando as áreas de reserva legal, preservação permanente, uso restrito e o bioma mata atlântica.
+
+Exigências para realizar o serviço
+A solicitação do licenciamento da supressão vegetal é efetuada em sistema informatizado integrado ao sistema IMASUL de registros e informações estratégicas do meio ambiente – SIRIEMA, onde o proprietário ou possuidor de imóvel rural deve apresentar:
+I- Identificação do proprietário, possuidor rural e do procurador: cópia do CPF, RG e comprovante de residência;
+II. Comprovação da propriedade ou posse: matrícula do imóvel ou documento que comprove a posse;
+III. Identificação do imóvel por meio de planta em formato de arquivo shapefile, na forma que dispuser norma técnica do IMASUL, contendo o georreferenciamento das áreas de interesse do imóvel, ou seja, áreas de remanescentes de vegetação nativa, áreas de preservação permanente, áreas de uso restrito, áreas consolidadas e localização da Reserva Legal;
+IV. Certificado de inscrição CARMS;
+V. Estudo e inventário florestal e em alguns casos estudo fitossocilógico;
+VI. Projeto de manejo e utilização do solo e água;
+VII. Projeto de supressão vegetal; A solicitação do licenciamento da supressão vegetal é efetuada em sistema informatizado integrado ao sistema IMASUL de registros e informações estratégicas do meio ambiente – SIRIEMA, onde o proprietário ou possuidor de imóvel rural deve apresentar: I- Identificação do proprietário, possuidor rural e do procurador: cópia do CPF, RG e comprovante de residência;
+II. Comprovação da propriedade ou posse: matrícula do imóvel ou documento que comprove a posse;
+III. Identificação do imóvel por meio de planta em formato de arquivo shapefile, na forma que dispuser norma técnica do IMASUL, contendo o georreferenciamento das áreas de interesse do imóvel, ou seja, áreas de remanescentes de vegetação nativa, áreas de preservação permanente, áreas de uso restrito, áreas consolidadas e localização da Reserva Legal;
+IV. Certificado de inscrição CARMS;
+V. Estudo e inventário florestal e em alguns casos estudo fitossocilógico;
+VI. Projeto de manejo e utilização do solo e água;
+VII. Projeto de supressão vegetal;
+
+Quem pode utilizar este serviço?
+Os proprietários de imóvel rurais, empreendedores e serviços públicos que necessitam suprimir as áreas de interesse para adquirir ou aumentar a área produtiva, aumentar ou iniciar obras públicas ou privadas, tendo regularizado o CARMS e atividades de recuperação de área degradada. Os proprietários de imóvel rurais, empreendedores e serviços públicos que necessitam suprimir as áreas de interesse para adquirir ou aumentar a área produtiva, aumentar ou iniciar obras públicas ou privadas, tendo regularizado o CARMS e atividades de recuperação de área degradada.
+
+Prazos
+6 Meses.
+
+Quais os custos?
+Variável: consultar tabela
+
+Etapas
+Etapas Solicitar o licenciamento no site SIRIEMA: http://siriema.imasul.ms.gov.br/ Solicitar o licenciamento no site SIRIEMA: http://siriema.imasul.ms.gov.br/ Após a solicitação, será realizada a abertura do processo e análise do caso para realização da vistoria. Após a solicitação, será realizada a abertura do processo e análise do caso para realização da vistoria.
+
+Outras informações
+Custo deste serviço:
+Supressão Vegetal, Manejo Florestal Sustentável e Reflorestamento ou Florestamento e respectivos monitoramentos:
+CT= (ST+ VT + CA1) + (área projeto em ha x 0,25 UFERMS);
+Onde:
+CT = custo total dos serviços (UFERMS)
+ST = custo dos serviços técnicos = T1 x H x Ch
+VT = custo da vistoria técnica = (T2 x D x Cd) + (V x R x Ck)
+CA1 = custo administrativo = 10% (ST + VT)
+PPD = potencial poluidor degradador
+CE = custo da consultoria externa = Cc x H
+CA2 = custo administrativo com consultoria externa = 10% (ST+VT+CE)
+Sendo:
+T1 = número de técnicos envolvidos na análise
+H = número de horas de análise
+Ch = custo da hora de técnicos = 02 UFERMS
+T2 = número de servidores envolvidos na vistoria
+D = número de dias trabalhados na vistoria
+Cd = custo de despesas de viagem = 05 UFERMS
+V = número de veículos utilizados na vistoria
+R = número de quilômetros rodados
+Ck = custo do quilômetro rodado = 0,06 UFERMS
+Para consultar o custo conforme detalhado acima, acesse o Decreto nº 11.766 de 29/12/2004.
+Para consultar o valor atualizado do UFERMS, acesse o site: https://servicos.efazenda.ms.gov.br/crd/CreditoTributario/IndicadoresSefaz/uferms Custo deste serviço: Supressão Vegetal, Manejo Florestal Sustentável e Reflorestamento ou Florestamento e respectivos monitoramentos: CT= (ST+ VT + CA1) + (área projeto em ha x 0,25 UFERMS); Onde:
+CT = custo total dos serviços (UFERMS)
+ST = custo dos serviços técnicos = T1 x H x Ch
+VT = custo da vistoria técnica = (T2 x D x Cd) + (V x R x Ck) CA1 = custo administrativo = 10% (ST + VT)
+PPD = potencial poluidor degradador
+CE = custo da consultoria externa = Cc x H
+CA2 = custo administrativo com consultoria externa = 10% (ST+VT+CE)
+Sendo:
+T1 = número de técnicos envolvidos na análise
+H = número de horas de análise
+Ch = custo da hora de técnicos = 02 UFERMS
+T2 = número de servidores envolvidos na vistoria
+D = número de dias trabalhados na vistoria
+Cd = custo de despesas de viagem = 05 UFERMS
+V = número de veículos utilizados na vistoria
+R = número de quilômetros rodados
+Ck = custo do quilômetro rodado = 0,06 UFERMS Para consultar o custo conforme detalhado acima, acesse o Decreto nº 11.766 de 29/12/2004. Para consultar o valor atualizado do UFERMS, acesse o site: https://servicos.efazenda.ms.gov.br/crd/CreditoTributario/IndicadoresSefaz/uferms
+

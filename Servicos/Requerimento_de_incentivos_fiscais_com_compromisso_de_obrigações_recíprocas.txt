@@ -1,0 +1,77 @@
+Requerimento de incentivos fiscais com compromisso de obrigações recíprocas
+O que é este serviço?
+Solicitação de incentivos fiscais com base na Lei Complementar Estadual nº 93/2001, na Lei Estadual nº 4.049/2011, na Lei Complementar Federal nº 160/2017, no Decreto Estadual nº 10.604/2001, a serem analisados mediante oferecimento de contrapartidas individualizadas a serem assumidas pelo contribuinte, com base e enquadramento nos objetivos governamentais previstos em Lei, que sejam materializados em documento formal no qual constam os direitos e as obrigações recíprocos entre o Estado e o empreendimento incentivado. Solicitação de incentivos fiscais com base na Lei Complementar Estadual nº 93/2001, na Lei Estadual nº 4.049/2011, na Lei Complementar Federal nº 160/2017, no Decreto Estadual nº 10.604/2001, a serem analisados mediante oferecimento de contrapartidas individualizadas a serem assumidas pelo contribuinte, com base e enquadramento nos objetivos governamentais previstos em Lei, que sejam materializados em documento formal no qual constam os direitos e as obrigações recíprocos entre o Estado e o empreendimento incentivado.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Carta Consulta (documento disponível para download na Carta de Serviços da Sefaz: https://www.catalogo.sefaz.ms.gov.br/requerimento-de-incentivos-fiscais-com-compromisso-de-obrigacoes-reciprocas/) devidamente preenchida (art. 15, I, LC 93/2001);
+Declaração de Compromisso Quanto à Destinação de Recursos ao FEINAD/MS ou FEDPI/MS (documento disponível para download na Carta de Serviços da Sefaz: https://www.catalogo.sefaz.ms.gov.br/requerimento-de-incentivos-fiscais-com-compromisso-de-obrigacoes-reciprocas/), subscrita por representante com poderes para tanto, assinada digitalmente ou com firma reconhecida, pela qual se comprometa a realizar, anualmente, a destinação dos recursos de que trata o § 2º do art. 4º da Lei Complementar 93/2001, a partir da obtenção dos benefícios ou dos incentivos pleiteados (art. 16, § 4°, c/c art 4°, § 2°, ambos da LC 93/2001);
+Certidão Negativa ou Certidão Positiva, com efeitos Negativa, de débitos emitida pela Fazenda Pública do Estado de Mato Grosso do Sul para a pessoa jurídica (art. 33, Parágrafo Único, LC 93/2001);
+Certidão Negativa ou Certidão Positiva, com efeitos Negativa, de débitos emitida pela Fazenda Pública do Estado de Mato Grosso do Sul para todos os sócios que constem no quadro societário da pessoa jurídica (art. 33, Parágrafo Único, LC 93/2001); 
+Certidão Negativa ou Certidão Positiva, com efeitos Negativa, de débitos emitida pela Fazenda Pública do município onde será instalado o empreendimento econômico-produtivo para a pessoa jurídica (art. 33, Parágrafo Único, I, II, LC 93/2001);
+Certidão Negativa ou Certidão Positiva, com efeitos Negativa, de débitos emitida pela Fazenda Pública do município onde será instalado o empreendimento econômico-produtivo para todos os sócios que constem no quadro societário da pessoa jurídica (art. 33, Parágrafo Único, I, II, LC 93/2001);
+Contrato Social atualizado, ou, Estatuto atualizado, acompanhado da Ata de Eleição e Posse da Diretoria;
+Cópia dos documentos (RG, CPF ou CNH) do solicitante (interessado ou representante legal) e/ou da pessoa autorizada pela empresa;
+Quando o requerimento for assinado por procurador, o instrumento de mandato e documento oficial com foto do mandatário;
+Outros documentos a depender da especificidade de cada caso, os quais podem ser solicitados pelo Estado na análise do requerido.
+
+OBS. 1: A Carta Consulta (art. 15, I, LC 93/2001) poderá ser substituída por Requerimento de livre criação do contribuinte, contendo todas as informações necessárias para a análise do pedido. No caso de Requerimento, poderão ser solicitadas informações complementares sobre o projeto.
+OBS. 2: Quando assinado digitalmente, a via a ser anexada no e-SAP deverá conter os elementos que permitam validar a referida assinatura digital, ou seja: nome do signatário, QR Code, número do hash do documento, código para verificação; carimbo de tempo com data e hora da assinatura do documento (em alguns casos).
+OBS. 3: No documento de Carta Consulta deverá ser indicado os representantes da pessoa jurídica que serão os signatários do documento, que deverão deter poderes suficientes e bastantes para representar a pessoa jurídica, assumindo encargos e obrigações em seu nome.
+OBS. 4: A Carta Consulta deverá conter informações sobre os representantes da empresa: consultores, advogados e contadores. De forma que seja fácil e ágil a comunicação entre as partes. Importante: deverá constar e-mail e telefones atualizados de forma que possibilitem a comunicação entre a administração e os interessados.
+B) Ser cadastrado no e-Fazenda. A) Documentos necessários: OBS. 1: A Carta Consulta (art. 15, I, LC 93/2001) poderá ser substituída por Requerimento de livre criação do contribuinte, contendo todas as informações necessárias para a análise do pedido. No caso de Requerimento, poderão ser solicitadas informações complementares sobre o projeto. OBS. 2: Quando assinado digitalmente, a via a ser anexada no e-SAP deverá conter os elementos que permitam validar a referida assinatura digital, ou seja: nome do signatário, QR Code, número do hash do documento, código para verificação; carimbo de tempo com data e hora da assinatura do documento (em alguns casos). OBS. 3: No documento de Carta Consulta deverá ser indicado os representantes da pessoa jurídica que serão os signatários do documento, que deverão deter poderes suficientes e bastantes para representar a pessoa jurídica, assumindo encargos e obrigações em seu nome. OBS. 4: A Carta Consulta deverá conter informações sobre os representantes da empresa: consultores, advogados e contadores. De forma que seja fácil e ágil a comunicação entre as partes. Importante: deverá constar e-mail e telefones atualizados de forma que possibilitem a comunicação entre a administração e os interessados. B) Ser cadastrado no e-Fazenda.
+
+Quem pode utilizar este serviço?
+Pessoas jurídicas de direito privado, instaladas ou não no Estado, que possuam projetos econômicos que possam ser utilizados como instrumentos de política fiscal ou de fomento à industrialização do Estado e à circulação de bens econômicos em seu território, visando ao atingimento dos objetivos governamentais, conforme previsto na legislação. Pessoas jurídicas de direito privado, instaladas ou não no Estado, que possuam projetos econômicos que possam ser utilizados como instrumentos de política fiscal ou de fomento à industrialização do Estado e à circulação de bens econômicos em seu território, visando ao atingimento dos objetivos governamentais, conforme previsto na legislação.
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Preencher a Carta Consulta com os dados do empreendimento econômico. Preencher a Carta Consulta com os dados do empreendimento econômico. Providenciar os comprovantes de regularidade fiscal estadual e municipal (município de localização do empreendimento), além dos outros documentos já citados no campo “Documentos necessários”. Providenciar os comprovantes de regularidade fiscal estadual e municipal (município de localização do empreendimento), além dos outros documentos já citados no campo “Documentos necessários”. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+90 dias – para a análise inicial da Carta Consulta apresentada, podendo ser prorrogado a depender da necessidade de remessa para análise técnica da Semadesc, da necessidade de intimação do requerente, da essencialidade de outros documentos, informações, e providências, bem como de estudos, pareceres, relativos à complexidade que cada caso circunstanciado requer.
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/.
+ 
+Legislação
+
+Lei Complementar n. 93/2001
+Lei Complementar (Nacional) n. 160/2017
+Lei n. 4.049/2011
+Decreto n. 10.604/2001
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico - CIDEC
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+a – Projetos Econômicos Produtivos Industriais:
+Secretaria de Estado de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação – SEMADESC
+Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico – CIDEC
+b – Projetos Econômicos Produtivos Comerciais:
+Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico – CIDEC
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Higor Henrique Gomes
+Telefone: 3318-3310 Quanto tempo leva (prazo máximo para atendimento)? 90 dias – para a análise inicial da Carta Consulta apresentada, podendo ser prorrogado a depender da necessidade de remessa para análise técnica da Semadesc, da necessidade de intimação do requerente, da essencialidade de outros documentos, informações, e providências, bem como de estudos, pareceres, relativos à complexidade que cada caso circunstanciado requer. Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, na Ouvidoria Sefaz através do link https://www.sefaz.ms.gov.br/canais-de-denuncia/. Legislação Unidade responsável pela atualização das informações Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico - CIDEC Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço a – Projetos Econômicos Produtivos Industriais: Secretaria de Estado de Meio Ambiente, Desenvolvimento, Ciência, Tecnologia e Inovação – SEMADESC Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico – CIDEC b – Projetos Econômicos Produtivos Comerciais: Coordenadoria de Incentivos Fiscais e Desenvolvimento Econômico – CIDEC Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Higor Henrique Gomes Telefone: 3318-3310
+

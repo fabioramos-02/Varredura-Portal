@@ -1,0 +1,90 @@
+IPVA – isenção 2022 – Decreto 15.703/2021
+O que é este serviço?
+Use este serviço para pedir a isenção do Imposto sobre Propriedade de Veículo Automotor (IPVA) para o exercício de 2022 caso ela não tenha recebido o benefício automaticamente.
+Essa isenção excepcional foi criada pelo Decreto n. 15.703/2021 durante o período da pandemia de Covid 19, para empresas de ramos específicos, e se aplica exclusivamente ao exercício de 2022. Use este serviço para pedir a isenção do Imposto sobre Propriedade de Veículo Automotor (IPVA) para o exercício de 2022 caso ela não tenha recebido o benefício automaticamente. Essa isenção excepcional foi criada pelo Decreto n. 15.703/2021 durante o período da pandemia de Covid 19, para empresas de ramos específicos, e se aplica exclusivamente ao exercício de 2022.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+ Requerimento, o qual deve ser preenchido no campo denominado “Requerimento” do Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, contendo as seguintes informações: 
+
+
+Identificação do requerente, CPF, endereço, telefone e e-mail; 
+Solicitação do pedido de isenção de IPVA para o exercício de 2022 em virtude de autorização do Decreto n. 15.703/2021;
+Dados do veículo: Placa e Renavam;
+
+
+Certificado de Registro e Licenciamento do veículo (CRLV), podendo ser enviada a sua versão eletrônica (CRLV-e);
+Procuração, quando o requerimento for gerado por procurador;
+Contrato social e das últimas alterações contratuais arquivadas na JUCEMS para comprovação de que a atividade principal da empresa à época da concessão da isenção (até 30 de setembro) está entre os CAES estabelecidos no Decreto 15.703/2021;
+Certificado de Condição de MEI – tratando-se de Microempreendedor Individual;
+
+ B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/). A) Documentos necessários: B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/).
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica cuja atividade econômica principal se enquadre em algum dos seguintes Códigos de Atividade Econômica (CAE):
+I – 50106 - confeitarias, docerias e sorveterias
+II - 50107 - café, bares, botequins, casa de lanches
+III – 50108 - choparias, cervejarias, wisquerias ou boites
+IV – 50109 - restaurantes, pizzarias, churrascarias e similares
+V – 50110 - buffet (com fornecimento de mercadorias)
+VI – 50111 - cantinas (uso interno do estabelecimento)
+VII – 60030 - agência de turismo, passeios e excursões
+VIII – 60042 – hospedagem em hotéis, pensões e congêneres
+IX – 60125 - apart-hotel (usado como hotel), com restaurante
+X – 60127 - hotel sem restaurante
+XI – 60128 - apart-hotel (usado como hotel), sem restaurante
+XII – 60191 - outros serviços de alimentação - trailers, quiosques, veículos, fornecimento de marmitas
+XIII – 60204 – transporte aquaviário para passeios turísticos
+XIV - 60528 – operadores turísticos
+XV – 60595 – hotel com serviço de hospedagem e restaurante
+XVI – 60197 – transporte escolar
+XVII – 60198 – transporte escolar intermunicipal Pessoa Jurídica cuja atividade econômica principal se enquadre em algum dos seguintes Códigos de Atividade Econômica (CAE): I – 50106 - confeitarias, docerias e sorveterias II - 50107 - café, bares, botequins, casa de lanches III – 50108 - choparias, cervejarias, wisquerias ou boites IV – 50109 - restaurantes, pizzarias, churrascarias e similares V – 50110 - buffet (com fornecimento de mercadorias) VI – 50111 - cantinas (uso interno do estabelecimento) VII – 60030 - agência de turismo, passeios e excursões VIII – 60042 – hospedagem em hotéis, pensões e congêneres IX – 60125 - apart-hotel (usado como hotel), com restaurante X – 60127 - hotel sem restaurante XI – 60128 - apart-hotel (usado como hotel), sem restaurante XII – 60191 - outros serviços de alimentação - trailers, quiosques, veículos, fornecimento de marmitas XIII – 60204 – transporte aquaviário para passeios turísticos XIV - 60528 – operadores turísticos XV – 60595 – hotel com serviço de hospedagem e restaurante XVI – 60197 – transporte escolar XVII – 60198 – transporte escolar intermunicipal
+
+Prazos
+60 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – Isenção 2022 – Decreto 15.703/2021. Preencher os dados solicitados e anexar os documentos necessários. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – Isenção 2022 – Decreto 15.703/2021. Preencher os dados solicitados e anexar os documentos necessários. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+No próprio sistema e-SAP, clicando no botão “Ver Solicitações” (a situação estará na coluna “Status”), ou 
+No módulo “Minhas Mensagens”, onde você receberá mensagens referentes ao andamento da solicitação. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Até 60 dias 
+ 
+Canais de acesso a este serviço
+Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) 
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Decreto Legislativo n° 716 de 2021
+Decreto n° 15.703/2021
+
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do IPVA – UFIPVA
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do IPVA – UFIPVA 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Paulo Sérgio Monteiro Ferreira
+Telefone: 3316-7515 Quanto tempo leva (prazo máximo para atendimento)? Até 60 dias Canais de acesso a este serviço Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Unidade de Fiscalização do IPVA – UFIPVA Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do IPVA – UFIPVA Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Paulo Sérgio Monteiro Ferreira Telefone: 3316-7515
+

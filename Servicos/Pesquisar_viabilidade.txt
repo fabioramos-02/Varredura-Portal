@@ -1,0 +1,123 @@
+Pesquisar viabilidade
+O que é este serviço?
+Pesquisa prévia (VIABILIDADE) é uma consulta eletrônica antecipada, onde se coleta as informações do endereço, atividade econômica e nome empresarial da empresa, tendo como resultado, a resposta dos órgãos responsáveis (Prefeitura Municipal e Junta Comercial) quanto a possibilidade de exercício da atividade no endereço informado e a utilização do nome. A resposta da análise é dividida em duas partes:
+
+A possibilidade de exercício da(s) atividade(s) econômica(s) a ser(em) desenvolvida(s) pela Pessoa Jurídica no endereço escolhido.
+	
+A análise dessa pesquisa é realizada por uma equipe técnica da própria Prefeitura do Município, na localidade onde a pessoa jurídica será instalada.
+		 
+
+
+A existência de possíveis pessoas jurídicas constituídas com nomes idênticos, bem como a sua formação e composição do nome pesquisado/pretendido, além da descrição do objeto social.
+	
+Quando não for escolhido um nome empresarial ofertado pelo sistema, a análise é submetida para uma equipe técnica da própria JUCEMS. Pesquisa prévia (VIABILIDADE) é uma consulta eletrônica antecipada, onde se coleta as informações do endereço, atividade econômica e nome empresarial da empresa, tendo como resultado, a resposta dos órgãos responsáveis (Prefeitura Municipal e Junta Comercial) quanto a possibilidade de exercício da atividade no endereço informado e a utilização do nome. A resposta da análise é dividida em duas partes:
+
+Exigências para realizar o serviço
+Nenhum documento oficial é necessário, porém o acesso ao portal de serviços da JUCEMS é feito somente pelo login do gov.br, onde se faz um cadastramento simples, com a coleta de nome completo, CPF, telefone e e-mail para contato e envio de informações. Nenhum documento oficial é necessário, porém o acesso ao portal de serviços da JUCEMS é feito somente pelo login do gov.br, onde se faz um cadastramento simples, com a coleta de nome completo, CPF, telefone e e-mail para contato e envio de informações.
+
+Quem pode utilizar este serviço?
+O público alvo é todo cidadão que almeja abrir um empreendimento mercantil ou efetuar alteração de nome empresarial da sua empresa que se encontra registrado no estado de Mato Grosso do Sul, bem como a proteção de nome empresarial. O público alvo é todo cidadão que almeja abrir um empreendimento mercantil ou efetuar alteração de nome empresarial da sua empresa que se encontra registrado no estado de Mato Grosso do Sul, bem como a proteção de nome empresarial.
+
+Prazos
+2 Dias úteis.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Acesse o nosso Portal de Serviços, https://portalservicos.jucems.ms.gov.br/Portal, em seguida clicar na opção "VIABILIDADE" e depois em "NOVA VIABILIDADE" Acesse o nosso Portal de Serviços, https://portalservicos.jucems.ms.gov.br/Portal, em seguida clicar na opção "VIABILIDADE" e depois em "NOVA VIABILIDADE" Selecione o evento(s) pretendido(s), marcando um ou mais eventos (em caso de alteração) e clique em avançar. Selecione o evento(s) pretendido(s), marcando um ou mais eventos (em caso de alteração) e clique em avançar. Esta consulta de viabilidade é somente para fins de regularização de dados cadastrais perante a Receita Federal do Brasil (R.F.B.) ?
+( ) Sim :: quando for atualização de legado junto a R.F.B.
+( ) Não :: quando for para registro na Junta Comecial. Esta consulta de viabilidade é somente para fins de regularização de dados cadastrais perante a Receita Federal do Brasil (R.F.B.) ?
+( ) Sim :: quando for atualização de legado junto a R.F.B. ( ) Não :: quando for para registro na Junta Comecial. Preecnher todos os campos solicitados para que a viabilidade possa ser analisada com assertividade e finalizar sua solicitação. Preecnher todos os campos solicitados para que a viabilidade possa ser analisada com assertividade e finalizar sua solicitação. Acompanhar o resultado da pesquisa de viabilidade, após análise perante aos órgãos de registro (nome empresarial) e licenciadores (prefeituras).
+Será disponibilizado, o link para download da consulta de viabilidade, logo após a análise. Acompanhar o resultado da pesquisa de viabilidade, após análise perante aos órgãos de registro (nome empresarial) e licenciadores (prefeituras). Será disponibilizado, o link para download da consulta de viabilidade, logo após a análise.
+
+Outras informações
+Eventos de inscrição (Viabilidade):
+
+101 – Inscrição de primeiro estabelecimento: utilizado para inscrição/abertura de empresas (sede/matriz);
+102 – Inscrição dos demais estabelecimentos: utilizado para abertura de filial;
+150 – Proteção de Nome Empresarial: utilizado para proteger o nome empresarial em Mato Grosso do Sul;
+106 – Inscrição de missões dipl./repart. consul./repres. de órgãos internacionais.
+
+ 
+Eventos de alteração (Viabilidade):
+•    220 – Alteração do nome empresarial (firma ou denominação): utilizado para alteração do nome empresarial;
+•    244 – Alteração de atividades econômicas (principal e secundárias): utilizado para alterações de atividades econômicas (principal e secundárias) do estabelecimento matriz ou filial;
+•    211 – Alteração de endereço dentro do mesmo município: utilizado para alteração de endereço dentro do mesmo município do estabelecimento matriz ou filial.
+•    209 – Alteração de endereço entre municípios dentro do mesmo estado: utilizado para alteração de endereço entre municípios dentro de Mato Grosso do Sul.
+•    210 – Alteração de endereço entre estados: utilizado para mudança de endereço de outra Unidade da Federação para Mato Grosso do Sul;
+•    225 – Alteração da natureza jurídica: utilizado para operação de transformação, mudança de tipo jurídico;
+•    249 – Alteração da forma de atuação: utilizado para mudança da forma de atuação das atividades da empresa, de acordo com o tipo de unidade da empresa.
+
+Caso a unidade do empreendimento seja do tipo PRODUTIVA, as formas de atuação possíveis são:
+
+01 – Estabelecimento fixo
+02 – Internet
+03 – Em local fixo fora de loja
+04 – Correio
+05 – Porta a Porta, Postos Móveis ou por Ambulantes
+06 – Televendas
+07 – Máquinas Automáticas
+08 – Atividade Desenvolvida Fora do Estabelecimento
+
+ 
+Caso a unidade do empreendimento seja do tipo AUXILIAR, os tipos possíveis são:
+
+01 – Sede
+02 – Escritório Administrativo
+03 – Depósito Fechado
+04 – Almoxarifado
+05 – Oficina de Reparação
+06 – Garagem
+07 – Unidade de Abastecimento de Combustíveis
+08 – Ponto de Exposição
+09 – Centro de Treinamento
+10 – Centro de Processamento de Dados
+11 – Posto de Coleta;
+
+
+Observações:
+
+1) Objeto Social: o objeto social informado na Consulta de Viabilidade deverá ser reproduzido fielmente quando do preenchimento do DBE no site da Receita Federal do Brasil.
+
+2) Nome empresarial: a pesquisa de nome empresarial destina-se apenas a verificação da existência de nome idêntico, bem como a sua formação e composição quando da constituição da empresa, alteração do nome, transferência de Cartório para a JUCEMS, transferência da sede de outra UF para MS, reativação de empresa e proteção de nome empresarial.
+
+Não poderá ser acrescida ao nome empresarial a expressão ME ou EPP na consulta de viabilidade;
+Informe pelo menos duas opções de nome empresarial;
+Caso exista processo pendente com o nome empresarial pretendido, informe o protocolo.
+
+ 
+3) Tipo de Unidade do Empreendimento:
+
+Produtiva: realizada no local do empreendimento – podem ser marcadas uma ou mais opções;
+
+ 
+
+Auxiliar: realizada fora do local do empreendimento – somente uma opção deve ser marcada. Atividades auxiliares: são as atividades de apoio administrativo ou técnico, exercidas no âmbito da empresa, voltadas à criação das condições necessárias para o exercício de suas atividades principais e desenvolvidas exclusivamente dentro da empresa, como por exemplo, o escritório administrativo da empresa, uma garagem para estacionamento de veículos próprios, de uso exclusivo da empresa, etc.). Para ser considerada auxiliar, uma atividade deve atender às seguintes condições:
+	
+Ser utilizada para servir unicamente à empresa, no mesmo local ou em locais distintos, o que significa que bens e serviços produzidos não devem ser objeto de transações no mercado;
+Produzir serviços ou, excepcionalmente, bens que não entram na composição do produto final da unidade (tais como pequenas ferramentas, andaimes);
+Destinar-se inteiramente à unidade a que serve, o que significa que não gera formação de capital.
+
+
+
+Obs.: as atividades auxiliares podem ser exercidas em estabelecimentos junto às atividades principais ou em estabelecimentos separados, constituindo neste último caso as UNIDADES AUXILIARES.
+
+Forma de Atuação: Refere-se às maneiras pelas quais as atividades mercantis e/ou serviços serão exercidos, mediante contraprestação financeira, podendo ser caracterizar por tipos:
+
+Estabelecimento Fixo: Atividades exercidas em local/prédio determinado, em imóvel, cujo endereço coincide com o endereço do estabelecimento.
+Internet: Atividades exercidas via internet.
+Em Local Fixo Fora de Loja: Atividades exercidas em local fixo, mas fora do local/prédio/sede: quiosques, barracas, etc, cujo endereço não coincide com o endereço do estabelecimento.
+Correio: Atividades exercidas com oferta/compra/contratação por correspondência escrita: venda por catálogos, portfólios, encomendas, malotes, etc, independente do veículo usado na entrega do produto ou serviço.
+Porta a Porta, Postos Móveis ou por Ambulantes: Atividades exercidas com o deslocamento físico (pessoal) do prestador/vendedor diretamente para os domicílios físicos ou jurídicos dos clientes: vendas diretas e pessoais, feiras-livres, “camelôs”, ambulantes, etc.
+Televendas: Atividades exercidas com oferta/compra/contratação por telefone.
+Máquinas Automáticas: Atividades exercidas com uso de máquinas automáticas/eletrônicas: máquinas de bebidas, de variedades, auto-serviço, etc.
+Atividade desenvolvida fora do estabelecimento: É quando a empresa exerce suas atividades no estabelecimento do cliente e não em seu próprio estabelecimento. Eventos de inscrição (Viabilidade): Eventos de alteração (Viabilidade):
+•    220 – Alteração do nome empresarial (firma ou denominação): utilizado para alteração do nome empresarial;
+•    244 – Alteração de atividades econômicas (principal e secundárias): utilizado para alterações de atividades econômicas (principal e secundárias) do estabelecimento matriz ou filial;
+•    211 – Alteração de endereço dentro do mesmo município: utilizado para alteração de endereço dentro do mesmo município do estabelecimento matriz ou filial.
+•    209 – Alteração de endereço entre municípios dentro do mesmo estado: utilizado para alteração de endereço entre municípios dentro de Mato Grosso do Sul.
+•    210 – Alteração de endereço entre estados: utilizado para mudança de endereço de outra Unidade da Federação para Mato Grosso do Sul;
+•    225 – Alteração da natureza jurídica: utilizado para operação de transformação, mudança de tipo jurídico;
+•    249 – Alteração da forma de atuação: utilizado para mudança da forma de atuação das atividades da empresa, de acordo com o tipo de unidade da empresa. Caso a unidade do empreendimento seja do tipo PRODUTIVA, as formas de atuação possíveis são: Caso a unidade do empreendimento seja do tipo AUXILIAR, os tipos possíveis são: Observações: 1) Objeto Social: o objeto social informado na Consulta de Viabilidade deverá ser reproduzido fielmente quando do preenchimento do DBE no site da Receita Federal do Brasil. 2) Nome empresarial: a pesquisa de nome empresarial destina-se apenas a verificação da existência de nome idêntico, bem como a sua formação e composição quando da constituição da empresa, alteração do nome, transferência de Cartório para a JUCEMS, transferência da sede de outra UF para MS, reativação de empresa e proteção de nome empresarial. 3) Tipo de Unidade do Empreendimento: Obs.: as atividades auxiliares podem ser exercidas em estabelecimentos junto às atividades principais ou em estabelecimentos separados, constituindo neste último caso as UNIDADES AUXILIARES. Forma de Atuação: Refere-se às maneiras pelas quais as atividades mercantis e/ou serviços serão exercidos, mediante contraprestação financeira, podendo ser caracterizar por tipos:
+

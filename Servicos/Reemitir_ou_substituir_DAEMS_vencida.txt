@@ -1,0 +1,37 @@
+Reemitir ou substituir DAEMS vencida
+O que é este serviço?
+Serviço para reemitir/substituir um DAEMS vencida (pendente de pagamento). Serviço para reemitir/substituir um DAEMS vencida (pendente de pagamento).
+
+Exigências para realizar o serviço
+Ter emitido uma DAEMS e estar pendente de pagamento/vencida. Ter emitido uma DAEMS e estar pendente de pagamento/vencida.
+
+Quem pode utilizar este serviço?
+Qualquer pessoa física ou jurídica com acesso ao e-Saniagro. Qualquer pessoa física ou jurídica com acesso ao e-Saniagro.
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas O acesso ao sistema e-Saniagro poderá ser feito:
+
+Online –  através do login GovBR
+Presencial – em uma Unidade Local da Iagro O acesso ao sistema e-Saniagro poderá ser feito: No canto superior esquerdo faça o seguinte caminho: 
+
+MENU > Financeiro > DAEMS > Substituição
+
+A consulta poderá ser feita utilizando:
+
+CPF e/ou colocar o número do DAEMS a ser substituída
+
+ Clicar em “Pesquisar DAEMS Vencidas” No canto superior esquerdo faça o seguinte caminho: A consulta poderá ser feita utilizando: Clicar em “Pesquisar DAEMS Vencidas” A nova DAEMS será gerada automaticamente e os valores serão atualizados com os encargos.
+A DAEMS poderá ser vista em: 
+
+MENU > Financeiro > DAEMS > Consulta A nova DAEMS será gerada automaticamente e os valores serão atualizados com os encargos. A DAEMS poderá ser vista em:
+
+Outras informações
+Dúvidas ou outras informações: 
+HelpDesk IAGRO 0800 647 6713 Dúvidas ou outras informações: HelpDesk IAGRO 0800 647 6713
+

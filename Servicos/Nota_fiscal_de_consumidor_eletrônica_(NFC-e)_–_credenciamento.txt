@@ -1,0 +1,80 @@
+Nota fiscal de consumidor eletrônica (NFC-e) – credenciamento
+O que é este serviço?
+A Nota Fiscal de Consumidor Eletrônica (NFC-e), modelo 65, é o documento emitido e armazenado eletronicamente, de existência apenas digital, utilizada pelos contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), obrigatoriamente nas atividades de venda de mercadorias, de forma presencial ou com entrega em domicílio, realizadas em território sul-mato-grossense e destinadas a consumidor final.
+Para emitir a NFC-e o contribuinte necessita se credenciar na SEFAZ/MS e obter o Código de Segurança do Contribuinte (CSC) no site https://www.nfce.ms.gov.br/
+O credenciamento ocorre em duas etapas (homologação e produção) e é realizado digitalmente. A Nota Fiscal de Consumidor Eletrônica (NFC-e), modelo 65, é o documento emitido e armazenado eletronicamente, de existência apenas digital, utilizada pelos contribuintes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre a Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS), obrigatoriamente nas atividades de venda de mercadorias, de forma presencial ou com entrega em domicílio, realizadas em território sul-mato-grossense e destinadas a consumidor final. Para emitir a NFC-e o contribuinte necessita se credenciar na SEFAZ/MS e obter o Código de Segurança do Contribuinte (CSC) no site https://www.nfce.ms.gov.br/ O credenciamento ocorre em duas etapas (homologação e produção) e é realizado digitalmente.
+
+Exigências para realizar o serviço
+1) Documentos necessários: 
+
+Não é necessário apresentar documentos.
+
+2) Requisitos para credenciamento em ambiente de homologação:
+
+Estar inscrito no Cadastro de Contribuinte do Estado (CCE/MS), sem qualquer irregularidade cadastral, isto é, a inscrição estadual (IE) deve estar em situação ativa, suspensa ou provisória;
+Estar enquadrado no Código de Atividade Econômica (CAE) de comércio varejista e/ou desenvolvedor de sistemas do MS:
+
+Os CAE de varejo permitidos situam-se na faixa de 50.000 a 59.999.
+Os CAE de desenvolvedor de sistema aceitos são 60.308, 60.510 e 60.601.
+
+
+Estar cadastrado no e-Fazenda;
+Possuir Certificado Digital no padrão ICP-Brasil tipos A1 ou A3, contendo o CNPJ de um dos estabelecimentos da empresa;
+Devem ser observados os padrões técnicos e o leiaute estabelecidos no Manual de Orientação ao Contribuinte;
+Desenvolver ou adquirir um software emissor de NFC-e, o qual deverá manter histórico de NFC-e com a situação de cada NFC-e (autorizada, cancelada ou rejeitada) ou se a numeração foi inutilizada;
+O credenciamento deverá ser realizado para cada estabelecimento do contribuinte localizado neste Estado e inscrito sob o mesmo CNPJ-base.
+
+3) Requisitos para credenciamento em ambiente de produção (com validade jurídica):
+
+Realizar os testes mínimos em ambiente de homologação (uma autorização de NFC-e normal, uma autorização de NFC-e emitida em contingência, um cancelamento de NFC-e e uma inutilização da numeração);
+Deve estar inscrito no Cadastro de Contribuinte do Estado, na situação cadastral ativa ou suspensa.
+
+4) Obtenção do Código de Segurança do Contribuinte (CSC):
+A SEFAZ fornecerá o CSC mediante solicitação do contribuinte no serviço disponibilizado no endereço https://www.nfce.ms.gov.br/, no qual o contribuinte poderá solicitar, revogar e consultar o CSC de seu CNPJ-base.
+O CSC é necessário para que o contribuinte obtenha a autorização de uso de NFC-e pela SEFAZ podendo obter até dois CSC válidos por ambiente (homologação e produção) que serão utilizados por todos os seus estabelecimentos no Estado. 1) Documentos necessários: 2) Requisitos para credenciamento em ambiente de homologação: 3) Requisitos para credenciamento em ambiente de produção (com validade jurídica): 4) Obtenção do Código de Segurança do Contribuinte (CSC): A SEFAZ fornecerá o CSC mediante solicitação do contribuinte no serviço disponibilizado no endereço https://www.nfce.ms.gov.br/, no qual o contribuinte poderá solicitar, revogar e consultar o CSC de seu CNPJ-base. O CSC é necessário para que o contribuinte obtenha a autorização de uso de NFC-e pela SEFAZ podendo obter até dois CSC válidos por ambiente (homologação e produção) que serão utilizados por todos os seus estabelecimentos no Estado.
+
+Quem pode utilizar este serviço?
+Contribuintes com CAE de Varejo primário e secundário (credenciamento ambiente de homologação e de produção)
+Desenvolvedores de sistemas do Estado, os quais podem se credenciar exclusivamente para o ambiente de homologação para realização de testes nos seus softwares
+
+Prazos
+2 Horas.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Obter o Código de Segurança do Contribuinte (CSC) no site https://www.nfce.ms.gov.br/. Obter o Código de Segurança do Contribuinte (CSC) no site https://www.nfce.ms.gov.br/. Realizar o credenciamento em ambiente de homologação no site https://www.nfce.ms.gov.br/ conforme descrito em “Exigências para realizar o serviço”. Realizar o credenciamento em ambiente de homologação no site https://www.nfce.ms.gov.br/ conforme descrito em “Exigências para realizar o serviço”. Realizar os testes mínimos em ambiente de homologação (uma autorização de NFC-e normal, uma autorização de NFC-e emitida em contingência, um cancelamento de NFC-e e uma inutilização da numeração) para migração para o ambiente de produção (com validade jurídica). Realizar os testes mínimos em ambiente de homologação (uma autorização de NFC-e normal, uma autorização de NFC-e emitida em contingência, um cancelamento de NFC-e e uma inutilização da numeração) para migração para o ambiente de produção (com validade jurídica). Acompanhar a efetivação do credenciamento em ambiente de produção em até 30 minutos e, em caso de dúvida, abrir solicitação via sistema Fale Conosco. Acompanhar a efetivação do credenciamento em ambiente de produção em até 30 minutos e, em caso de dúvida, abrir solicitação via sistema Fale Conosco.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Duas horas, se o contribuinte já estiver devidamente credenciado e habilitado em ambiente de homologação e esteja apto a realizar todos os testes com êxito e aguardar o prazo de 30 minutos para migração automática ao ambiente de produção.
+ 
+Canais de acesso a este serviço
+www.nfce.ms.gov.br
+ 
+Canais de comunicação ao usuário
+Sistema Fale Conosco 
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária:
+Subanexo 20 ao Anexo 15 ao RICMS - Da Nota Fiscal de Consumidor Eletrônica (NFC-e) e do Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica (DANFE-NFC-e)
+ 
+Unidade responsável pela atualização das informações
+Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE)
+ 
+Unidade responsável pela recepção do pedido
+Não se aplica.
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE)
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Vinícius Martinez Quanto tempo leva (prazo máximo para atendimento)? Duas horas, se o contribuinte já estiver devidamente credenciado e habilitado em ambiente de homologação e esteja apto a realizar todos os testes com êxito e aguardar o prazo de 30 minutos para migração automática ao ambiente de produção. Canais de acesso a este serviço www.nfce.ms.gov.br Canais de comunicação ao usuário Sistema Fale Conosco Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação A legislação atualizada pode ser consultada no site: www.sefaz.ms.gov.br / Legislação Tributária: Subanexo 20 ao Anexo 15 ao RICMS - Da Nota Fiscal de Consumidor Eletrônica (NFC-e) e do Documento Auxiliar da Nota Fiscal de Consumidor Eletrônica (DANFE-NFC-e) Unidade responsável pela atualização das informações Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE) Unidade responsável pela recepção do pedido Não se aplica. Unidade responsável pela prestação do serviço Unidade de Gestão de Documentos Fiscais Eletrônicos (UGDFE) Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Vinícius Martinez
+

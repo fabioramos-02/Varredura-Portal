@@ -1,0 +1,77 @@
+Conhecimento de transporte eletrônico – CT-e, modelo 57 e Conhecimento de transporte eletrônico para outros serviços - CT-e OS, modelo 67 – pedido de cancelamento extemporâneo
+O que é este serviço?
+Solicitação de pedido de cancelamento extemporâneo (após decorrido o prazo de cento e sessenta e oito horas, contado do momento em que foi concedida a Autorização de Uso do CT-e/CT-e OS) de Conhecimento de Transporte Eletrônico e Conhecimento de Transporte Eletrônico para Outros Serviços.
+A resposta pode ser de Autorização (deferimento) ou Denegação (indeferimento) do Pedido de Cancelamento. Ou seja, só poderá ser cancelado o documento que obtiver resposta favorável da Sefaz Autorizando o contribuinte a executar o procedimento para cancelar o documento solicitado.
+ATENÇÃO: O cancelamento do CT-e/CT-e OS não será autorizado quando se tratar de:
+
+CT-e vinculado a um MDF-e AUTORIZADO;
+CT-e vinculado a um MDF-e ENCERRADO;
+CT-e/CT-e OS com REGISTRO DE PASSAGEM pelo FISCO;
+CT-e/CT-e OS autorizado em contingência na SVC;
+CT-e/CT-e OS registrado em SINTEGRA Próprio ou de Terceiros;
+CT-e/CT-e OS registrado em EFD Próprio ou de Terceiros;
+CT-e/CT-e OS do tipo ANULAÇÃO (tipo=2);
+CT-e/CT-e OS do tipo SUBSTITUTO (tipo=3);
+CT-e/CT-e OS com CT-e/CT-e OS de ANULAÇÃO associado;
+CT-e/CT-e OS com CT-e CT-e OS de SUBSTITUIÇÃO associado; 
+CT-e/CT-e OS com CT-e/CT-e OS COMPLEMENTAR associado;
+CT-e/CT-e OS com evento de CARTA DE CORREÇÃO associado.
+
+Após resposta favorável (deferido) o contribuinte deve realizar o procedimento do cancelamento do CT-e/CT-e OS  autorizado através do software emissor.
+Eventuais dúvidas podem ser enviadas por meio do FALE CONOSCO (Assunto: CT-e/CT-e OS). Solicitação de pedido de cancelamento extemporâneo (após decorrido o prazo de cento e sessenta e oito horas, contado do momento em que foi concedida a Autorização de Uso do CT-e/CT-e OS) de Conhecimento de Transporte Eletrônico e Conhecimento de Transporte Eletrônico para Outros Serviços. A resposta pode ser de Autorização (deferimento) ou Denegação (indeferimento) do Pedido de Cancelamento. Ou seja, só poderá ser cancelado o documento que obtiver resposta favorável da Sefaz Autorizando o contribuinte a executar o procedimento para cancelar o documento solicitado. ATENÇÃO: O cancelamento do CT-e/CT-e OS não será autorizado quando se tratar de: Após resposta favorável (deferido) o contribuinte deve realizar o procedimento do cancelamento do CT-e/CT-e OS  autorizado através do software emissor. Eventuais dúvidas podem ser enviadas por meio do FALE CONOSCO (Assunto: CT-e/CT-e OS).
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento contendo a qualificação completa do requerente (inclusive telefone, endereço para correspondência e e-mail, se houver); 
+Documento de identidade;
+A chave de Acesso do CT-e/CT-e OS que se pretende cancelar; 
+Procuração pública quando o cancelamento for solicitado pelo procurador;
+Documentos que comprovem a não realização da prestação de serviço.
+
+B) Ter ultrapassado o prazo de 168 horas, contado a partir da Autorização do CT-e/CT-e OS. A) Documentos necessários: B) Ter ultrapassado o prazo de 168 horas, contado a partir da Autorização do CT-e/CT-e OS.
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS e credenciada para a emissão de CT-e, modelo 57 ou CT-e OS, modelo 67. Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS e credenciada para a emissão de CT-e, modelo 57 ou CT-e OS, modelo 67.
+
+Prazos
+60 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Acompanhar o andamento do serviço solicitado no e-Fazenda – Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda – Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023.
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP)
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigo 15-A do Subanexo XIII ao Anexo XV ao Regulamento do ICMS – RICMS
+ 
+Unidade responsável pela atualização das informações
+Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Marcelo de Vasconcelos Czaya 
+Telefone: 3318-3784 Quais os custos? Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023. Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigo 15-A do Subanexo XIII ao Anexo XV ao Regulamento do ICMS – RICMS Unidade responsável pela atualização das informações Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Gestão de Documentos Fiscais Eletrônicos – UGDFE Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Marcelo de Vasconcelos Czaya Telefone: 3318-3784
+

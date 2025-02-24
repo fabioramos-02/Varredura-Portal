@@ -1,0 +1,77 @@
+Cadastro de contabilistas – inclusão e alteração de dados do contabilista
+O que é este serviço?
+Solicitar a inclusão e a alteração dos dados cadastrais de contabilista, pessoa física ou jurídica, no Cadastro de Contabilistas do Estado de MS, a fim de que o profissional ou empresa de contabilidade, possa se responsabilizar pela escrita fiscal de contribuintes inscritos no Cadastro de Contribuintes do Estado.
+ATENÇÃO!!! Para substituição de contabilista responsável por determinada empresa, deverá ser solicitado no e-Fazenda, mediante acesso ao módulo e-CCIS ou e-CAP por login/senha ou certificado digital da própria empresa a ser alterada. Solicitar a inclusão e a alteração dos dados cadastrais de contabilista, pessoa física ou jurídica, no Cadastro de Contabilistas do Estado de MS, a fim de que o profissional ou empresa de contabilidade, possa se responsabilizar pela escrita fiscal de contribuintes inscritos no Cadastro de Contribuintes do Estado. ATENÇÃO!!! Para substituição de contabilista responsável por determinada empresa, deverá ser solicitado no e-Fazenda, mediante acesso ao módulo e-CCIS ou e-CAP por login/senha ou certificado digital da própria empresa a ser alterada.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Ficha de Atualização Cadastral do Contabilista, devidamente preenchida e assinada estando disponível para download em http://www.sefaz.ms.gov.br/contabilista-post/;
+Certidão de Habilitação Profissional;
+Comprovante de Comunicação de Exercício Profissional em outra UF, quando originário de outro Estado, para habilitação no MS, sem prejuízo de anexar o CRC originário;
+Se pessoa física:
+
+
+Documento de identificação com foto e CPF;
+Comprovante de endereço atualizado;
+
+   Se pessoa jurídica:
+
+Cartão CNPJ e Contrato Social ou Requerimento de Empresário;
+Documentos pessoais do empresário ou sócio administrador; 
+
+
+Quando o pedido for feito por procurador, deverá ser anexada procuração registrada em cartório (pública) juntamente com os documentos pessoais do mandatário (RG e CPF);
+Recolhimento do DAEMS referente à Taxa de Serviços Estaduais.
+
+B) Ser Técnico em Contabilidade, Contador ou Escritório de Contabilidade que tenha ou pretende ter, sob sua responsabilidade técnica, a escrituração fisco-contábil de pessoa física ou jurídica inscrita no Cadastro de Contribuintes do ICMS do Estado de MS;
+C) Quando se tratar de profissional ou escritório de outra Unidade da Federação, fazer previamente, no Conselho Regional de Contabilidade de origem, a comunicação de exercício profissional em MS. A) Documentos necessários: Se pessoa jurídica: B) Ser Técnico em Contabilidade, Contador ou Escritório de Contabilidade que tenha ou pretende ter, sob sua responsabilidade técnica, a escrituração fisco-contábil de pessoa física ou jurídica inscrita no Cadastro de Contribuintes do ICMS do Estado de MS; C) Quando se tratar de profissional ou escritório de outra Unidade da Federação, fazer previamente, no Conselho Regional de Contabilidade de origem, a comunicação de exercício profissional em MS.
+
+Quem pode utilizar este serviço?
+Profissional ou escritório de Contabilidade (pessoa física ou jurídica) Profissional ou escritório de Contabilidade (pessoa física ou jurídica)
+
+Prazos
+20 Dias corridos.
+
+Quais os custos?
+Quantidade de Uferms: 1,00
+
+Etapas
+Etapas Fazer download da Ficha de Atualização Cadastral (FAC Contabilista) na página da SEFAZ pelo endereço eletrônico http://www.sefaz.ms.gov.br/contabilista-post/. Fazer download da Ficha de Atualização Cadastral (FAC Contabilista) na página da SEFAZ pelo endereço eletrônico http://www.sefaz.ms.gov.br/contabilista-post/. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, Módulo e-SAP (Sistema Administrativo de Processo Eletrônico), ou pessoalmente ou por procurador, com procuração pública, em qualquer Agência Fazendária do Estado de MS. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, Módulo e-SAP (Sistema Administrativo de Processo Eletrônico), ou pessoalmente ou por procurador, com procuração pública, em qualquer Agência Fazendária do Estado de MS. Fazer a emissão da Taxa de Serviços Estaduais no valor de 1 (uma) Uferms e efetuar o pagamento na rede bancária credenciada, taxa essa gerada no próprio sistema e-SAP ao final do pedido. Fazer a emissão da Taxa de Serviços Estaduais no valor de 1 (uma) Uferms e efetuar o pagamento na rede bancária credenciada, taxa essa gerada no próprio sistema e-SAP ao final do pedido. Acompanhar o andamento do serviço solicitado no e-Fazenda, Módulo e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda, Módulo e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 46.03 da Tabela de Taxas de Serviços Estaduais
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito por certificado digital do solicitante no e-Fazenda, selecionar Módulo e-SAP (Sistema Administrativo de Processo Eletrônico), Criar Solicitação, marcando no tipo de solicitação “Cadastro de Contabilistas – Inclusão e alteração de dados do contabilista”; ou pessoalmente ou por procurador munido de procuração pública, em qualquer Agência Fazendária do Estado de MS.
+ 
+Canais de comunicação ao usuário
+e-Fazenda – Módulo e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigos 49 ao 53 do Anexo 004 ao Regulamento do ICMS (RICMS)
+Portaria/SAT nº 1.834 de 12/01/2007
+Decreto Nº 15.847, de 29/12/2021
+
+ 
+Unidade responsável pela atualização das informações
+Unidade de Cadastro Fiscal - UNCAD
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária 
+ 
+Unidade responsável pela prestação do serviço
+Agência Fazendária ou Unidade de Cadastro Fiscal – UNCAD
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Vagner Ribeiro
+Telefone: 3389-7736 Quais os custos? 1 Uferms, Código 520, conforme art. 185 da Lei nº 1.810/1997 e Item 46.03 da Tabela de Taxas de Serviços Estaduais Canais de acesso a este serviço Eletronicamente, mediante acesso restrito por certificado digital do solicitante no e-Fazenda, selecionar Módulo e-SAP (Sistema Administrativo de Processo Eletrônico), Criar Solicitação, marcando no tipo de solicitação “Cadastro de Contabilistas – Inclusão e alteração de dados do contabilista”; ou pessoalmente ou por procurador munido de procuração pública, em qualquer Agência Fazendária do Estado de MS. Canais de comunicação ao usuário e-Fazenda – Módulo e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Unidade de Cadastro Fiscal - UNCAD Unidade responsável pela recepção do pedido Agência Fazendária Unidade responsável pela prestação do serviço Agência Fazendária ou Unidade de Cadastro Fiscal – UNCAD Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Vagner Ribeiro Telefone: 3389-7736
+

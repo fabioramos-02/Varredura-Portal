@@ -1,0 +1,75 @@
+Declaração de substituição tributária, diferencial de alíquotas e antecipação (DeSTDA) – entrega e retificação
+O que é este serviço?
+Contribuinte do ICMS optante pelo Simples Nacional, inscrito no MS, enviar as informações, mensalmente e em meio digital, dos resultados da apuração do ICMS referentes à Substituição Tributária, Diferencial de Alíquotas e ICMS Equalização de Alíquota. Contribuinte do ICMS optante pelo Simples Nacional, inscrito no MS, enviar as informações, mensalmente e em meio digital, dos resultados da apuração do ICMS referentes à Substituição Tributária, Diferencial de Alíquotas e ICMS Equalização de Alíquota.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+Não há necessidade de apresentação de documentos, somente o arquivo digital.
+B) Ser o contribuinte optante pelo Simples Nacional, exceto: 
+I - os Microempreendedores Individuais – MEI;
+II - os estabelecimentos impedidos de recolher o ICMS pelo Simples Nacional em virtude de a empresa ter ultrapassado o sublimite estadual, nos termos do § 1º do art. 20 da LC n. 123/2006;
+III – a entrega de EFD do mesmo período dispensa a apresentação da DeSTDA.
+C) A entrega via SEDIF independe de cadastro no Transparente. A) Documentos necessários: Não há necessidade de apresentação de documentos, somente o arquivo digital. B) Ser o contribuinte optante pelo Simples Nacional, exceto: I - os Microempreendedores Individuais – MEI; II - os estabelecimentos impedidos de recolher o ICMS pelo Simples Nacional em virtude de a empresa ter ultrapassado o sublimite estadual, nos termos do § 1º do art. 20 da LC n. 123/2006; III – a entrega de EFD do mesmo período dispensa a apresentação da DeSTDA. C) A entrega via SEDIF independe de cadastro no Transparente.
+
+Quem pode utilizar este serviço?
+Pessoa Jurídica inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS
+Pessoa Jurídica inscrita no Cadastro da Agropecuária - CAP do Estado de MS 
+Pessoa Jurídica, estabelecida em outras UFs, inscrita no Cadastro de Comércio, Indústria e Serviços - CCIS do Estado de MS como substituto tributário
+
+Prazos
+Acesso Imediato
+
+Quais os custos?
+Sem custo ou trinta Uferms, conforme o caso
+
+Etapas
+Etapas Adquirir certificado digital do tipo Pessoa Jurídica (e-PJ ou e-CNPJ), podendo ser utilizado o certificado digital do contabilista constante do CCIS ou CAP. Adquirir certificado digital do tipo Pessoa Jurídica (e-PJ ou e-CNPJ), podendo ser utilizado o certificado digital do contabilista constante do CCIS ou CAP. Fazer o download do programa SEDIF-SN, também disponível em https://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/. SEDIF-SN é o Sistema Eletrônico de Dados e Informações Fiscais do Simples Nacional, desenvolvido pelos entes federados, para ser utilizado pelos contribuintes no preenchimento e entrega da DeSTDA. Fazer o download do programa SEDIF-SN, também disponível em https://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/. SEDIF-SN é o Sistema Eletrônico de Dados e Informações Fiscais do Simples Nacional, desenvolvido pelos entes federados, para ser utilizado pelos contribuintes no preenchimento e entrega da DeSTDA. Enviar o arquivo digital da DeSTDA até o dia vinte e oito do mês seguinte ao de referência, sendo que após este prazo está sujeito a multa por entrega fora do prazo no valor 100 Uferms, reduzida para 30 Uferms, por arquivo (Obs. Ainda não há geração automática de multa por atraso ou falta de entrega, atualmente a multa por falta de entrega só ocorre por ALIM).
+OBSERVAÇÃO: 
+Mais informações sobre a DeSTDA podem ser obtidas acessando o endereço http://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/. Enviar o arquivo digital da DeSTDA até o dia vinte e oito do mês seguinte ao de referência, sendo que após este prazo está sujeito a multa por entrega fora do prazo no valor 100 Uferms, reduzida para 30 Uferms, por arquivo (Obs. Ainda não há geração automática de multa por atraso ou falta de entrega, atualmente a multa por falta de entrega só ocorre por ALIM). OBSERVAÇÃO: Mais informações sobre a DeSTDA podem ser obtidas acessando o endereço http://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Imediato
+ 
+Quais os custos?
+Sem custo, na hipótese de entrega do arquivo dentro do prazo regulamentar 
+ 
+Custo da Multa
+100 Uferms, reduzida para 30 Uferms, por arquivo, na hipótese de entrega fora do prazo regulamentar, conforme artigo 117, inciso VII da Lei Estadual nº 1.810, de 22/12/1997.
+ 
+Canais de acesso a este serviço
+Eletronicamente, através do programa SEDIF-SN, também disponível para download em https://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/ 
+ 
+Canais de comunicação ao usuário
+Sistema DeSTDA
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigo 26, § 12 da Lei Complementar Federal nº 123, de 14/12/2006
+Artigo 73 da Resolução CGSN nº 140, de 22/05/2018
+Ajuste SINIEF 12/15, de 4/12/2015
+Ato COTEPE 47/15, de 4/12/2015
+Artigo 22, II do Anexo III ao Regulamento do ICMS – RICMS
+Artigos 169-A ao 169-C do Anexo 015 ao Regulamento do ICMS - RICMS
+
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Planejamento e Controle Fiscal – CPLANF
+ 
+Unidade responsável pela recepção do pedido
+On-line
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Controle e Monitoramento do Simples Nacional – USIMPLES, para contribuintes do MS
+Coordenadoria de Fiscalização do ICMS Substituição Tributária - COFIST, para contribuintes substitutos tributários de outros estados.
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Adilson Carlos Batista 
+Telefone: 3322-7600 Quanto tempo leva (prazo máximo para atendimento)? Imediato Quais os custos? Sem custo, na hipótese de entrega do arquivo dentro do prazo regulamentar Custo da Multa 100 Uferms, reduzida para 30 Uferms, por arquivo, na hipótese de entrega fora do prazo regulamentar, conforme artigo 117, inciso VII da Lei Estadual nº 1.810, de 22/12/1997. Canais de acesso a este serviço Eletronicamente, através do programa SEDIF-SN, também disponível para download em https://www.sefaz.ms.gov.br/declaracao-de-substituicao-tributaria-diferencial-de-aliquota-e-antecipacao-destda/ Canais de comunicação ao usuário Sistema DeSTDA Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Coordenadoria de Planejamento e Controle Fiscal – CPLANF Unidade responsável pela recepção do pedido On-line Unidade responsável pela prestação do serviço Unidade de Controle e Monitoramento do Simples Nacional – USIMPLES, para contribuintes do MS Coordenadoria de Fiscalização do ICMS Substituição Tributária - COFIST, para contribuintes substitutos tributários de outros estados. Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Adilson Carlos Batista Telefone: 3322-7600
+

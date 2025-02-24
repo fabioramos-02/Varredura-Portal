@@ -1,0 +1,72 @@
+ITCD – solicitação de restituição/compensação de ITCD indevido
+O que é este serviço?
+Solicitar a compensação de valor pago indevidamente em Guia de ITCD com o valor devido em outra Guia de ITCD, desde que se trate dos mesmos sujeitos passivos (herdeiros ou donatários) ou a sua devolução em espécie, nos casos em que não for possível realizar a compensação. Solicitar a compensação de valor pago indevidamente em Guia de ITCD com o valor devido em outra Guia de ITCD, desde que se trate dos mesmos sujeitos passivos (herdeiros ou donatários) ou a sua devolução em espécie, nos casos em que não for possível realizar a compensação.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento de restituição de valor pago indevidamente em Guia de ITCD, no qual conste a qualificação do requerente e as razões de fato e de direito que justificam o pedido de restituição;
+Indicação do número da Guia de ITCD em que houve o pagamento indevido;
+Comprovante de que a operação referente à Guia de ITCD paga não se concretizou ou foi indevida (tratando-se de operação relativa a bem imóvel, esse comprovante será a certidão de matrícula atualizada);
+Caso o pedido seja feito por um procurador:
+
+a) Instrumento público de mandato ou instrumento particular com firma reconhecida; 
+b) Documento oficial de identidade com foto do mandatário.
+O procurador deve ter poderes específicos para requerer a restituição de indébito tributário em nome de todos os sujeitos passivos indicados na guia paga. 
+Os sujeitos passivos são:
+Herdeiros, no caso de transmissões causa mortis.
+Donatários, no caso de doações.
+
+Dados da conta corrente (banco, agência e número da conta) da pessoa física ou jurídica que tem direito à restituição (herdeiros ou donatários, conforme o caso), se a restituição for possível em moeda corrente. É importante incluir os dígitos verificadores tanto da agência quanto da conta bancária. Ressaltamos que não é possível realizar a restituição do valor integral do tributo na conta de uma única pessoa;
+Cópia de comprovante da conta bancária (cartão, extrato, cheque ou outro), para cada um dos sujeitos passivos (o valor referente a cada herdeiro ou donatário somente será depositado em conta corrente de sua titularidade).
+
+B) Estar em dia com as obrigações perante a Fazenda Pública Estadual;
+C) O pedido de restituição NÃO SERÁ recepcionado nem formalizado processo caso o solicitante não apresente TODOS os documentos e informações exigidos pela legislação, conforme o que dispõe o artigo 4º, § Único, inc. II da IN/SAT nº 002/2017. A) Documentos necessários: a) Instrumento público de mandato ou instrumento particular com firma reconhecida; b) Documento oficial de identidade com foto do mandatário. O procurador deve ter poderes específicos para requerer a restituição de indébito tributário em nome de todos os sujeitos passivos indicados na guia paga. Os sujeitos passivos são: Herdeiros, no caso de transmissões causa mortis. Donatários, no caso de doações. B) Estar em dia com as obrigações perante a Fazenda Pública Estadual; C) O pedido de restituição NÃO SERÁ recepcionado nem formalizado processo caso o solicitante não apresente TODOS os documentos e informações exigidos pela legislação, conforme o que dispõe o artigo 4º, § Único, inc. II da IN/SAT nº 002/2017.
+
+Quem pode utilizar este serviço?
+A Pessoa Física ou Jurídica que ocupe a posição de recebedor numa transmissão não onerosa (herdeiro ou donatário). Caso um dos herdeiros ou donatários queira requerer também em nome dos demais, deverá ser apresentada procuração com poderes específicos, outorgada por cada um dos outros recebedores. No entanto, deverá ser apresentada a conta bancária de cada beneficiário para depósito da sua parte.
+
+Prazos
+90 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP). Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP). Após informação da UFITCD, o processo seguirá para a Superintendência de Administração Tributária – SAT, para análise e decisão. Após informação da UFITCD, o processo seguirá para a Superintendência de Administração Tributária – SAT, para análise e decisão. Em caso de deferimento, sendo cabível a compensação, o processo retornará à UFITCD, para efetivação da compensação e intimação do requerente. Caso haja necessidade de complementação no pagamento, será emitido o DAEMS correspondente. Caso haja valor posterior a ser restituído, o processo retornará à Etapa 2. Em caso de deferimento, sendo cabível a compensação, o processo retornará à UFITCD, para efetivação da compensação e intimação do requerente. Caso haja necessidade de complementação no pagamento, será emitido o DAEMS correspondente. Caso haja valor posterior a ser restituído, o processo retornará à Etapa 2. Em caso de deferimento, não sendo cabível a compensação, o processo será encaminhado à Superintendência do Tesouro, para pagamento e intimação do requerente. Em caso de deferimento, não sendo cabível a compensação, o processo será encaminhado à Superintendência do Tesouro, para pagamento e intimação do requerente. Em caso de indeferimento, o requerente será intimado, para fins da impugnação de que trata o artigo 45, I, c, da Lei n. 2.315/2001 (Ver serviço correspondente). Em caso de indeferimento, o requerente será intimado, para fins da impugnação de que trata o artigo 45, I, c, da Lei n. 2.315/2001 (Ver serviço correspondente). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP.
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Até 90 dias para análise na Unidade de Fiscalização do ITCD – UFITCD.
+ 
+Canais de acesso a este serviço
+Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP).
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP.
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigos 127 a 132 da Lei Estadual nº 2.315, de 25/10/2001
+Instrução Normativa/SAT nº 02, de 14.07.2017
+
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do ITCD – UFITCD
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do ITCD – UFITCD e Unidade de Análise de Benefícios Fiscais e de Revisão de Restituições – UABRR
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Rodrigo Barbosa Uehara
+Telefone: 3316-7515 Quanto tempo leva (prazo máximo para atendimento)? Até 90 dias para análise na Unidade de Fiscalização do ITCD – UFITCD. Canais de acesso a este serviço Eletronicamente, mediante acesso restrito no e-Fazenda através do Sistema Administrativo de Processo Eletrônico (e-SAP). Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP. Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Unidade de Fiscalização do ITCD – UFITCD Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do ITCD – UFITCD e Unidade de Análise de Benefícios Fiscais e de Revisão de Restituições – UABRR Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Rodrigo Barbosa Uehara Telefone: 3316-7515
+

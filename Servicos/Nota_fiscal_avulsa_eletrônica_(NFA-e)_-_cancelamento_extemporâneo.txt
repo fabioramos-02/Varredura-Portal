@@ -1,0 +1,77 @@
+Nota fiscal avulsa eletrônica (NFA-e) - cancelamento extemporâneo
+O que é este serviço?
+Solicitar o cancelamento extemporâneo (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NFA-e) de Nota Fiscal Avulsa Eletrônica (NFA-e) Solicitar o cancelamento extemporâneo (após decorrido o prazo de cento e quarenta e quatro horas, contado do momento em que foi concedida a Autorização de Uso da NFA-e) de Nota Fiscal Avulsa Eletrônica (NFA-e)
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento contendo a qualificação completa do requerente (inclusive telefone, endereço para correspondência e e-mail, se houver), bem como a motivação do pedido;
+Documento de identidade;
+A NFA-e que se pretende cancelar.
+
+B) Possuir cadastro no e-Fazenda;
+C) Não ter havido a circulação da mercadoria, a prestação de serviço ou a vinculação à Duplicata Escritural;
+D) Ter ultrapassado o prazo de cento e quarenta e quatro horas, contado a partir da Autorização da NFA-e;
+E) Não serem identificados indícios de infração à legislação em relação a cancelamentos indevidos de Notas Fiscais pelo emitente.
+OBSERVAÇÃO:
+Não será autorizado o pedido de cancelamento extemporâneo nos seguintes casos:
+
+NFA-e com REGISTRO DE PASSAGEM pelo FISCO;
+NFA-e vinculada à CT-e (Conhecimento de Transporte Eletrônico) ou MDF-e (Manifesto de Documentos Fiscais Eletrônicos) não cancelados;
+NFA-e registrada em SINTEGRA de Terceiros ou Próprio;
+NFA-e registrada em EFD de Terceiros ou Próprio;
+NFA-e com confirmação da operação pelo destinatário. A) Documentos necessários: B) Possuir cadastro no e-Fazenda; C) Não ter havido a circulação da mercadoria, a prestação de serviço ou a vinculação à Duplicata Escritural; D) Ter ultrapassado o prazo de cento e quarenta e quatro horas, contado a partir da Autorização da NFA-e; E) Não serem identificados indícios de infração à legislação em relação a cancelamentos indevidos de Notas Fiscais pelo emitente. OBSERVAÇÃO: Não será autorizado o pedido de cancelamento extemporâneo nos seguintes casos:
+
+Quem pode utilizar este serviço?
+Pessoa Física ou Jurídica não inscrita no Cadastro de Contribuinte do Estado de MS ou Contribuinte enquadrado no SIMEI ou SIMPLES NACIONAL. Pessoa Física ou Jurídica não inscrita no Cadastro de Contribuinte do Estado de MS ou Contribuinte enquadrado no SIMEI ou SIMPLES NACIONAL.
+
+Prazos
+2 Dias úteis.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas a) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP), caso seja requerente inscrito no Cadastro de Contribuintes do Estado (CCE);
+b) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP), ou pessoalmente ou por intermédio de um procurador na Agência Fazendária emissora da NFA-e, mediante a apresentação dos documentos necessários à sua identificação ou do seu procurador, se for requerente não inscrito no Cadastro de Contribuintes do Estado (CCE). a) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP), caso seja requerente inscrito no Cadastro de Contribuintes do Estado (CCE); b) Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP), ou pessoalmente ou por intermédio de um procurador na Agência Fazendária emissora da NFA-e, mediante a apresentação dos documentos necessários à sua identificação ou do seu procurador, se for requerente não inscrito no Cadastro de Contribuintes do Estado (CCE). Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”. Acompanhar o andamento do serviço solicitado no e-Fazenda - Sistema e-SAP ou Módulo “Minhas Mensagens”.
+
+Outras informações
+Quais os custos?
+Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023.
+ 
+Canais de acesso a este serviço
+a) Para requerentes inscritos no Cadastro de Contribuintes do Estado (CCE):
+
+Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP).
+
+b) Para requerentes não inscritos no Cadastro de Contribuintes do Estado (CCE):
+
+Eletronicamente, mediante acesso restrito no e-Fazenda, através do Sistema Administrativo de Processo Eletrônico (e-SAP); ou
+Pessoalmente ou por intermédio de um procurador na Agência Fazendária emissora da NFA-e, mediante a apresentação dos documentos necessários à sua identificação ou do seu procurador.
+
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+Artigos 14 e 15-A do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS      
+ 
+Unidade responsável pela atualização das informações
+Coordenadoria de Atendimento e Apoio ao Contribuinte - COACON
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária
+ 
+Unidade responsável pela prestação do serviço
+Agência Fazendária
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Armando da Silva Moura
+Telefone: 3389-7898 Quais os custos? Sem custo, conforme o art. 6° da Lei n° 6.074 de 14 de junho de 2023. Canais de acesso a este serviço a) Para requerentes inscritos no Cadastro de Contribuintes do Estado (CCE): b) Para requerentes não inscritos no Cadastro de Contribuintes do Estado (CCE): Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” ou Cientificação Pessoal Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Artigos 14 e 15-A do Subanexo XII ao Anexo XV ao Regulamento do ICMS – RICMS Unidade responsável pela atualização das informações Coordenadoria de Atendimento e Apoio ao Contribuinte - COACON Unidade responsável pela recepção do pedido Agência Fazendária Unidade responsável pela prestação do serviço Agência Fazendária Observação As informações desta Carta de Serviços têm caráter apenas de orientação, não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Armando da Silva Moura Telefone: 3389-7898
+

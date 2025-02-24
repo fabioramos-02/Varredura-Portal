@@ -3,7 +3,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
-import time
 
 def obter_info_servico_com_selenium(url, nome_servico):
     """
@@ -22,11 +21,11 @@ def obter_info_servico_com_selenium(url, nome_servico):
     try:
         # Acessar a página
         driver.get(url)
-        
 
         # Obter o HTML completo da página
         html = driver.page_source
-      
+        
+        
         # Agora você pode usar o BeautifulSoup para extrair os dados do HTML carregado
         soup = BeautifulSoup(html, 'html.parser')
         

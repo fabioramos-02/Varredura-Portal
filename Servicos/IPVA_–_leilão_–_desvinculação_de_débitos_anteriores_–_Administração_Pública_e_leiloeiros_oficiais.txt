@@ -1,0 +1,79 @@
+IPVA – leilão – desvinculação de débitos anteriores – Administração Pública e leiloeiros oficiais
+O que é este serviço?
+Use este serviço para solicitar a desvinculação dos débitos de IPVA anteriores à aquisição de veículo automotor, quando esse veículo tiver sido adquirido em leilão, tendo como comitente a Administração Pública, ou seja, o leilão tenha sido realizado a pedido de algum órgão público. 
+Cada solicitação deverá contemplar apenas um arrematante, podendo conter mais de um veículo arrematado.
+ 
+Se você for o próprio arrematante, utilize o seguinte serviço: IPVA – leilão – desvinculação de débitos anteriores – particulares. Use este serviço para solicitar a desvinculação dos débitos de IPVA anteriores à aquisição de veículo automotor, quando esse veículo tiver sido adquirido em leilão, tendo como comitente a Administração Pública, ou seja, o leilão tenha sido realizado a pedido de algum órgão público. Cada solicitação deverá contemplar apenas um arrematante, podendo conter mais de um veículo arrematado. Se você for o próprio arrematante, utilize o seguinte serviço: IPVA – leilão – desvinculação de débitos anteriores – particulares.
+
+Exigências para realizar o serviço
+A) Documentos necessários: 
+
+Requerimento, o qual deve ser preenchido no campo denominado “Requerimento” do Sistema Administrativo de Processo Eletrônico (e-SAP), no e-Fazenda, contendo a solicitação de desvinculação e os dados (placa e Renavam) relativos aos veículos objeto do pedido;
+Documento oficial que comprove a ocorrência do leilão, como:
+
+Recibo da Arrematação;
+Guia de Licitação da Receita Federal;
+Auto de Arrematação;
+Auto de Leilão Extrajudicial Positivo ou Certidão de Leilão Positivo.
+
+
+Documento oficial que informe a data em que ocorreu a apreensão do veículo, quando houver, como:
+
+ Auto de Apreensão;
+Documento de Notificação de Recolhimento de Veículo (DRV);
+Certidão de Objeto e Pé.
+
+
+
+B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/). A) Documentos necessários: B) Estar previamente cadastrado no e-Fazenda (caso ainda não possua acesso ao e-Fazenda, cadastre-se aqui: https://cadastropessoa.ms.gov.br/).
+
+Quem pode utilizar este serviço?
+Representante do órgão da Administração Pública que alienou veículo em leilão ou leiloeiro oficial, que tenha realizado o leilão para o qual solicita o serviço. Representante do órgão da Administração Pública que alienou veículo em leilão ou leiloeiro oficial, que tenha realizado o leilão para o qual solicita o serviço.
+
+Prazos
+60 Dias corridos.
+
+Quais os custos?
+Sem custo
+
+Etapas
+Etapas Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – leilão – desvinculação de débitos anteriores – Administração Pública e leiloeiros oficiais. Preencher os dados solicitados e anexar os documentos necessários. Solicitar o serviço eletronicamente, mediante acesso restrito no e-Fazenda, por meio do Sistema e-SAP, utilizando o Tipo de solicitação IPVA – leilão – desvinculação de débitos anteriores – Administração Pública e leiloeiros oficiais. Preencher os dados solicitados e anexar os documentos necessários. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+No próprio sistema e-SAP, clicando no botão “Ver Solicitações” (a situação estará na coluna “Status”), ou 
+No módulo “Minhas Mensagens”, onde você receberá mensagens referentes ao andamento da solicitação. Acompanhar o andamento do serviço solicitado, no e-Fazenda. Isso pode ser feito de duas formas:
+
+Outras informações
+Quanto tempo leva (prazo máximo para atendimento)? 
+Até 60 dias 
+ 
+Canais de acesso a este serviço
+Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) 
+ 
+Canais de comunicação ao usuário
+e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens”
+ 
+Canais para apresentação de manifestações dos usuários sobre a prestação do serviço 
+Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/
+ 
+Legislação
+
+Artigos 145, 146, IV, “a” e “b” e § 3º , artigo 155 §  5º e artigo 163, III e 186, VII todos da Lei Estadual nº 1.810, de 22/12/1997
+Decreto nº 15.847, de 29/12/2021
+
+ 
+Unidade responsável pela atualização das informações
+Unidade de Fiscalização do IPVA – UFIPVA
+ 
+Unidade responsável pela recepção do pedido
+Agência Fazendária Virtual
+ 
+Unidade responsável pela prestação do serviço
+Unidade de Fiscalização do IPVA – UFIPVA 
+ 
+Observação
+As informações desta Carta de Serviços têm caráter apenas de orientação; não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado.
+ 
+Elaborado por: 
+Paulo Sérgio Monteiro Ferreira
+Telefone: 3316-7515 Quanto tempo leva (prazo máximo para atendimento)? Até 60 dias Canais de acesso a este serviço Exclusivamente por meio eletrônico, mediante acesso restrito no e-Fazenda, por meio do Sistema Administrativo de Processo Eletrônico (e-SAP) Canais de comunicação ao usuário e-Fazenda - Sistema e-SAP e Módulo “Minhas Mensagens” Canais para apresentação de manifestações dos usuários sobre a prestação do serviço Para elogios, denúncias, reclamações ou sugestões referentes ao atendimento ou serviços prestados pela SEFAZ, acessar o link https://www.sefaz.ms.gov.br/canais-de-denuncia/ Legislação Unidade responsável pela atualização das informações Unidade de Fiscalização do IPVA – UFIPVA Unidade responsável pela recepção do pedido Agência Fazendária Virtual Unidade responsável pela prestação do serviço Unidade de Fiscalização do IPVA – UFIPVA Observação As informações desta Carta de Serviços têm caráter apenas de orientação; não geram efeitos legais e não substituem as disposições vigentes na legislação estadual publicada no Diário Oficial do Estado. Elaborado por: Paulo Sérgio Monteiro Ferreira Telefone: 3316-7515
+
