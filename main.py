@@ -20,12 +20,7 @@ for i, link in enumerate(links):
     nome_servico = link['titulo']  # Nome do serviço na coluna 'titulo'
     url_servico = link['endereco']  # URL do serviço na coluna 'endereco'
 
-    # Verificar se a URL está correta antes de processar
-    if not url_servico.startswith(('http://', 'https://')):
-        print(f"URL inválida para o serviço {nome_servico}: {url_servico}")
-        continue
-
-    print(f"Processando serviço: {nome_servico} - URL: {url_servico}")
+    
     
     # Obter a descrição do serviço usando o nome da planilha
     nome_servico, sobre_servico = obter_info_servico_com_selenium(url_servico, nome_servico)
