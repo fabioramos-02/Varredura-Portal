@@ -3,10 +3,10 @@ O que é este serviço?
 Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito do Poder Executivo Estadual. Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito do Poder Executivo Estadual.
 
 Exigências para realizar o serviço
-Não há exigências Não há exigências
+Não há exigências. Não há exigências.
 
 Quem pode utilizar este serviço?
-Pessoa física ou jurídica Pessoa física ou jurídica
+Pessoa física ou jurídica. Pessoa física ou jurídica.
 
 Prazos
 60 Dias corridos.
@@ -17,32 +17,28 @@ Sem custo
 Etapas
 Etapas Acesse o site da Plataforma Fala.BR ou clique no botão abaixo “Acessar Serviço”.
 
+
+Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”. Acesse o site da Plataforma Fala.BR ou clique no botão abaixo “Acessar Serviço”.
+
  
 
-Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”. Selecione o tipo de assunto da denúncia Selecione o tipo de assunto da denúncia Denúncia identificada: 
- 
+Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”. Selecione o tipo de assunto da denúncia. Selecione o tipo de assunto da denúncia. Denúncia identificada: 
 
 Faça login ou se cadastre na Plataforma Fala.BR.
 
- 
 
 Confira o passo a passo para realizar o Autocadastro e o login:
 
 https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro
- 
 Denúncia anônima:
- 
 
 Clique no ícone “Continuar sem me identificar”. Denúncia identificada: https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro Denúncia anônima: Faça sua denúncia Faça sua denúncia O acompanhamento da resposta da denúncia é feito de duas formas:
- 
 
 Fazendo login na Plataforma Fala.BR e acessando o menu “Minhas Manifestações”, ou
 
- 
 
 Acessando o e-mail de cadastro informado na Plataforma Fala.BR.
 
- 
 Denúncia anônima não permite acompanhamento. O acompanhamento da resposta da denúncia é feito de duas formas: Denúncia anônima não permite acompanhamento. A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro. A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro.
 
 Outras informações
