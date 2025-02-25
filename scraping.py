@@ -18,7 +18,7 @@ def obter_info_servico_com_selenium(url, nome_servico):
     chrome_options.add_argument("--disable-gpu")  # Opcional para evitar problemas com gráficos
 
     # definir navegador
-    driver = webdriver.Chrome()
+    driver = webdriver.Chrome(options=chrome_options)
     
     
 
