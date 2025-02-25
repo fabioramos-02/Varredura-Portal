@@ -11,60 +11,70 @@ from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 import time
 
-def enviar_arquivo_para_avaliacao(arquivo_txt, url):
+def configurar_driver():
+    """
+    Configura e retorna uma instância do driver Chrome otimizado.
+    """
     chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Para rodar sem abrir a janela do navegador
-    chrome_options.add_argument("--disable-gpu")  # Opcional para evitar problemas com gráficos
+    chrome_options.add_argument("--headless")  # Executar sem abrir a janela do navegador
+    chrome_options.add_argument("--disable-gpu")  # Desabilitar GPU para reduzir uso de recursos
     
+    # Instala e configura o driver automaticamente
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    
+    return driver
+
+def enviar_arquivo_para_avaliacao(arquivo_txt, url, driver):
+    """
+    Envia um arquivo para avaliação e retorna as pontuações encontradas.
+    """
     try:
         driver.get(url)
         print(f"Acessando o site de avaliação: {url}")
-        
-        # Espera o carregamento completo do formulário
+
+        # Esperar o formulário ser carregado
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, 'files')))
-        
-        # Enviar o arquivo .txt
+
+        # Enviar o arquivo
         input_arquivo = driver.find_element(By.NAME, 'files')
         arquivo_absoluto = os.path.abspath(arquivo_txt)
         input_arquivo.send_keys(arquivo_absoluto)
-        
-        # Clicar no botão "Enviar"
+
+        # Enviar o arquivo
         botao_enviar = driver.find_element(By.ID, 'EnviarFiles')
         botao_enviar.click()
-        
-        # Esperar até que os resultados sejam carregados
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'alerta')))
-        
-        print(f"Arquivo {arquivo_txt} enviado com sucesso!")
-        
-        # Obter o HTML da página com as pontuações
-        html = driver.page_source
-        soup = BeautifulSoup(html, 'html.parser')
 
-        # Verifique a tabela
-        tabela = soup.find('table', class_='TabelaNotas')
-        if tabela:
-            print("Tabela encontrada!")
-            
-            pontuacoes = []
-            for row in tabela.find_all('tr')[1:]:  # Ignorar a linha de título
-                cols = row.find_all('td')
-                if len(cols) == 13:  # Verificar se a linha tem 13 colunas
-                    nome_arquivo = cols[0].text.strip()
-                    notas = [col.text.strip() for col in cols[1:]]
-                    pontuacoes.append([nome_arquivo] + notas)
-                else:
-                    print(f"Linha com número inesperado de colunas: {len(cols)}")
-            return pontuacoes
-        else:
-            print("Tabela de pontuação não encontrada.")
-            return []
-    finally:
-        driver.quit()  # Fechar o navegador
+        # Esperar o resultado
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'alerta')))
+        print(f"Arquivo {arquivo_txt} enviado com sucesso!")
+
+        # Extrair pontuações
+        html = driver.page_source
+        return extrair_pontuacoes(html)
+
+    except Exception as e:
+        print(f"Erro ao enviar o arquivo {arquivo_txt}: {e}")
+        return []
+        
+def extrair_pontuacoes(html_resultado):
+    """
+    Extrai pontuações da página HTML.
+    """
+    soup = BeautifulSoup(html_resultado, 'html.parser')
+    tabela = soup.find('table', class_='TabelaNotas')
+    pontuacoes = []
+    if tabela:
+        for row in tabela.find_all('tr')[1:]:
+            cols = row.find_all('td')
+            if len(cols) == 13:
+                nome_arquivo = cols[0].text.strip()
+                notas = [col.text.strip() for col in cols[1:]]
+                pontuacoes.append([nome_arquivo] + notas)
+    return pontuacoes
 
 def salvar_pontuacoes_em_excel(pontuacoes, output_file='pontuacoes_servicos.xlsx'):
+    """
+    Salva as pontuações em um arquivo Excel.
+    """
     if pontuacoes:
         colunas = [
             "Nome do Arquivo", "Nota 2.1", "Nota 2.2", "Nota 2.3", "Nota 2.4", "Nota 2.5", "Nota 2.6", "Nota 2.7", 
@@ -72,62 +82,46 @@ def salvar_pontuacoes_em_excel(pontuacoes, output_file='pontuacoes_servicos.xlsx
             "Nota 2.3 - Acima de 10 palavras", "Nota 2.3 - Frases com duas ações"
         ]
         
-        # Criar um DataFrame com os dados
         df = pd.DataFrame(pontuacoes, columns=colunas)
-        print(f"Salvando as seguintes pontuações no Excel: {df.head()}")
-
-        # Salvar o DataFrame em um arquivo Excel
         df.to_excel(output_file, index=False)
         print(f"Pontuações salvas em {output_file}")
     else:
         print("Nenhuma pontuação para salvar.")
 
-def extrair_pontuacoes(html_resultado):
-    soup = BeautifulSoup(html_resultado, 'html.parser')
-    tabela = soup.find('table', class_='TabelaNotas')
-    pontuacoes = []
-    if tabela:
-        for row in tabela.find_all('tr')[1:]:  # Ignorar a linha de título
-            cols = row.find_all('td')
-            if len(cols) == 13:  # Verificar se a linha tem 13 colunas
-                nome_arquivo = cols[0].text.strip()
-                notas = [col.text.strip() for col in cols[1:]]
-                pontuacoes.append([nome_arquivo] + notas)
-    return pontuacoes
-
-def processar_arquivo(arquivo, url_avaliacao):
+def processar_arquivo(arquivo, url_avaliacao, driver):
     """
     Função para processar um arquivo individual, enviando para avaliação e extraindo pontuações.
     """
     arquivo_path = os.path.join('Servicos', arquivo)
-    html_resultado = enviar_arquivo_para_avaliacao(arquivo_path, url_avaliacao)
-    
-    if html_resultado:
-        # Extrair as pontuações da resposta HTML
-        pontuacoes = extrair_pontuacoes(html_resultado)
-        return pontuacoes
-    return []
+    pontuacoes = enviar_arquivo_para_avaliacao(arquivo_path, url_avaliacao, driver)
+    return pontuacoes
 
 if __name__ == '__main__':
     url_avaliacao = "https://linguagem-simples.ligo.go.gov.br/avaliararquivos"
-    num_arquivos_para_processar = 4  # Defina quantos arquivos processar ou use None para todos
-
     pasta_servicos = 'Servicos'
     arquivos_txt = [f for f in os.listdir(pasta_servicos) if f.endswith('.txt')]
 
+    # Definir o número de arquivos a serem processados
+    num_arquivos_para_processar = 3  # Altere para o número desejado ou None para processar todos
+
+    # Limitar o número de arquivos a serem processados
+    if num_arquivos_para_processar is not None:
+        arquivos_txt = arquivos_txt[:num_arquivos_para_processar]
+
     todas_pontuacoes = []
+    
+    # Configura o driver fora da thread
+    driver = configurar_driver()
 
-    # Usar ThreadPoolExecutor para paralelizar o processamento dos arquivos
-    with ThreadPoolExecutor() as executor:
-        if num_arquivos_para_processar is not None:
-            arquivos_txt = arquivos_txt[:num_arquivos_para_processar]
+    try:
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            resultados = executor.map(lambda arquivo: processar_arquivo(arquivo, url_avaliacao, driver), arquivos_txt)
+            for resultado in resultados:
+                if resultado:
+                    todas_pontuacoes.extend(resultado)
 
-        resultados = executor.map(lambda arquivo: processar_arquivo(arquivo, url_avaliacao), arquivos_txt)
-
-        # Coletar todos os resultados
-        for resultado in resultados:
-            if resultado:
-                todas_pontuacoes.extend(resultado)
+    finally:
+        driver.quit()  # Certifique-se de fechar o driver ao final
 
     if todas_pontuacoes:
         salvar_pontuacoes_em_excel(todas_pontuacoes)
