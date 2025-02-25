@@ -14,6 +14,7 @@ def carregar_planilha(caminho_arquivo):
         print("As colunas 'titulo' e 'endereco' não foram encontradas na planilha.")
         return []
 
+
 def salvar_planilha_com_problemas(nome_servico, url_servico, erro, arquivo_saida='servicos_com_problemas.xlsx'):
     """
     Salva os serviços com problemas em uma planilha Excel.

@@ -2,10 +2,11 @@ from concurrent.futures import ThreadPoolExecutor
 from carregar import carregar_planilha, salvar_planilha_com_problemas
 from scraping import obter_info_servico_com_selenium
 from gerar_txt import salvar_arquivo
-import os
 
 # Definir o número de serviços a serem processados (use None para processar todos)
-num_servicos_para_processar = 3  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
+num_servicos_para_processar = None  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
+# Definir o número máximo de núcleos/threads a serem usados pelo ThreadPoolExecutor
+max_threads = 4  # Ajuste para o número de threads que você deseja usar
 
 # Carregar os links dos serviços e os títulos da planilha
 links = carregar_planilha("servicos.xlsx")
@@ -31,7 +32,7 @@ def processar_servico(link):
         salvar_planilha_com_problemas(nome_servico, url_servico, str(e))
 
 # Usar ThreadPoolExecutor para paralelizar a execução dos serviços
-with ThreadPoolExecutor() as executor:
+with ThreadPoolExecutor(max_workers=max_threads) as executor:
     # Se num_servicos_para_processar não for None, limitar a quantidade de serviços processados
     if num_servicos_para_processar is not None:
         links = links[:num_servicos_para_processar]
