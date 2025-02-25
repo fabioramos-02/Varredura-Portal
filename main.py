@@ -5,7 +5,7 @@ from gerar_txt import salvar_arquivo
 import os
 
 # Definir o número de serviços a serem processados (use None para processar todos)
-num_servicos_para_processar = None  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
+num_servicos_para_processar = 3  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
 
 # Carregar os links dos serviços e os títulos da planilha
 links = carregar_planilha("servicos.xlsx")

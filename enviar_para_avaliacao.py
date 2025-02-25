@@ -23,6 +23,9 @@ def configurar_driver():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     return driver
 
+from selenium.common.exceptions import StaleElementReferenceException
+import time
+
 def enviar_arquivo_para_avaliacao(arquivo_txt, url, driver):
     """
     Envia um arquivo para avaliação e retorna as pontuações encontradas.
@@ -34,18 +37,26 @@ def enviar_arquivo_para_avaliacao(arquivo_txt, url, driver):
         # Esperar o formulário ser carregado
         WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.NAME, 'files')))
 
-        # Enviar o arquivo
-        input_arquivo = driver.find_element(By.NAME, 'files')
-        arquivo_absoluto = os.path.abspath(arquivo_txt)
-        input_arquivo.send_keys(arquivo_absoluto)
+        # Repetir a interação com o elemento se o erro ocorrer
+        retries = 3  # Número de tentativas
+        for _ in range(retries):
+            try:
+                # Enviar o arquivo
+                input_arquivo = driver.find_element(By.NAME, 'files')
+                arquivo_absoluto = os.path.abspath(arquivo_txt)
+                input_arquivo.send_keys(arquivo_absoluto)
 
-        # Enviar o arquivo
-        botao_enviar = driver.find_element(By.ID, 'EnviarFiles')
-        botao_enviar.click()
+                # Enviar o arquivo
+                botao_enviar = driver.find_element(By.ID, 'EnviarFiles')
+                botao_enviar.click()
 
-        # Esperar o resultado
-        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'alerta')))
-        print(f"Arquivo {arquivo_txt} enviado com sucesso!")
+                # Esperar o resultado
+                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, 'alerta')))
+                print(f"Arquivo {arquivo_txt} enviado com sucesso!")
+                break  # Se a interação foi bem-sucedida, saia do loop de tentativas
+            except StaleElementReferenceException:
+                print("Elemento não encontrado, tentando novamente...")
+                time.sleep(2)  # Espera um pouco antes de tentar novamente
 
         # Extrair pontuações
         html = driver.page_source
@@ -54,6 +65,7 @@ def enviar_arquivo_para_avaliacao(arquivo_txt, url, driver):
     except Exception as e:
         print(f"Erro ao enviar o arquivo {arquivo_txt}: {e}")
         return []
+
         
 def extrair_pontuacoes(html_resultado):
     """
@@ -82,11 +94,15 @@ def salvar_pontuacoes_em_excel(pontuacoes, output_file='pontuacoes_servicos.xlsx
             "Nota 2.3 - Acima de 10 palavras", "Nota 2.3 - Frases com duas ações"
         ]
         
+        # Criar um DataFrame onde cada linha corresponde a uma pontuação extraída
         df = pd.DataFrame(pontuacoes, columns=colunas)
+        
+        # Salvar em um arquivo Excel, com as pontuações em linhas separadas
         df.to_excel(output_file, index=False)
         print(f"Pontuações salvas em {output_file}")
     else:
         print("Nenhuma pontuação para salvar.")
+
 
 def processar_arquivo(arquivo, url_avaliacao, driver):
     """
@@ -102,7 +118,7 @@ if __name__ == '__main__':
     arquivos_txt = [f for f in os.listdir(pasta_servicos) if f.endswith('.txt')]
 
     # Definir o número de arquivos a serem processados
-    num_arquivos_para_processar = 3  # Altere para o número desejado ou None para processar todos
+    num_arquivos_para_processar = None  # Altere para o número desejado ou None para processar todos
 
     # Limitar o número de arquivos a serem processados
     if num_arquivos_para_processar is not None:
@@ -114,7 +130,7 @@ if __name__ == '__main__':
     driver = configurar_driver()
 
     try:
-        with ThreadPoolExecutor(max_workers=2) as executor:
+        with ThreadPoolExecutor(max_workers=4) as executor:
             resultados = executor.map(lambda arquivo: processar_arquivo(arquivo, url_avaliacao, driver), arquivos_txt)
             for resultado in resultados:
                 if resultado:

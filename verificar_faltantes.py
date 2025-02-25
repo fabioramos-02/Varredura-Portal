@@ -42,8 +42,8 @@ def verificar_servicos(links):
     # Lista para armazenar os serviços com problemas
     servicos_com_problemas = []
 
-    # Usar ThreadPoolExecutor para paralelizar o processamento
-    with ThreadPoolExecutor() as executor:
+    # Usar ThreadPoolExecutor para paralelizar o processamento com 4 threads
+    with ThreadPoolExecutor(max_workers=1) as executor:
         resultados = executor.map(verificar_servico, links)
 
         for resultado in resultados:
