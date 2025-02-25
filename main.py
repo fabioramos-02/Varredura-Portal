@@ -4,7 +4,7 @@ from scraping import obter_info_servico_com_selenium
 from gerar_txt import salvar_arquivo
 
 # Definir o número de serviços a serem processados (use None para processar todos)
-num_servicos_para_processar = None  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
+num_servicos_para_processar = 4  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
 # Definir o número máximo de núcleos/threads a serem usados pelo ThreadPoolExecutor
 max_threads = 4  # Ajuste para o número de threads que você deseja usar
 

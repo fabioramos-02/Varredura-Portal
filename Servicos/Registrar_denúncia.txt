@@ -1,6 +1,6 @@
 Registrar denúncia
 O que é este serviço?
-Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito do Poder Executivo Estadual. Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito do Poder Executivo Estadual.
+Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito da Polícia Civil de Mato Grosso do Sul. Denunciar suposto ato ilícito, irregularidade ou corrupção praticados no âmbito da Polícia Civil de Mato Grosso do Sul.
 
 Exigências para realizar o serviço
 Não há exigências. Não há exigências.
@@ -17,29 +17,52 @@ Sem custo
 Etapas
 Etapas Acesse o site da Plataforma Fala.BR ou clique no botão abaixo “Acessar Serviço”.
 
-
-Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”. Acesse o site da Plataforma Fala.BR ou clique no botão abaixo “Acessar Serviço”.
-
  
 
-Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”. Selecione o tipo de assunto da denúncia. Selecione o tipo de assunto da denúncia. Denúncia identificada: 
+Clique no ícone “Ouvidoria” e em seguida no ícone “Denúncia”.
+
+ 
+ 
+2- Selecione o tipo de assunto da denúncia
+ 
+3- Escolha uma identificação
+ 
+Denúncia identificada: 
+ 
 
 Faça login ou se cadastre na Plataforma Fala.BR.
 
+ 
 
 Confira o passo a passo para realizar o Autocadastro e o login:
 
 https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro
+ 
 Denúncia anônima:
+ 
 
-Clique no ícone “Continuar sem me identificar”. Denúncia identificada: https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro Denúncia anônima: Faça sua denúncia Faça sua denúncia O acompanhamento da resposta da denúncia é feito de duas formas:
+Clique no ícone “Continuar sem me identificar”.
+
+ 
+4- Faça sua denúncia
+ 
+5- Acompanhe a denúncia identificada
+ 
+O acompanhamento da resposta da denúncia é feito de duas formas:
+ 
 
 Fazendo login na Plataforma Fala.BR e acessando o menu “Minhas Manifestações”, ou
 
+ 
 
 Acessando o e-mail de cadastro informado na Plataforma Fala.BR.
 
-Denúncia anônima não permite acompanhamento. O acompanhamento da resposta da denúncia é feito de duas formas: Denúncia anônima não permite acompanhamento. A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro. A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro.
+ 
+Denúncia anônima não permite acompanhamento.
+ 
+6- Resposta da denúncia identificada
+ 
+A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro. 2- Selecione o tipo de assunto da denúncia 3- Escolha uma identificação Denúncia identificada: https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro Denúncia anônima: 4- Faça sua denúncia 5- Acompanhe a denúncia identificada O acompanhamento da resposta da denúncia é feito de duas formas: Denúncia anônima não permite acompanhamento. 6- Resposta da denúncia identificada A resposta da denúncia fornecida no prazo de até 60 (sessenta) dias pode ser a informação de que ela foi encaminhada para apuração. Quando a Controladoria-Geral do Estado – CGE – receber o resultado final da apuração a denúncia será reaberta e o resultado registrado na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro.
 
 Outras informações
 Prazo da resposta: 30 (trinta) dias corridos, prorrogáveis por mais 30 (trinta) dias mediante justificativa.
@@ -47,13 +70,13 @@ Prazo da resposta: 30 (trinta) dias corridos, prorrogáveis por mais 30 (trinta)
 Pode-se registrar denúncia anônima, ou seja, sem a necessidade de se identificar, sendo que a denúncia será denominada Comunicação de Irregularidade e receberá o mesmo tratamento da denúncia identificada. Todavia, não será fornecido um número de protocolo e não será possível realizar o acompanhamento.
  
 Para orientações sobre como fazer uma denúncia:
-Ligue ou envie e-mail para Ouvidoria-Geral do Estado - OGE: (67) 3318-4041ou (67) 3318-4002, e-mail: oge-cge@cge.ms.gov.br.
+Envie e-mail para Ouvidoria-Geral da PCMS: ouvidoria.dgpc@pc.ms.gov.br.
  
 Para atendimento presencial: 
-Compareça à OGE para realizar sua denúncia, que será inserido na Plataforma Fala.BR. 
+Compareça à Ouvidoria-Geral da Polícia Civil - OGPC para realizar sua denúncia, que será inserido na Plataforma Fala.BR. 
  
 Para enviar denúncia anônima ou identificada através de correspondência:
-Enviar para OGE no endereço: R. Desembargador Nunes da Cunha, Bloco III, Parque dos Poderes, Campo Grande/MS, CEP 79.031-310, que realizará o cadastro na Plataforma Fala.BR.
+Enviar para OGPC no endereço: R. Desembargador Leão Neto do Carmo, 1203, Parque dos Poderes, Campo Grande/MS, CEP 79.037-100, que realizará o cadastro na Plataforma Fala.BR.
 Com identificação enviar e-mail válido.
  
 Legislação
@@ -68,5 +91,5 @@ Resolução da Controladoria-Geral do Estado nº 007, de 23 agosto de 2018
 Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/
  
 Resolução da Controladoria-Geral do Estado nº 80, de 1º de fevereiro de 2023 
-Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/ Prazo da resposta: 30 (trinta) dias corridos, prorrogáveis por mais 30 (trinta) dias mediante justificativa. Pode-se registrar denúncia anônima, ou seja, sem a necessidade de se identificar, sendo que a denúncia será denominada Comunicação de Irregularidade e receberá o mesmo tratamento da denúncia identificada. Todavia, não será fornecido um número de protocolo e não será possível realizar o acompanhamento. Para orientações sobre como fazer uma denúncia: Ligue ou envie e-mail para Ouvidoria-Geral do Estado - OGE: (67) 3318-4041ou (67) 3318-4002, e-mail: oge-cge@cge.ms.gov.br. Para atendimento presencial: Compareça à OGE para realizar sua denúncia, que será inserido na Plataforma Fala.BR. Para enviar denúncia anônima ou identificada através de correspondência: Enviar para OGE no endereço: R. Desembargador Nunes da Cunha, Bloco III, Parque dos Poderes, Campo Grande/MS, CEP 79.031-310, que realizará o cadastro na Plataforma Fala.BR. Com identificação enviar e-mail válido. Legislação Lei Complementar nº 230, de 9 de dezembro de 2016 Disponível em https://www.cge.ms.gov.br/legislacao/lei-complementar/ Decreto Estadual nº 14.879, de 13 de setembro de 2017 Disponível em https://www.cge.ms.gov.br/legislacao/decretos/ Resolução da Controladoria-Geral do Estado nº 007, de 23 agosto de 2018 Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/ Resolução da Controladoria-Geral do Estado nº 80, de 1º de fevereiro de 2023 Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/
+Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/ Prazo da resposta: 30 (trinta) dias corridos, prorrogáveis por mais 30 (trinta) dias mediante justificativa. Pode-se registrar denúncia anônima, ou seja, sem a necessidade de se identificar, sendo que a denúncia será denominada Comunicação de Irregularidade e receberá o mesmo tratamento da denúncia identificada. Todavia, não será fornecido um número de protocolo e não será possível realizar o acompanhamento. Para orientações sobre como fazer uma denúncia: Envie e-mail para Ouvidoria-Geral da PCMS: ouvidoria.dgpc@pc.ms.gov.br. Para atendimento presencial: Compareça à Ouvidoria-Geral da Polícia Civil - OGPC para realizar sua denúncia, que será inserido na Plataforma Fala.BR. Para enviar denúncia anônima ou identificada através de correspondência: Enviar para OGPC no endereço: R. Desembargador Leão Neto do Carmo, 1203, Parque dos Poderes, Campo Grande/MS, CEP 79.037-100, que realizará o cadastro na Plataforma Fala.BR. Com identificação enviar e-mail válido. Legislação Lei Complementar nº 230, de 9 de dezembro de 2016 Disponível em https://www.cge.ms.gov.br/legislacao/lei-complementar/ Decreto Estadual nº 14.879, de 13 de setembro de 2017 Disponível em https://www.cge.ms.gov.br/legislacao/decretos/ Resolução da Controladoria-Geral do Estado nº 007, de 23 agosto de 2018 Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/ Resolução da Controladoria-Geral do Estado nº 80, de 1º de fevereiro de 2023 Disponível em https://www.cge.ms.gov.br/legislacao/resolucoes/
 

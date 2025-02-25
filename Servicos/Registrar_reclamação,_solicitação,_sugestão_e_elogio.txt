@@ -15,7 +15,7 @@ Gênero
 Cor/Raça Realizar cadastro na Plataforma Fala.BR https://falabr.cgu.gov.br. Informar os dados:
 
 Quem pode utilizar este serviço?
-Pessoa física ou jurídica. Pessoa física ou jurídica.
+Pessoa física ou jurídica Pessoa física ou jurídica
 
 Prazos
 60 Dias corridos.
@@ -33,7 +33,7 @@ Solicitação
 Sugestão
 Elogio Confira o passo a passo para realizar o Autocadastro e o login:
 
-https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro Faça sua manifestação. Faça sua manifestação. O acompanhamento da resposta da manifestação é feito de duas formas:
+https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro Faça sua manifestação Faça sua manifestação O acompanhamento da resposta da manifestação é feito de duas formas:
  
 
 Fazendo login na Plataforma Fala.BR e acessando o menu “Minhas Manifestações”, ou

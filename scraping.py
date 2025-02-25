@@ -17,7 +17,7 @@ def obter_info_servico_com_selenium(url, nome_servico):
     chrome_options.add_argument("--headless")  # Para rodar sem abrir a janela do navegador
     chrome_options.add_argument("--disable-gpu")  # Opcional para evitar problemas com gráficos
 
-    # Usar o ChromeDriverManager para garantir que o driver seja instalado automaticamente
+    # Forçar o webdriver-manager a baixar a versão correta do ChromeDriver
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
     
     try:

@@ -1,5 +1,5 @@
 import pandas as pd
-
+import os
 def carregar_planilha(caminho_arquivo):
     """
     Carrega a planilha do Excel e retorna as URLs e títulos de forma estruturada.
