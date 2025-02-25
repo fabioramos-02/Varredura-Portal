@@ -25,13 +25,13 @@ def obter_info_servico_com_selenium(url, nome_servico):
         # Obter o HTML completo da página
         html = driver.page_source
         
-        
         # Agora você pode usar o BeautifulSoup para extrair os dados do HTML carregado
         soup = BeautifulSoup(html, 'html.parser')
         
         # Procurar a descrição do serviço dividida nas seções
         descricao_parts = []
         sections = ['oquee', 'exigencias', 'quempodeutilizar', 'prazo', 'custos', 'etapas', 'outrasinformacoes']
+        
         for section_id in sections:
             section_tag = soup.find('section', id=section_id)
             if section_tag:
@@ -41,6 +41,15 @@ def obter_info_servico_com_selenium(url, nome_servico):
                 descricao_parts.append(f"{h4_tag.text.strip() if h4_tag else section_id.capitalize()}\n{section_text}\n")
             else:
                 print(f"A seção {section_id} não foi encontrada na página.")
+        
+        # Capturar as etapas detalhadas com <h5> dentro da seção de etapas
+        etapas_tag = soup.find('section', id='etapas')
+        if etapas_tag:
+            h5_tags = etapas_tag.find_all('h5')
+            for h5_tag in h5_tags:
+                p_tags = h5_tag.find_next('div').find_all('p')
+                etapa_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
+                descricao_parts.append(f"{h5_tag.text.strip()}\n{etapa_text}\n")
         
         # Juntar todas as partes para formar a descrição completa
         sobre_servico = "\n".join(descricao_parts)
