@@ -46,10 +46,14 @@ def obter_info_servico_com_selenium(url, nome_servico):
         etapas_tag = soup.find('section', id='etapas')
         if etapas_tag:
             h5_tags = etapas_tag.find_all('h5')
+            etapas = set()  # Usar um set para evitar duplicatas
             for h5_tag in h5_tags:
-                p_tags = h5_tag.find_next('div').find_all('p')
-                etapa_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-                descricao_parts.append(f"{h5_tag.text.strip()}\n{etapa_text}\n")
+                etapa_text = h5_tag.text.strip()
+                if etapa_text not in etapas:  # Verificar se já foi adicionada
+                    etapas.add(etapa_text)
+                    p_tags = h5_tag.find_next('div').find_all('p')
+                    etapa_detalhada = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
+                    descricao_parts.append(f"{etapa_text}\n{etapa_detalhada}\n")
         
         # Juntar todas as partes para formar a descrição completa
         sobre_servico = "\n".join(descricao_parts)
