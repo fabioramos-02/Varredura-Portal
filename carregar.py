@@ -15,22 +15,19 @@ def carregar_planilha(caminho_arquivo):
         return []
 
 
-def salvar_planilha_com_problemas(nome_servico, url_servico, erro, arquivo_saida='servicos_com_problemas.xlsx'):
-    """
-    Salva os serviços com problemas em uma planilha Excel.
-    """
-    problema = {
-        'Nome do Serviço': nome_servico,
-        'URL': url_servico,
-        'Erro': erro
-    }
+def salvar_planilha_com_problemas(nome_servico, url, erro_message):
+    # Carregar o DataFrame existente ou criar um novo
+    try:
+        df = pd.read_excel('problemas.xlsx')
+    except FileNotFoundError:
+        # Se o arquivo não existir, criar um novo DataFrame
+        df = pd.DataFrame(columns=["Nome do Serviço", "URL", "Erro"])
 
-    # Verifica se o arquivo já existe, se não, cria um novo
-    if os.path.exists(arquivo_saida):
-        df = pd.read_excel(arquivo_saida)
-        df = df.append(problema, ignore_index=True)
-    else:
-        df = pd.DataFrame([problema])
+    # Adicionar o novo erro
+    problema = {"Nome do Serviço": nome_servico, "URL": url, "Erro": erro_message}
+    
+    # Usar _append() para adicionar o problema
+    df = df._append(problema, ignore_index=True)
 
-    df.to_excel(arquivo_saida, index=False)
-    print(f"Planilha atualizada com erro em {nome_servico}.")
+    # Salvar novamente no Excel
+    df.to_excel('problemas.xlsx', index=False)

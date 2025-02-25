@@ -1,7 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 from carregar import salvar_planilha_com_problemas
 import traceback
@@ -17,12 +15,9 @@ def obter_info_servico_com_selenium(url, nome_servico):
     chrome_options.add_argument("--headless")  # Para rodar sem abrir a janela do navegador
     chrome_options.add_argument("--disable-gpu")  # Opcional para evitar problemas com gráficos
 
-    # definir navegador
+    # Usando o ChromeDriverManager para garantir que o ChromeDriver correto será baixado
     driver = webdriver.Chrome(options=chrome_options)
-    
-    
 
-    
     try:
         # Acessar a página
         driver.get(url)
@@ -54,15 +49,20 @@ def obter_info_servico_com_selenium(url, nome_servico):
         # Evitar repetição da palavra "Etapas"
         etapas_tag = soup.find('section', id='etapas')
         if etapas_tag and 'etapas' not in visited_sections:
-            etapas_text = []  # Listar apenas as etapas sem o título repetido
-            h5_tags = etapas_tag.find_all('h5')
+            # Captura o título "Etapas" que está no parágrafo <p> (não deve ser repetido)
+            etapas_title = etapas_tag.find('p').text.strip()  # A palavra "Etapas" está no parágrafo <p> no início da seção
+            etapas_text = []  # Listar as etapas sem o título repetido
+            h5_tags = etapas_tag.find_all('h5')  # Captura as etapas numeradas
+            
             for h5_tag in h5_tags:
-                etapa_text = h5_tag.text.strip()
-                p_tags = h5_tag.find_next('div').find_all('p')
-                etapa_detalhada = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
+                etapa_text = h5_tag.text.strip()  # O texto da etapa (1, 2, 3...)
+                p_tags = h5_tag.find_next('div').find_all('p')  # Pegando os <p> após cada <h5> para descrever a etapa
+                etapa_detalhada = " ".join([p.text.strip() for p in p_tags if p.text.strip()])  # Combina os textos
                 etapas_text.append(f"{etapa_text}\n{etapa_detalhada}\n")
+            
             if etapas_text:
-                descricao_parts.append(f"Etapas\n{''.join(etapas_text)}")
+                # Adiciona "Etapas" uma única vez, seguido pelas etapas detalhadas
+                descricao_parts.append(f"{etapas_title}\n{''.join(etapas_text)}")
             visited_sections.add('etapas')
         
         # Capturar a seção "Outras Informações" sem repetir
@@ -94,3 +94,4 @@ def obter_info_servico_com_selenium(url, nome_servico):
     
     finally:
         driver.quit()  # Fechar o navegador
+
