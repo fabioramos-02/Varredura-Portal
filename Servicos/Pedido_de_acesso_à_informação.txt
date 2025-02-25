@@ -1,17 +1,18 @@
 Pedido de acesso à informação
 O que é este serviço?
-Consiste na possibilidade de o usuário cidadão solicitar acesso às informações produzidas ou mantidas pela Procuradoria-Geral do Estado de Mato Grosso do Sul. Consiste na possibilidade de o usuário cidadão solicitar acesso às informações produzidas ou mantidas pela Procuradoria-Geral do Estado de Mato Grosso do Sul.
+Consiste na possibilidade do usuário solicitar acesso à informação dos órgãos públicos do Poder Executivo Estadual. Consiste na possibilidade do usuário solicitar acesso à informação dos órgãos públicos do Poder Executivo Estadual.
 
 Exigências para realizar o serviço
-Realizar o cadastro na Plataforma Fala.BR, informando os dados:
+Realizar cadastro na Plataforma Fala.BR https://falabr.cgu.gov.br.
+Informar os dados:
 
-Tipo de pessoa (física ou jurídica);
-País;
-Nome;
-E-mail;
-Documento de identificação;
-Gênero;
-Cor/Raça. Realizar o cadastro na Plataforma Fala.BR, informando os dados:
+Tipo de pessoa – física ou jurídica
+País
+Nome
+E-mail
+Documento de identificação
+Gênero
+Cor/Raça Realizar cadastro na Plataforma Fala.BR https://falabr.cgu.gov.br. Informar os dados:
 
 Quem pode utilizar este serviço?
 Pessoa física ou jurídica. Pessoa física ou jurídica.
@@ -23,13 +24,51 @@ Quais os custos?
 Sem custo
 
 Etapas
-Etapas Pesquisar e acessar o site da Plataforma Fala.Br: https://falabr.cgu.gov.br/web/home . Pesquisar e acessar o site da Plataforma Fala.Br: https://falabr.cgu.gov.br/web/home . Pesquisar o ícone "Acesso à Informação - LAI” e clicar nele. Pesquisar o ícone "Acesso à Informação - LAI” e clicar nele. Faça login ou cadastro na Plataforma Fala.BR. Confira o passo a passo para realizar o autocadastro e/ou login neste link: https://wiki.cgu.gov.br/index.php/Manual_do_Usu%C3%A1rio#Como_se_cadastrar_e_acessar_o_Fala.BR. Faça login ou cadastro na Plataforma Fala.BR. Confira o passo a passo para realizar o autocadastro e/ou login neste link: https://wiki.cgu.gov.br/index.php/Manual_do_Usu%C3%A1rio#Como_se_cadastrar_e_acessar_o_Fala.BR. Selecionar a opção "PGE/MS". Selecionar a opção "PGE/MS". O acompanhamento acontece de duas formas: acessando o menu “Meus pedidos e Recursos de Acesso à Informação” na Plataforma Fala.BR ou acessando o e-mail cadastrado. O acompanhamento acontece de duas formas: acessando o menu “Meus pedidos e Recursos de Acesso à Informação” na Plataforma Fala.BR ou acessando o e-mail cadastrado. Pedido fornecido: A resposta da manifestação fornecida no prazo de até 30 (trinta) dias será registrada na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro.
+Etapas Acesse o site da Plataforma Fala.BR ou clique no botão abaixo “Acessar Serviço”.
+
+ 
+
+Clique no ícone “Acesso à Informação - LAI”. Confira o passo a passo para realizar o Autocadastro e o login:
+
+https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro https://wiki.cgu.gov.br/index.php/Fala.BR_-_M%C3%B3dulo_Ouvidoria#Autocadastro O acompanhamento da resposta do pedido é feito de duas formas:
+ 
+
+Fazendo login na Plataforma Fala.BR e acessando o menu “Meus Pedidos e Recursos de Acesso à Informação”, ou
+
+ 
+
+Acessando o e-mail de cadastro informado na Plataforma Fala.BR. O acompanhamento da resposta do pedido é feito de duas formas: Pedido fornecido: A resposta da manifestação fornecida no prazo de até 30 (trinta) dias será registrada na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro.
+ 
 Ausência de resposta: o usuário pode registrar uma Reclamação na Plataforma Fala.BR. Pedido fornecido: A resposta da manifestação fornecida no prazo de até 30 (trinta) dias será registrada na Plataforma Fala.BR que enviará automaticamente uma mensagem de alerta para o e-mail de cadastro. Ausência de resposta: o usuário pode registrar uma Reclamação na Plataforma Fala.BR. Caso a resposta ao pedido não seja satisfatória ou a resposta tenha sido negada é possível registrar recurso de primeira instância à autoridade máxima do órgão no prazo de 10 (dez) dias a contar da publicação na Plataforma Fala.BR que deverá julgar e publicar em até 15 (quinze) dias.
-Se o recurso de primeira instância for negado o usuário poderá apresentar recurso de segunda instância ao Ouvidor-Geral do Estado, no prazo de 10 (dez) dias, a contar da publicação, que deverá julgar e publicar em até 15 (quinze) dias. Caso a resposta ao pedido não seja satisfatória ou a resposta tenha sido negada é possível registrar recurso de primeira instância à autoridade máxima do órgão no prazo de 10 (dez) dias a contar da publicação na Plataforma Fala.BR que deverá julgar e publicar em até 15 (quinze) dias. Se o recurso de primeira instância for negado o usuário poderá apresentar recurso de segunda instância ao Ouvidor-Geral do Estado, no prazo de 10 (dez) dias, a contar da publicação, que deverá julgar e publicar em até 15 (quinze) dias.
+ 
+Se o recurso de primeira instância for negado o usuário poderá apresentar recurso de segunda instância ao Ouvidor-Geral do Estado, no prazo de 10 (dez) dias, a contar da publicação, que deverá julgar e publicar em até 15 (quinze) dias. Caso a resposta ao pedido não seja satisfatória ou a resposta tenha sido negada é possível registrar recurso de primeira instância à autoridade máxima do órgão no prazo de 10 (dez) dias a contar da publicação na Plataforma Fala.BR que deverá julgar e publicar em até 15 (quinze) dias. Se o recurso de primeira instância for negado o usuário poderá apresentar recurso de segunda instância ao Ouvidor-Geral do Estado, no prazo de 10 (dez) dias, a contar da publicação, que deverá julgar e publicar em até 15 (quinze) dias.
 
 Outras informações
-O prazo de resposta é de 20 (vinte) dias corridos, prorrogáveis por mais 10 (dez) dias mediante justificativa do órgão. 
-Outra alternativa para o envio de manifestação poderá ser pelo e-mail ouvidoria@pge.ms.gov.br, porém não poderá contar com as funcionalidades da Plataforma Fala.BR. 
-Para orientações gerais ligar ou enviar e-mail para a Ouvidoria Geral do Estado - OGE/MS: (67) 3318-4041 ou (67) 3318-4002, e-mail: oge-cge@cge.ms.gov.br. 
-Legislação: Lei Federal nº 12.527, de 18 de novembro de 2011 Lei Estadual nº 4.416, de 16 de outubro de 2013 Lei Complementar nº 230, de 9 de dezembro de 2016 Decreto Estadual nº 14.471, de 12 de maio de 2016 Decreto Estadual nº 14.879, de 13 de novembro de 2017 Decreto Estadual nº 16.352, de 22 de dezembro de 2023
+Prazo de resposta: 20 (vinte) dias corridos, prorrogáveis por mais 10 (dez) dias mediante justificativa do órgão.
+ 
+Para orientações sobre como fazer uma manifestação:
+Ligue ou envie e-mail para Ouvidoria-Geral do Estado - OGE: (67) 3318-4041ou (67) 3318-4002, e-mail: oge-cge@cge.ms.gov.br.
+ 
+Para atendimento presencial: 
+Compareça à OGE para realizar seu pedido de acesso à informação, que será inserido na Plataforma Fala.BR.
+ 
+Para enviar um pedido de acesso à informação através de correspondência:
+Inserir a informação dos dados pessoais do manifestante: tipo de pessoa – física ou jurídica, país, nome, e-mail, documento de identificação, gênero e cor/raça, e envie para OGE no endereço: R. Desembargador Nunes da Cunha, Bloco III, Parque dos Poderes, Campo Grande/MS, CEP 79.031-310, que realizará o cadastro na Plataforma Fala.BR.
+ 
+Legislação
+ 
+Lei Federal nº 12.527, de 18 de novembro de 2011
+Disponível em http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm
+ 
+Lei Estadual nº 4.416, de 16 de outubro de 2013
+Disponível em https://www.cge.ms.gov.br/legislacao/leis/
+ 
+Decreto Estadual nº 16.352, de 22 de dezembro de 2023
+Disponível em https://www.cge.ms.gov.br/legislacao/decretos/
+ 
+Lei Complementar nº 230, de 9 de dezembro de 2016
+Disponível em https://www.cge.ms.gov.br/legislacao/lei-complementar/
+ 
+Decreto Estadual nº 14.879, de 13 de novembro de 2017
+Disponível em https://www.cge.ms.gov.br/legislacao/decretos/ Prazo de resposta: 20 (vinte) dias corridos, prorrogáveis por mais 10 (dez) dias mediante justificativa do órgão. Para orientações sobre como fazer uma manifestação: Ligue ou envie e-mail para Ouvidoria-Geral do Estado - OGE: (67) 3318-4041ou (67) 3318-4002, e-mail: oge-cge@cge.ms.gov.br. Para atendimento presencial: Compareça à OGE para realizar seu pedido de acesso à informação, que será inserido na Plataforma Fala.BR. Para enviar um pedido de acesso à informação através de correspondência: Inserir a informação dos dados pessoais do manifestante: tipo de pessoa – física ou jurídica, país, nome, e-mail, documento de identificação, gênero e cor/raça, e envie para OGE no endereço: R. Desembargador Nunes da Cunha, Bloco III, Parque dos Poderes, Campo Grande/MS, CEP 79.031-310, que realizará o cadastro na Plataforma Fala.BR. Legislação Lei Federal nº 12.527, de 18 de novembro de 2011 Disponível em http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm Lei Estadual nº 4.416, de 16 de outubro de 2013 Disponível em https://www.cge.ms.gov.br/legislacao/leis/ Decreto Estadual nº 16.352, de 22 de dezembro de 2023 Disponível em https://www.cge.ms.gov.br/legislacao/decretos/ Lei Complementar nº 230, de 9 de dezembro de 2016 Disponível em https://www.cge.ms.gov.br/legislacao/lei-complementar/ Decreto Estadual nº 14.879, de 13 de novembro de 2017 Disponível em https://www.cge.ms.gov.br/legislacao/decretos/
 
