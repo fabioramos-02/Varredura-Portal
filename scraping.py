@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 from carregar import salvar_planilha_com_problemas
 import traceback
 
-
-
 def extrair_oquee(soup):
     """Função específica para extrair a seção 'O que é este serviço'"""
     section_tag = soup.find('section', id='oquee')
@@ -15,7 +13,6 @@ def extrair_oquee(soup):
         section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
         return f"{h4_tag.text.strip() if h4_tag else 'O que é este serviço'}\n{section_text}\n"
     return ""
-
 
 def extrair_exigencias(soup):
     """Função específica para extrair a seção 'Exigências'"""
@@ -27,17 +24,19 @@ def extrair_exigencias(soup):
         return f"{h4_tag.text.strip() if h4_tag else 'Exigências'}\n{section_text}\n"
     return ""
 
-
 def extrair_quempodeutilizar(soup):
     """Função específica para extrair a seção 'Quem pode utilizar'"""
     section_tag = soup.find('section', id='quempodeutilizar')
+    return extrair_texto_da_secao(section_tag, 'Quem pode utilizar')
+
+def extrair_texto_da_secao(section_tag, default_title):
+    """Função genérica para extrair texto de uma seção"""
     if section_tag:
         h4_tag = section_tag.find('h4')
         p_tags = section_tag.find_all('p')
         section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-        return f"{h4_tag.text.strip() if h4_tag else 'Quem pode utilizar'}\n{section_text}\n"
+        return f"{h4_tag.text.strip() if h4_tag else default_title}\n{section_text}\n"
     return ""
-
 
 def extrair_prazos(soup):
     """Função específica para extrair a seção 'Prazos'"""
@@ -49,7 +48,6 @@ def extrair_prazos(soup):
         return f"{h4_tag.text.strip() if h4_tag else 'Prazos'}\n{section_text}\n"
     return ""
 
-
 def extrair_custos(soup):
     """Função específica para extrair a seção 'Custos'"""
     section_tag = soup.find('section', id='custos')
@@ -59,7 +57,6 @@ def extrair_custos(soup):
         section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
         return f"{h4_tag.text.strip() if h4_tag else 'Custos'}\n{section_text}\n"
     return ""
-
 
 def extrair_etapas(soup, visited_sections):
     """Função específica para extrair a seção 'Etapas' com regras de negócio para evitar repetição"""
@@ -76,7 +73,6 @@ def extrair_etapas(soup, visited_sections):
         return f"Etapas\n{''.join(etapas_text)}"
     return ""
 
-
 def extrair_outrasinformacoes(soup, visited_sections):
     """Função específica para extrair a seção 'Outras Informações'"""
     section_tag = soup.find('section', id='outrasinformacoes')
@@ -89,9 +85,15 @@ def extrair_outrasinformacoes(soup, visited_sections):
 
         # Para cada parágrafo, verificamos se ele não está vazio
         for p in p_tags:
-            text = p.text.strip()
+            # Remover tags <a> de dentro de <p> para evitar duplicação de links
+            links = p.find_all('a')
+            for link in links:
+                link.extract()  # Remove o conteúdo da tag <a> para evitar duplicação
 
-            # Evitar adição de parágrafos duplicados, como links repetidos
+            # Extrair o texto do parágrafo e remover espaços em branco
+            text = p.get_text(strip=True)
+
+            # Evitar adição de parágrafos duplicados
             if text and text not in outras_informacoes_text:
                 outras_informacoes_text.append(text)
 
@@ -101,8 +103,6 @@ def extrair_outrasinformacoes(soup, visited_sections):
             return f"{h4_tag.text.strip() if h4_tag else 'Outras Informações'}\n" + "\n".join(outras_informacoes_text) + "\n"
 
     return ""
-
-
 
 def obter_info_servico_com_selenium(url, nome_servico):
     """
