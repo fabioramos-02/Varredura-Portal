@@ -5,38 +5,81 @@ from carregar import salvar_planilha_com_problemas
 import traceback
 
 def extrair_oquee(soup):
-    """Função específica para extrair a seção 'O que é este serviço'"""
+    """Função específica para extrair a seção 'O que é este serviço' com quebras de linha adequadas"""
     section_tag = soup.find('section', id='oquee')
     if section_tag:
         h4_tag = section_tag.find('h4')
         p_tags = section_tag.find_all('p')
-        section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-        return f"{h4_tag.text.strip() if h4_tag else 'O que é este serviço'}\n{section_text}\n"
+
+        # Variável para armazenar o texto da seção sem duplicações
+        section_text = []
+
+        for p in p_tags:
+            # Extrair texto do parágrafo, removendo espaços em branco e links
+            text = p.get_text(strip=True)
+            if text:
+                # Verificar se o parágrafo já foi adicionado (evita repetições)
+                if text not in section_text:
+                    section_text.append(text)
+
+        # Concatenar os parágrafos com quebras de linha entre eles
+        if section_text:
+            return f"{h4_tag.text.strip() if h4_tag else 'O que é este serviço'}\n" + "\n".join(section_text) + "\n"
+    
     return ""
 
-def extrair_exigencias(soup):
+
+def extrair_exigencias(soup, visited_sections):
     """Função específica para extrair a seção 'Exigências'"""
     section_tag = soup.find('section', id='exigencias')
-    if section_tag:
+    if section_tag and 'exigencias' not in visited_sections:
         h4_tag = section_tag.find('h4')
         p_tags = section_tag.find_all('p')
-        section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-        return f"{h4_tag.text.strip() if h4_tag else 'Exigências'}\n{section_text}\n"
+        
+        # Variável para armazenar o texto da seção sem duplicações
+        section_text = []
+        
+        # Para cada parágrafo, verificamos se ele não está vazio
+        for p in p_tags:
+            text = p.get_text(strip=True)
+            
+            # Evitar parágrafos duplicados
+            if text and text not in section_text:
+                section_text.append(text)
+
+        # Concatenar todos os parágrafos filtrados
+        if section_text:
+            visited_sections.add('exigencias')
+            return f"{h4_tag.text.strip() if h4_tag else 'Exigências'}\n" + "\n".join(section_text) + "\n"
+    
     return ""
 
-def extrair_quempodeutilizar(soup):
+
+def extrair_quempodeutilizar(soup, visited_sections):
     """Função específica para extrair a seção 'Quem pode utilizar'"""
     section_tag = soup.find('section', id='quempodeutilizar')
-    return extrair_texto_da_secao(section_tag, 'Quem pode utilizar')
-
-def extrair_texto_da_secao(section_tag, default_title):
-    """Função genérica para extrair texto de uma seção"""
-    if section_tag:
+    if section_tag and 'quempodeutilizar' not in visited_sections:
         h4_tag = section_tag.find('h4')
         p_tags = section_tag.find_all('p')
-        section_text = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-        return f"{h4_tag.text.strip() if h4_tag else default_title}\n{section_text}\n"
+        
+        # Variável para armazenar o texto da seção sem duplicações
+        section_text = []
+        
+        # Para cada parágrafo, verificamos se ele não está vazio
+        for p in p_tags:
+            text = p.get_text(strip=True)
+            
+            # Evitar parágrafos duplicados
+            if text and text not in section_text:
+                section_text.append(text)
+
+        # Concatenar todos os parágrafos filtrados
+        if section_text:
+            visited_sections.add('quempodeutilizar')
+            return f"{h4_tag.text.strip() if h4_tag else 'Quem pode utilizar'}\n" + "\n".join(section_text) + "\n"
+
     return ""
+
 
 def extrair_prazos(soup):
     """Função específica para extrair a seção 'Prazos'"""
@@ -64,14 +107,30 @@ def extrair_etapas(soup, visited_sections):
     if section_tag and 'etapas' not in visited_sections:
         etapas_text = []
         h5_tags = section_tag.find_all('h5')
+        
+        # Para cada etapa, extraímos o título e as descrições
         for h5_tag in h5_tags:
             etapa_text = h5_tag.text.strip()
+            # Encontrar todos os parágrafos dentro do <div> que segue o <h5>
             p_tags = h5_tag.find_next('div').find_all('p')
-            etapa_detalhada = " ".join([p.text.strip() for p in p_tags if p.text.strip()])
-            etapas_text.append(f"{etapa_text}\n{etapa_detalhada}\n")
+            
+            etapa_detalhada = []
+            # Para cada parágrafo, removemos espaços extras e garantimos que não adicionamos duplicados
+            for p in p_tags:
+                text = p.text.strip()
+                # Evitar adicionar texto duplicado
+                if text and text not in etapa_detalhada:
+                    etapa_detalhada.append(text)
+            
+            if etapa_detalhada:
+                # Juntar o texto da etapa e das descrições detalhadas
+                etapas_text.append(f"{etapa_text}\n" + "\n".join(etapa_detalhada) + "\n")
+        
         visited_sections.add('etapas')
         return f"Etapas\n{''.join(etapas_text)}"
+    
     return ""
+
 
 def extrair_outrasinformacoes(soup, visited_sections):
     """Função específica para extrair a seção 'Outras Informações'"""
@@ -134,12 +193,12 @@ def obter_info_servico_com_selenium(url, nome_servico):
         
         # Extração de seções usando funções específicas
         descricao_parts.append(extrair_oquee(soup))
-        descricao_parts.append(extrair_exigencias(soup))
-        descricao_parts.append(extrair_quempodeutilizar(soup))
+        descricao_parts.append(extrair_exigencias(soup, visited_sections))  # Passando visited_sections
+        descricao_parts.append(extrair_quempodeutilizar(soup, visited_sections))  # Passando visited_sections
         descricao_parts.append(extrair_prazos(soup))
         descricao_parts.append(extrair_custos(soup))
-        descricao_parts.append(extrair_etapas(soup, visited_sections))
-        descricao_parts.append(extrair_outrasinformacoes(soup, visited_sections))
+        descricao_parts.append(extrair_etapas(soup, visited_sections))  # Passando visited_sections
+        descricao_parts.append(extrair_outrasinformacoes(soup, visited_sections))  # Passando visited_sections
 
         # Verificar se a seção 'Outras Informações' foi encontrada e registrar se não foi
         if not descricao_parts[-1]:
