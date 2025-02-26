@@ -17,9 +17,13 @@ def carregar_planilha(caminho_arquivo):
 
 
 
-
 def salvar_planilha_com_problemas(nome_servico, url_servico, erro):
     global planilha_problemas
+    
+    # Inicialize a variável planilha_problemas se ela não estiver definida
+    if 'planilha_problemas' not in globals():
+        planilha_problemas = pd.DataFrame(columns=['Título', 'URL', 'Erro'])
+    
     # Adiciona o erro à planilha
     novo_registro = pd.DataFrame([[nome_servico, url_servico, erro]], columns=['Título', 'URL', 'Erro'])
     planilha_problemas = pd.concat([planilha_problemas, novo_registro], ignore_index=True)
@@ -27,3 +31,4 @@ def salvar_planilha_com_problemas(nome_servico, url_servico, erro):
     # Salva novamente no arquivo Excel
     planilha_problemas.to_excel('problemas.xlsx', index=False)
     print(f"Erro registrado para o serviço {nome_servico}: {erro}")
+
