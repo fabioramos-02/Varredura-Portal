@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+
 def carregar_planilha(caminho_arquivo):
     """
     Carrega a planilha do Excel e retorna as URLs e títulos de forma estruturada.
@@ -15,19 +16,14 @@ def carregar_planilha(caminho_arquivo):
         return []
 
 
-def salvar_planilha_com_problemas(nome_servico, url, erro_message):
-    # Carregar o DataFrame existente ou criar um novo
-    try:
-        df = pd.read_excel('problemas.xlsx')
-    except FileNotFoundError:
-        # Se o arquivo não existir, criar um novo DataFrame
-        df = pd.DataFrame(columns=["Nome do Serviço", "URL", "Erro"])
 
-    # Adicionar o novo erro
-    problema = {"Nome do Serviço": nome_servico, "URL": url, "Erro": erro_message}
+
+def salvar_planilha_com_problemas(nome_servico, url_servico, erro):
+    global planilha_problemas
+    # Adiciona o erro à planilha
+    novo_registro = pd.DataFrame([[nome_servico, url_servico, erro]], columns=['Título', 'URL', 'Erro'])
+    planilha_problemas = pd.concat([planilha_problemas, novo_registro], ignore_index=True)
     
-    # Usar _append() para adicionar o problema
-    df = df._append(problema, ignore_index=True)
-
-    # Salvar novamente no Excel
-    df.to_excel('problemas.xlsx', index=False)
+    # Salva novamente no arquivo Excel
+    planilha_problemas.to_excel('problemas.xlsx', index=False)
+    print(f"Erro registrado para o serviço {nome_servico}: {erro}")
