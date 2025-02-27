@@ -1,41 +1,45 @@
+from carregar import carregar_planilha
 from concurrent.futures import ThreadPoolExecutor
-from carregar import carregar_planilha, salvar_planilha_com_problemas
-from scraping import obter_info_servico_com_selenium
-from gerar_txt import salvar_arquivo
+from gerar_txt import processar_servico
+import pandas as pd
 
-# Definir o número de serviços a serem processados (use None para processar todos)
-num_servicos_para_processar = 4  # Ajuste este valor para 3 ou outro número, ou use None para processar todos
-# Definir o número máximo de núcleos/threads a serem usados pelo ThreadPoolExecutor
-max_threads = 4  # Ajuste para o número de threads que você deseja usar
+# Função para orquestrar o processamento de todos os serviços
+def orquestrar_processamento_servicos(caminho_arquivo):
+    """
+    Orquestra o processamento de todos os serviços.
+    """
+    print("Carregando dados da planilha...")
+    planilha = carregar_planilha(caminho_arquivo)
 
-# Carregar os links dos serviços e os títulos da planilha
-links = carregar_planilha("servicos.xlsx")
+    falhas = []
+    total_processados = 0
+    total_falhas = 0
 
-# Função para processar um serviço
-def processar_servico(link):
-    nome_servico = link['titulo']  # Nome do serviço na coluna 'titulo'
-    url_servico = link['endereco']  # URL do serviço na coluna 'endereco'
+    # Usando paralelização para processar os serviços
+    with ThreadPoolExecutor() as executor:
+        resultados = executor.map(processar_servico, [row for _, row in planilha.iterrows()])
 
-    print(f"Processando serviço: {nome_servico} - URL: {url_servico}")
+        # Coletando os resultados de falhas
+        for nome_servico, sucesso, erro in resultados:
+            if not sucesso:
+                falhas.append({'titulo': nome_servico, 'erro': erro})
+                total_falhas += 1
+            total_processados += 1
 
-    try:
-        # Obter a descrição do serviço usando o nome da planilha
-        nome_servico, sobre_servico = obter_info_servico_com_selenium(url_servico, nome_servico)
+    # Gerar o arquivo de falhas
+    if falhas:
+        falhas_df = pd.DataFrame(falhas)
+        falhas_df.to_excel('falhas.xlsx', index=False)
+        print(f"{total_falhas} serviços falharam e foram registrados em 'falhas.xlsx'.")
+    else:
+        print("Todos os serviços foram processados com sucesso!")
 
-        # Salvar arquivo na pasta 'Servicos'
-        pasta_servicos = 'Servicos'
-        salvar_arquivo(nome_servico, sobre_servico, pasta_destino=pasta_servicos)
+    # Relatório de quantos arquivos foram processados com sucesso e os que falharam
+    print(f"Total de serviços processados: {total_processados}")
+    print(f"Total de serviços gerados com sucesso: {total_processados - total_falhas}")
+    print(f"Total de falhas: {total_falhas}")
 
-    except Exception as e:
-        print(f"Erro ao processar o serviço {nome_servico}: {e}")
-        # Se houver erro, salvamos as informações na planilha
-        salvar_planilha_com_problemas(nome_servico, url_servico, str(e))
-
-# Usar ThreadPoolExecutor para paralelizar a execução dos serviços
-with ThreadPoolExecutor(max_workers=max_threads) as executor:
-    # Se num_servicos_para_processar não for None, limitar a quantidade de serviços processados
-    if num_servicos_para_processar is not None:
-        links = links[:num_servicos_para_processar]
-    
-    # Executar a função de processamento em paralelo para todos os serviços
-    executor.map(processar_servico, links)
+# Executando a orquestração
+if __name__ == "__main__":
+    caminho_arquivo = "servicos.xlsx"  # Caminho para o arquivo da planilha
+    orquestrar_processamento_servicos(caminho_arquivo)
