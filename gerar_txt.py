@@ -1,6 +1,16 @@
 import os
 import pandas as pd
 import unicodedata
+import re
+
+# Função para remover as tags < e > do texto
+def remover_tags_etapa(etapa_texto):
+    """
+    Remove qualquer conteúdo entre as tags < e > e retorna o texto limpo.
+    """
+    # Expressão regular para capturar o conteúdo entre < e >
+    etapa_texto = re.sub(r'<.*?>', '', etapa_texto)  # Remove qualquer tag
+    return etapa_texto.strip()
 
 # Função para gerar o texto conforme o formato esperado
 def gerar_texto_servico(row):
@@ -8,6 +18,13 @@ def gerar_texto_servico(row):
     texto += f"O que é este serviço?\n{row['descricao']}\n\n"
     texto += f"Exigências para realizar o serviço\n{row['requisitos']}\n\n"
     texto += f"Quem pode utilizar este serviço?\n{row['publico']}\n\n"
+    
+    # Verificar se há etapas e removê-las corretamente
+    if pd.isna(row['etapa']) or row['etapa'].strip() == "":
+        texto += "Etapas\n\n"
+    else:
+        texto += f"Etapas\n {remover_tags_etapa(row['etapa'])}\n\n"
+    
     if int(row['tempo_total']) == 0:
         texto += f"Prazos\n{row['tipo_tempo']} \n\n"
     else:
@@ -23,7 +40,6 @@ def limpar_texto(texto):
     Limpa caracteres indesejados do texto.
     """
     return texto.replace('_x000D_', '').replace('\xa0', ' ').replace('_x0009_', '').strip()
-
 
 # Função para limpar caracteres inválidos para nomes de arquivos e normalizar caracteres especiais
 def limpar_nome_arquivo(nome_arquivo, limite_tamanho=100):

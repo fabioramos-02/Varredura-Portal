@@ -8,7 +8,7 @@ def carregar_planilha(caminho_arquivo):
     df = pd.read_excel(caminho_arquivo)
 
     # Verificar se as colunas necessárias existem
-    colunas_esperadas = ['titulo', 'descricao', 'requisitos', 'publico', 'tempo_total', 'tipo_tempo', 'custo', 'informacoes_extra', 'endereco']
+    colunas_esperadas = ['titulo', 'descricao', 'requisitos', 'publico', 'tempo_total', 'tipo_tempo', 'custo', 'etapa', 'informacoes_extra', 'endereco']
     
     # print("Colunas encontradas na planilha:", df.columns.tolist())
 
