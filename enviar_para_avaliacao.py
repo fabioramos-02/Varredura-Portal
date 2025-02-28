@@ -2,18 +2,23 @@ import os
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from time import sleep
 
+# Configurações
+LIMITE_ARQUIVOS_POR_LOTE = 8  # Quantidade de arquivos por lote
+NUM_THREADS = 3  # Número de threads para processar os lotes paralelamente
+
+# Função para enviar arquivos para avaliação
 def enviar_arquivos_para_avaliacao(arquivos_txt, url):
     """
-    Envia um lote de arquivos para avaliação usando requests (sem Selenium).
+    Envia um lote de arquivos para avaliação usando requests.
     """
     print(f"Enviando lote de {len(arquivos_txt)} arquivos para avaliação...")
 
-    # Prepare os arquivos para envio
     files = []
     for arquivo in arquivos_txt:
         arquivo_absoluto = os.path.join(os.getcwd(), 'Servicos', arquivo)  # Garantir o caminho correto
-        print(f"Enviando arquivo: {arquivo_absoluto}")
         
         # Verifique se o arquivo existe antes de tentar enviá-lo
         if not os.path.exists(arquivo_absoluto):
@@ -22,21 +27,26 @@ def enviar_arquivos_para_avaliacao(arquivos_txt, url):
         
         files.append(('files', open(arquivo_absoluto, 'rb')))  # Envia o arquivo em modo binário
 
-    # Envia os arquivos via POST
-    response = requests.post(url, files=files)
+    try:
+        # Envia os arquivos via POST
+        response = requests.post(url, files=files)
 
-    # Fechar os arquivos após o envio
-    for file in files:
-        file[1].close()
+        # Fechar os arquivos após o envio
+        for file in files:
+            file[1].close()
 
-    # Verifique se a resposta foi bem-sucedida
-    if response.status_code == 200:
-        print("Arquivos enviados com sucesso!")
-        return response.text
-    else:
-        print(f"Erro ao enviar arquivos. Status code: {response.status_code}")
+        # Verifique se a resposta foi bem-sucedida
+        if response.status_code == 200:
+            print(f"Arquivos enviados com sucesso!")
+            return response.text  # Retorna o HTML gerado após o envio
+        else:
+            print(f"Erro ao enviar arquivos. Status code: {response.status_code}")
+            return None
+    except Exception as e:
+        print(f"Erro ao enviar os arquivos: {e}")
         return None
 
+# Função para extrair pontuações da tabela HTML gerada
 def extrair_pontuacoes(html_resultado):
     """
     Extrai pontuações da página HTML.
@@ -57,6 +67,7 @@ def extrair_pontuacoes(html_resultado):
     
     return pontuacoes
 
+# Função para salvar as pontuações extraídas em um arquivo Excel
 def salvar_pontuacoes_em_excel(pontuacoes, output_file='resultado_avaliacao.xlsx'):
     """
     Salva as pontuações extraídas em um arquivo Excel.
@@ -73,6 +84,7 @@ def salvar_pontuacoes_em_excel(pontuacoes, output_file='resultado_avaliacao.xlsx
     else:
         print("Nenhuma pontuação para salvar.")
 
+# Função para mesclar os resultados com a planilha servicos.xlsx
 def mesclar_com_servicos(servicos_df, resultados_df, output_file='resultados_finais.xlsx'):
     """
     Mescla os resultados da avaliação com a planilha servicos.xlsx.
@@ -84,33 +96,41 @@ def mesclar_com_servicos(servicos_df, resultados_df, output_file='resultados_fin
     resultados_finais.to_excel(output_file, index=False)
     print(f"Resultados finais mesclados e salvos em {output_file}")
 
+# Função para processar os arquivos em lotes de forma paralela
 def processar_lotes(arquivos_txt, url, servicos_df):
     """
     Processa os arquivos em lotes de 5 por vez e mescla os resultados com a planilha de serviços.
     """
-    lote_size = 5
-    for i in range(0, len(arquivos_txt), lote_size):
-        lote = arquivos_txt[i:i + lote_size]
+    lote_size = LIMITE_ARQUIVOS_POR_LOTE
+    resultados = []
+
+    with ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
+        futures = []
         
-        # Enviar os arquivos do lote para avaliação
-        html_resultado = enviar_arquivos_para_avaliacao(lote, url)
-        if not html_resultado:
-            continue  # Se o envio falhar, pula para o próximo lote
+        # Envia os lotes de arquivos para avaliação paralelamente
+        for i in range(0, len(arquivos_txt), lote_size):
+            lote = arquivos_txt[i:i + lote_size]
+            futures.append(executor.submit(enviar_arquivos_para_avaliacao, lote, url))
         
-        # Extrair as pontuações da avaliação
-        pontuacoes = extrair_pontuacoes(html_resultado)
+        # Processa os resultados dos lotes assim que cada um terminar
+        for future in as_completed(futures):
+            html_resultado = future.result()
+            if html_resultado:
+                pontuacoes = extrair_pontuacoes(html_resultado)
+                resultados.extend(pontuacoes)
         
-        # Salvar as pontuações em um arquivo Excel
-        salvar_pontuacoes_em_excel(pontuacoes)
+        # Salvar as pontuações
+        salvar_pontuacoes_em_excel(resultados)
         
-        # Mesclar os resultados com os dados da planilha servicos.xlsx
-        resultados_df = pd.DataFrame(pontuacoes, columns=[ 
+        # Mesclar os resultados com a planilha servicos.xlsx
+        resultados_df = pd.DataFrame(resultados, columns=[ 
             "Nome do Arquivo", "Nota 2.1", "Nota 2.2", "Nota 2.3", "Nota 2.4", "Nota 2.5", "Nota 2.6", "Nota 2.7", 
             "Nota 2.2 - Começa com verbo", "Nota 2.2 - Está entre 3 a 5 palavras", "Nota 2.2 - Verbo no infinitivo", 
             "Nota 2.3 - Acima de 10 palavras", "Nota 2.3 - Frases com duas ações"
         ])
         mesclar_com_servicos(servicos_df, resultados_df)
 
+# Função principal
 def main():
     url_avaliacao = "https://linguagem-simples.ligo.go.gov.br/avaliararquivos"
     pasta_servicos = 'Servicos'
