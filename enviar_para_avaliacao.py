@@ -6,8 +6,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from time import sleep
 
 # Configurações
-LIMITE_ARQUIVOS_POR_LOTE = 8  # Quantidade de arquivos por lote
-NUM_THREADS = 3  # Número de threads para processar os lotes paralelamente
+LIMITE_ARQUIVOS_POR_LOTE = 5  # Quantidade de arquivos por lote
+NUM_THREADS = 6  # Número de threads para processar os lotes paralelamente
+NUM_ARQUIVOS_A_PROCESSAR = None  # Defina o número de arquivos que deseja processar ou coloque None para processar todos os arquivos.
 
 # Função para enviar arquivos para avaliação
 def enviar_arquivos_para_avaliacao(arquivos_txt, url):
@@ -99,10 +100,14 @@ def mesclar_com_servicos(servicos_df, resultados_df, output_file='resultados_fin
 # Função para processar os arquivos em lotes de forma paralela
 def processar_lotes(arquivos_txt, url, servicos_df):
     """
-    Processa os arquivos em lotes de 5 por vez e mescla os resultados com a planilha de serviços.
+    Processa os arquivos em lotes e mescla os resultados com a planilha de serviços.
     """
     lote_size = LIMITE_ARQUIVOS_POR_LOTE
     resultados = []
+
+    # Se NUM_ARQUIVOS_A_PROCESSAR não for None, limite o número de arquivos a serem processados
+    if NUM_ARQUIVOS_A_PROCESSAR is not None:
+        arquivos_txt = arquivos_txt[:NUM_ARQUIVOS_A_PROCESSAR]
 
     with ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
         futures = []
