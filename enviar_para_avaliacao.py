@@ -43,7 +43,7 @@ def enviar_arquivos_para_avaliacao(arquivos_txt, url):
         else:
             print(f"Erro ao enviar arquivos. Status code: {response.status_code}")
             return None
-    except Exception as e:
+    except requests.exceptions.RequestException as e:
         print(f"Erro ao enviar os arquivos: {e}")
         return None
 
@@ -93,7 +93,9 @@ def mesclar_com_servicos(servicos_df, resultados_df, output_file='resultados_fin
     # Mesclar com base no nome do arquivo
     resultados_finais = pd.merge(servicos_df, resultados_df, left_on='titulo', right_on='Nome do Arquivo', how='left')
     
-    # Salvar o arquivo final
+    # Salvar o arquivo final na pasta 'Planilhas'
+    os.makedirs('Planilhas', exist_ok=True)
+    output_file = os.path.join('Planilhas', output_file)
     resultados_finais.to_excel(output_file, index=False)
     print(f"Resultados finais mesclados e salvos em {output_file}")
 
@@ -142,7 +144,7 @@ def main():
     arquivos_txt = [f for f in os.listdir(pasta_servicos) if f.endswith('.txt')]
 
     # Carregar a planilha servicos.xlsx
-    servicos_df = pd.read_excel('servicos.xlsx')
+    servicos_df = pd.read_excel('Planilhas/servicos.xlsx')
 
     # Processar os lotes de arquivos
     processar_lotes(arquivos_txt, url_avaliacao, servicos_df)

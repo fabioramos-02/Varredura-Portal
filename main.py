@@ -2,6 +2,7 @@ from carregar import carregar_planilha
 from concurrent.futures import ThreadPoolExecutor
 from gerar_txt import processar_servico
 import pandas as pd
+import os
 
 # Função para orquestrar o processamento de todos os serviços
 def orquestrar_processamento_servicos(caminho_arquivo):
@@ -26,11 +27,11 @@ def orquestrar_processamento_servicos(caminho_arquivo):
                 total_falhas += 1
             total_processados += 1
 
-    # Gerar o arquivo de falhas
+    # Gerar o arquivo de falhas na pasta Planilhas
     if falhas:
         falhas_df = pd.DataFrame(falhas)
-        falhas_df.to_excel('falhas.xlsx', index=False)
-        print(f"{total_falhas} serviços falharam e foram registrados em 'falhas.xlsx'.")
+        falhas_df.to_excel(os.path.join('Planilhas', 'falhas.xlsx'), index=False)
+        print(f"{total_falhas} serviços falharam e foram registrados em 'Planilhas/falhas.xlsx'.")
     else:
         print("Todos os serviços foram processados com sucesso!")
 
@@ -41,5 +42,10 @@ def orquestrar_processamento_servicos(caminho_arquivo):
 
 # Executando a orquestração
 if __name__ == "__main__":
-    caminho_arquivo = "servicos.xlsx"  # Caminho para o arquivo da planilha
+    caminho_arquivo = "Planilhas/servicos.xlsx"  # Caminho para o arquivo da planilha
     orquestrar_processamento_servicos(caminho_arquivo)
+    # Contar a quantidade de arquivos gerados na pasta 'Servicos'
+    pasta_servicos = 'Servicos'
+    arquivos_gerados = len([nome for nome in os.listdir(pasta_servicos) if os.path.isfile(os.path.join(pasta_servicos, nome))])
+
+    print(f"Quantidade de arquivos gerados na pasta '{pasta_servicos}': {arquivos_gerados}")
